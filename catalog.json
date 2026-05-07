@@ -1,7 +1,26 @@
-[
+{
+  "source_urls": [
+    "https://www.officedepot.com/b/office-supplies/N-1676",
+    "https://www.officedepot.com/b/paper/N-530715",
+    "https://www.officedepot.com/b/furniture/N-917",
+    "https://www.officedepot.com/b/computers-and-accessories/N-1461888",
+    "https://www.officedepot.com/b/electronics/N-9021",
+    "https://www.officedepot.com/b/cleaning/N-530552"
+  ],
+  "extracted_at": "2026-05-01T19:56:44Z",
+  "categories_extracted": [
+    "Office Supplies",
+    "Paper",
+    "Furniture",
+    "Computers & Accessories",
+    "Electronics",
+    "Cleaning"
+  ],
+  "total_products": 226,
+  "products": [
     {
       "$id": "9385108",
-      "$title": "JAM Paper® Open-End 9\" x 12\" Envelopes, Gummed Seal, Brown Kraft, Pack Of 50",
+      "$title": "JAM Paper\u00ae Open-End 9\" x 12\" Envelopes, Gummed Seal, Brown Kraft, Pack Of 50",
       "$link": "https://www.officedepot.com/a/products/9385108/JAM-Paper-Open-End-9-x/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/9385108/JAM-Paper-Open-End-9-x",
@@ -16,11 +35,13 @@
         "Envelopes"
       ],
       "tags": [],
-      "$price": 15.99
+      "$price": 15.99,
+      "inventory_qty": 28,
+      "inventory_policy": 2
     },
     {
       "$id": "898782",
-      "$title": "USPS FOREVER® STAMPS, Coil of 100 Postage Stamps, Stamp Design May Vary",
+      "$title": "USPS FOREVER\u00ae STAMPS, Coil of 100 Postage Stamps, Stamp Design May Vary",
       "$link": "https://www.officedepot.com/a/products/898782/USPS-FOREVER-STAMPS-Coil-of-100/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/898782/1.jpg",
@@ -39,11 +60,13 @@
         "postage",
         "USPS"
       ],
-      "$price": 78.0
+      "$price": 78.0,
+      "inventory_qty": 6,
+      "inventory_policy": 1
     },
     {
       "$id": "633984",
-      "$title": "Office Depot® Brand #10 Security Envelopes, 4-1/8\" x 9-1/2\", Clean Seal, White",
+      "$title": "Office Depot\u00ae Brand #10 Security Envelopes, 4-1/8\" x 9-1/2\", Clean Seal, White",
       "$link": "https://www.officedepot.com/a/products/633984/Office-Depot-Brand-10-Security-Envelopes/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/633984/1.jpg",
@@ -62,7 +85,9 @@
         "envelopes",
         "#10"
       ],
-      "$price": 39.99
+      "$price": 39.99,
+      "inventory_qty": 70,
+      "inventory_policy": 2
     },
     {
       "$id": "938678",
@@ -85,11 +110,13 @@
         "label maker",
         "p-touch"
       ],
-      "$price": 34.99
+      "$price": 34.99,
+      "inventory_qty": 62,
+      "inventory_policy": 2
     },
     {
       "$id": "810838",
-      "$title": "Office Depot® Brand File Folders, 1/3 Cut, Letter Size, 30% Recycled, Manila",
+      "$title": "Office Depot\u00ae Brand File Folders, 1/3 Cut, Letter Size, 30% Recycled, Manila",
       "$link": "https://www.officedepot.com/a/products/810838/Office-Depot-Brand-File-Folders-13/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/810838/1.jpg",
@@ -108,11 +135,13 @@
         "recycled",
         "manila"
       ],
-      "$price": 22.89
+      "$price": 22.89,
+      "inventory_qty": 57,
+      "inventory_policy": 2
     },
     {
       "$id": "336977",
-      "$title": "Post-it® Super Sticky Notes, 3 in x 3 in, 24 Pads, 70 Sheets/Pad",
+      "$title": "Post-it\u00ae Super Sticky Notes, 3 in x 3 in, 24 Pads, 70 Sheets/Pad",
       "$link": "https://www.officedepot.com/a/products/336977/Post-it-Notes-Super-Sticky-Notes/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/336977/1.jpg",
@@ -131,11 +160,13 @@
         "sticky notes",
         "super sticky"
       ],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 35,
+      "inventory_policy": 2
     },
     {
       "$id": "364364",
-      "$title": "Avery® Easy Peel® Address Labels With Sure Feed® Technology, 5160, Rectangle, 1\" x 2-5/8\"",
+      "$title": "Avery\u00ae Easy Peel\u00ae Address Labels With Sure Feed\u00ae Technology, 5160, Rectangle, 1\" x 2-5/8\"",
       "$link": "https://www.officedepot.com/a/products/364364/Avery-Easy-Peel-Address-Labels-With/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/364364/1.jpg",
@@ -154,7 +185,9 @@
         "address labels",
         "5160"
       ],
-      "$price": 42.99
+      "$price": 42.99,
+      "inventory_qty": 26,
+      "inventory_policy": 2
     },
     {
       "$id": "8091365",
@@ -177,11 +210,13 @@
         "label maker",
         "handheld"
       ],
-      "$price": 24.99
+      "$price": 24.99,
+      "inventory_qty": 139,
+      "inventory_policy": 2
     },
     {
       "$id": "6275549",
-      "$title": "Office Depot® Brand Standard-Duty Corrugated Storage Boxes, Letter/Legal Size",
+      "$title": "Office Depot\u00ae Brand Standard-Duty Corrugated Storage Boxes, Letter/Legal Size",
       "$link": "https://www.officedepot.com/a/products/6275549/Office-Depot-Brand-Standard-Duty-Corrugated/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6275549/1.jpg",
@@ -200,11 +235,13 @@
         "corrugated",
         "filing"
       ],
-      "$price": 21.27
+      "$price": 21.27,
+      "inventory_qty": 22,
+      "inventory_policy": 1
     },
     {
       "$id": "679347",
-      "$title": "Office Depot® Brand #8 5/8 Security Envelopes, Double Window, 3-5/8\" x 8-5/8\"",
+      "$title": "Office Depot\u00ae Brand #8 5/8 Security Envelopes, Double Window, 3-5/8\" x 8-5/8\"",
       "$link": "https://www.officedepot.com/a/products/679347/Office-Depot-Brand-8-58-Security/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/679347/1.jpg",
@@ -223,11 +260,13 @@
         "double window",
         "envelopes"
       ],
-      "$price": 48.99
+      "$price": 48.99,
+      "inventory_qty": 108,
+      "inventory_policy": 2
     },
     {
       "$id": "645927",
-      "$title": "Office Depot® Brand File Folders, 1/3 Cut, Letter Size, Manila, Pack Of 250",
+      "$title": "Office Depot\u00ae Brand File Folders, 1/3 Cut, Letter Size, Manila, Pack Of 250",
       "$link": "https://www.officedepot.com/a/products/645927/Office-Depot-Brand-File-Folders-13/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/645927/1.jpg",
@@ -246,7 +285,9 @@
         "manila",
         "letter size"
       ],
-      "$price": 51.49
+      "$price": 51.49,
+      "inventory_qty": 8,
+      "inventory_policy": 2
     },
     {
       "$id": "381038",
@@ -269,11 +310,13 @@
         "label printer",
         "QL-800"
       ],
-      "$price": 124.99
+      "$price": 124.99,
+      "inventory_qty": 7,
+      "inventory_policy": 2
     },
     {
       "$id": "1230652",
-      "$title": "Post-it® Notes, 3 in x 3 in, 18 Pads, 100 Sheets/Pad",
+      "$title": "Post-it\u00ae Notes, 3 in x 3 in, 18 Pads, 100 Sheets/Pad",
       "$link": "https://www.officedepot.com/a/products/1230652/Post-it-Notes-3-in-x/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1230652/1.jpg",
@@ -291,11 +334,13 @@
         "post-it",
         "sticky notes"
       ],
-      "$price": 26.99
+      "$price": 26.99,
+      "inventory_qty": 23,
+      "inventory_policy": 2
     },
     {
       "$id": "7300391",
-      "$title": "Office Depot® Brand Durable View 3-Ring Binder, 1\" Round Rings, White, Pack Of 6",
+      "$title": "Office Depot\u00ae Brand Durable View 3-Ring Binder, 1\" Round Rings, White, Pack Of 6",
       "$link": "https://www.officedepot.com/a/products/7300391/Office-Depot-Brand-Durable-View-3/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7300391/1.jpg",
@@ -314,7 +359,9 @@
         "3-ring",
         "durable"
       ],
-      "$price": 38.79
+      "$price": 38.79,
+      "inventory_qty": 55,
+      "inventory_policy": 1
     },
     {
       "$id": "512950",
@@ -337,7 +384,9 @@
         "pre-inked",
         "same-day"
       ],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 59,
+      "inventory_policy": 2
     },
     {
       "$id": "277294",
@@ -360,11 +409,13 @@
         "label tape",
         "M-231"
       ],
-      "$price": 13.49
+      "$price": 13.49,
+      "inventory_qty": 129,
+      "inventory_policy": 2
     },
     {
       "$id": "951851",
-      "$title": "Realspace™ Magnetic Dry-Erase Whiteboard, 48\" x 72\", Silver Frame",
+      "$title": "Realspace\u2122 Magnetic Dry-Erase Whiteboard, 48\" x 72\", Silver Frame",
       "$link": "https://www.officedepot.com/a/products/951851/Realspace-Magnetic-Dry-Erase-Whiteboard-48/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/951851/1.jpg",
@@ -383,11 +434,13 @@
         "magnetic",
         "dry-erase"
       ],
-      "$price": 199.99
+      "$price": 199.99,
+      "inventory_qty": 6,
+      "inventory_policy": 1
     },
     {
       "$id": "679689",
-      "$title": "Office Depot® Brand #10 Security Envelopes, Double Window, 4-1/8\" x 9-1/2\"",
+      "$title": "Office Depot\u00ae Brand #10 Security Envelopes, Double Window, 4-1/8\" x 9-1/2\"",
       "$link": "https://www.officedepot.com/a/products/679689/Office-Depot-Brand-Security-Envelopes-Double/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/679689/1.jpg",
@@ -406,11 +459,13 @@
         "double window",
         "#10"
       ],
-      "$price": 57.99
+      "$price": 57.99,
+      "inventory_qty": 143,
+      "inventory_policy": 2
     },
     {
       "$id": "330808",
-      "$title": "Office Depot® Brand Manila Envelopes, 9\" x 12\", Clasp Closure, Brown Kraft",
+      "$title": "Office Depot\u00ae Brand Manila Envelopes, 9\" x 12\", Clasp Closure, Brown Kraft",
       "$link": "https://www.officedepot.com/a/products/330808/Office-Depot-Brand-Manila-Envelopes-9/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/330808/1.jpg",
@@ -429,11 +484,13 @@
         "clasp",
         "9x12"
       ],
-      "$price": 37.99
+      "$price": 37.99,
+      "inventory_qty": 50,
+      "inventory_policy": 2
     },
     {
       "$id": "1536505",
-      "$title": "JAM Paper® Open-End 9\" x 12\" Envelopes, Gummed Seal, Brown Kraft, Pack Of 100",
+      "$title": "JAM Paper\u00ae Open-End 9\" x 12\" Envelopes, Gummed Seal, Brown Kraft, Pack Of 100",
       "$link": "https://www.officedepot.com/a/products/1536505/JAM-Paper-Open-End-9-x/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/1536505/JAM-Paper-Open-End-9-x",
@@ -452,11 +509,13 @@
         "kraft",
         "9x12"
       ],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 139,
+      "inventory_policy": 2
     },
     {
       "$id": "618017",
-      "$title": "Post-it® Super Sticky Easel Pads, 25\" x 30\", 1 Pad, 30 Sheets/Pad",
+      "$title": "Post-it\u00ae Super Sticky Easel Pads, 25\" x 30\", 1 Pad, 30 Sheets/Pad",
       "$link": "https://www.officedepot.com/a/products/618017/Post-it-Super-Sticky-Easel-Pad/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/618017/1.jpg",
@@ -475,11 +534,13 @@
         "easel pad",
         "super sticky"
       ],
-      "$price": 32.49
+      "$price": 32.49,
+      "inventory_qty": 107,
+      "inventory_policy": 2
     },
     {
       "$id": "190294",
-      "$title": "Office Depot® Brand #9 Lift & Press™ Premium Security Envelopes, Double-Window",
+      "$title": "Office Depot\u00ae Brand #9 Lift & Press\u2122 Premium Security Envelopes, Double-Window",
       "$link": "https://www.officedepot.com/a/products/190294/Office-Depot-Brand-9-Lift-andamp/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/190294/1.jpg",
@@ -498,11 +559,13 @@
         "double window",
         "#9"
       ],
-      "$price": 79.99
+      "$price": 79.99,
+      "inventory_qty": 56,
+      "inventory_policy": 2
     },
     {
       "$id": "1390240",
-      "$title": "Sharpie® Permanent Fine-Point Markers, Black, Pack Of 36",
+      "$title": "Sharpie\u00ae Permanent Fine-Point Markers, Black, Pack Of 36",
       "$link": "https://www.officedepot.com/a/products/1390240/Sharpie-Permanent-Fine-Point-Markers-Black/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1390240/1.jpg",
@@ -521,11 +584,13 @@
         "permanent",
         "markers"
       ],
-      "$price": 24.99
+      "$price": 24.99,
+      "inventory_qty": 114,
+      "inventory_policy": 2
     },
     {
       "$id": "350960",
-      "$title": "Paper Mate® InkJoy® Gel Pens, Medium Point, 0.7 mm, Assorted Barrels, Assorted Ink",
+      "$title": "Paper Mate\u00ae InkJoy\u00ae Gel Pens, Medium Point, 0.7 mm, Assorted Barrels, Assorted Ink",
       "$link": "https://www.officedepot.com/a/products/350960/Paper-Mate-InkJoy-Gel-Pens-Medium/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/350960/1.jpg",
@@ -544,11 +609,13 @@
         "gel pens",
         "inkjoy"
       ],
-      "$price": 21.99
+      "$price": 21.99,
+      "inventory_qty": 150,
+      "inventory_policy": 2
     },
     {
       "$id": "330888",
-      "$title": "Office Depot® Brand Manila Envelopes, 10\" x 13\", Clasp Closure, Brown Kraft",
+      "$title": "Office Depot\u00ae Brand Manila Envelopes, 10\" x 13\", Clasp Closure, Brown Kraft",
       "$link": "https://www.officedepot.com/a/products/330888/Office-Depot-Brand-Manila-Envelopes-10/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/330888/1.jpg",
@@ -567,11 +634,13 @@
         "clasp",
         "10x13"
       ],
-      "$price": 39.99
+      "$price": 39.99,
+      "inventory_qty": 71,
+      "inventory_policy": 2
     },
     {
       "$id": "172816",
-      "$title": "Office Depot® Brand Economy File Folders, 1/3 Cut, Letter Size, Manila",
+      "$title": "Office Depot\u00ae Brand Economy File Folders, 1/3 Cut, Letter Size, Manila",
       "$link": "https://www.officedepot.com/a/products/172816/Office-Depot-Brand-Economy-File-Folders/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/172816/1.jpg",
@@ -590,7 +659,9 @@
         "economy",
         "manila"
       ],
-      "$price": 22.69
+      "$price": 22.69,
+      "inventory_qty": 1,
+      "inventory_policy": 2
     },
     {
       "$id": "826876",
@@ -613,11 +684,13 @@
         "correction tape",
         "BIC"
       ],
-      "$price": 17.99
+      "$price": 17.99,
+      "inventory_qty": 40,
+      "inventory_policy": 2
     },
     {
       "$id": "533591",
-      "$title": "JAM Paper® Open-End Catalog Envelopes, 10\" x 13\", Gummed Closure, Brown Kraft",
+      "$title": "JAM Paper\u00ae Open-End Catalog Envelopes, 10\" x 13\", Gummed Closure, Brown Kraft",
       "$link": "https://www.officedepot.com/a/products/533591/JAM-Paper-Open-End-Catalog-Envelopes/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/533591/JAM-Paper-Open-End-Catalog-Envelopes",
@@ -636,11 +709,13 @@
         "catalog envelopes",
         "10x13"
       ],
-      "$price": 29.29
+      "$price": 29.29,
+      "inventory_qty": 108,
+      "inventory_policy": 2
     },
     {
       "$id": "578448",
-      "$title": "Office Depot® Brand Loose-Fill Packing Peanuts, 5 Cu Ft",
+      "$title": "Office Depot\u00ae Brand Loose-Fill Packing Peanuts, 5 Cu Ft",
       "$link": "https://www.officedepot.com/a/products/578448/Office-Depot-Brand-Loose-Fill-Packing/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/578448/1.jpg",
@@ -659,11 +734,13 @@
         "shipping",
         "cushioning"
       ],
-      "$price": 19.99
+      "$price": 19.99,
+      "inventory_qty": 87,
+      "inventory_policy": 1
     },
     {
       "$id": "1451854",
-      "$title": "Scotch® Thermal Laminating Pouches, 8.9\" x 11.4\", 200 Laminating Sheets, 3 mil",
+      "$title": "Scotch\u00ae Thermal Laminating Pouches, 8.9\" x 11.4\", 200 Laminating Sheets, 3 mil",
       "$link": "https://www.officedepot.com/a/products/1451854/Scotch-Thermal-Laminating-Pouches-TP3854-200/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1451854/1.jpg",
@@ -682,11 +759,13 @@
         "laminating pouches",
         "thermal"
       ],
-      "$price": 34.99
+      "$price": 34.99,
+      "inventory_qty": 71,
+      "inventory_policy": 1
     },
     {
       "$id": "541545",
-      "$title": "USPS FOREVER® STAMPS, Booklet of 20 Postage Stamps, Stamp Design May Vary",
+      "$title": "USPS FOREVER\u00ae STAMPS, Booklet of 20 Postage Stamps, Stamp Design May Vary",
       "$link": "https://www.officedepot.com/a/products/541545/USPS-FOREVER-STAMPS-Booklet-of-20/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/541545/1.jpg",
@@ -706,7 +785,9 @@
         "USPS",
         "booklet"
       ],
-      "$price": 15.6
+      "$price": 15.6,
+      "inventory_qty": 39,
+      "inventory_policy": 1
     },
     {
       "$id": "5318188",
@@ -729,7 +810,9 @@
         "TZe-231",
         "label tape"
       ],
-      "$price": 68.99
+      "$price": 68.99,
+      "inventory_qty": 55,
+      "inventory_policy": 2
     },
     {
       "$id": "9817000",
@@ -753,7 +836,9 @@
         "gel pen",
         "retractable"
       ],
-      "$price": 44.99
+      "$price": 44.99,
+      "inventory_qty": 86,
+      "inventory_policy": 2
     },
     {
       "$id": "664011",
@@ -776,11 +861,13 @@
         "ballpoint",
         "round stic"
       ],
-      "$price": 6.99
+      "$price": 6.99,
+      "inventory_qty": 26,
+      "inventory_policy": 2
     },
     {
       "$id": "9730858",
-      "$title": "Avery® Full-Sheet Matte White Labels, AVE91200, Permanent",
+      "$title": "Avery\u00ae Full-Sheet Matte White Labels, AVE91200, Permanent",
       "$link": "https://www.officedepot.com/a/products/9730858/Avery-Full-Sheet-Matte-White-Labels/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9730858/1.jpg",
@@ -800,11 +887,13 @@
         "matte",
         "permanent"
       ],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 23,
+      "inventory_policy": 2
     },
     {
       "$id": "8258449",
-      "$title": "Avery® PermaTrack Durable Asset Tag Labels, 61526, 3/4\" x 1-1/2\"",
+      "$title": "Avery\u00ae PermaTrack Durable Asset Tag Labels, 61526, 3/4\" x 1-1/2\"",
       "$link": "https://www.officedepot.com/a/products/8258449/Avery-PermaTrack-Durable-Asset-Tag-Labels/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/8258449/1.jpg",
@@ -823,11 +912,13 @@
         "permatrack",
         "asset tags"
       ],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 97,
+      "inventory_policy": 2
     },
     {
       "$id": "9322761",
-      "$title": "Avery® PermaTrack Durable White Asset Tag Labels",
+      "$title": "Avery\u00ae PermaTrack Durable White Asset Tag Labels",
       "$link": "https://www.officedepot.com/a/products/9322761/Avery-PermaTrack-Durable-White-Asset-Tag/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9322761/1.jpg",
@@ -847,11 +938,13 @@
         "asset tags",
         "white"
       ],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 24,
+      "inventory_policy": 2
     },
     {
       "$id": "9529757",
-      "$title": "Avery® Glossy Permanent Labels With Sure Feed®, 94108-WGP100",
+      "$title": "Avery\u00ae Glossy Permanent Labels With Sure Feed\u00ae, 94108-WGP100",
       "$link": "https://www.officedepot.com/a/products/9529757/Avery-Glossy-Permanent-Labels-With-Sure/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9529757/1.jpg",
@@ -871,11 +964,13 @@
         "permanent",
         "sure feed"
       ],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 91,
+      "inventory_policy": 2
     },
     {
       "$id": "123438",
-      "$title": "JAM Paper® Card Stock, Strathmore Natural White Linen, Letter (8.5\" x 11\"), 80 lb",
+      "$title": "JAM Paper\u00ae Card Stock, Strathmore Natural White Linen, Letter (8.5\" x 11\"), 80 lb",
       "$link": "https://www.officedepot.com/a/products/123438/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/123438/1.jpg",
@@ -889,11 +984,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 19.99
+      "$price": 19.99,
+      "inventory_qty": 88,
+      "inventory_policy": 2
     },
     {
       "$id": "196517",
-      "$title": "Boise® X-9® Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Boise\u00ae X-9\u00ae Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/196517/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/196517/1.jpg",
@@ -907,11 +1004,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 48.99
+      "$price": 48.99,
+      "inventory_qty": 67,
+      "inventory_policy": 2
     },
     {
       "$id": "348037",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/348037/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/348037/1.jpg",
@@ -925,11 +1024,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 48.99
+      "$price": 48.99,
+      "inventory_qty": 11,
+      "inventory_policy": 2
     },
     {
       "$id": "415601",
-      "$title": "JAM Paper® Cover Card Stock, 8 1/2\" x 11\", 80 Lb, Strathmore Natural White Wove",
+      "$title": "JAM Paper\u00ae Cover Card Stock, 8 1/2\" x 11\", 80 Lb, Strathmore Natural White Wove",
       "$link": "https://www.officedepot.com/a/products/415601/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/415601/1.jpg",
@@ -943,11 +1044,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 29.69
+      "$price": 29.69,
+      "inventory_qty": 117,
+      "inventory_policy": 2
     },
     {
       "$id": "347005",
-      "$title": "Hammermill® Copy Plus® Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Hammermill\u00ae Copy Plus\u00ae Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/347005/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/347005/1.jpg",
@@ -961,11 +1064,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 62.99
+      "$price": 62.99,
+      "inventory_qty": 137,
+      "inventory_policy": 2
     },
     {
       "$id": "617206",
-      "$title": "Office Depot® ImagePrint® Multi-Use Printer & Copy Paper, 10 Reams, White, Letter",
+      "$title": "Office Depot\u00ae ImagePrint\u00ae Multi-Use Printer & Copy Paper, 10 Reams, White, Letter",
       "$link": "https://www.officedepot.com/a/products/617206/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/617206/1.jpg",
@@ -979,11 +1084,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 62.99
+      "$price": 62.99,
+      "inventory_qty": 31,
+      "inventory_policy": 2
     },
     {
       "$id": "5065656",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 3 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 3 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/5065656/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5065656/1.jpg",
@@ -997,11 +1104,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 69.99
+      "$price": 69.99,
+      "inventory_qty": 96,
+      "inventory_policy": 2
     },
     {
       "$id": "6886753",
-      "$title": "JAM Paper® Legal Card Stock, Natural Parchment, Legal (8.5\" x 14\")",
+      "$title": "JAM Paper\u00ae Legal Card Stock, Natural Parchment, Legal (8.5\" x 14\")",
       "$link": "https://www.officedepot.com/a/products/6886753/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6886753/1.jpg",
@@ -1015,11 +1124,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 33.99
+      "$price": 33.99,
+      "inventory_qty": 20,
+      "inventory_policy": 2
     },
     {
       "$id": "925382",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 3 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 3 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/925382/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/925382/1.jpg",
@@ -1033,11 +1144,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 25.99
+      "$price": 25.99,
+      "inventory_qty": 141,
+      "inventory_policy": 2
     },
     {
       "$id": "876860",
-      "$title": "Office Depot® Inkjet Or Laser Paper, 3 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Inkjet Or Laser Paper, 3 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/876860/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/876860/1.jpg",
@@ -1051,11 +1164,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 45.99
+      "$price": 45.99,
+      "inventory_qty": 75,
+      "inventory_policy": 2
     },
     {
       "$id": "358955",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 8 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 8 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/358955/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/358955/1.jpg",
@@ -1069,11 +1184,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 45.99
+      "$price": 45.99,
+      "inventory_qty": 92,
+      "inventory_policy": 2
     },
     {
       "$id": "417248",
-      "$title": "JAM Paper® Card Stock, Strathmore Natural White Laid, Letter (8.5\" x 11\"), 80 lb",
+      "$title": "JAM Paper\u00ae Card Stock, Strathmore Natural White Laid, Letter (8.5\" x 11\"), 80 lb",
       "$link": "https://www.officedepot.com/a/products/417248/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/417248/1.jpg",
@@ -1087,11 +1204,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 37.19
+      "$price": 37.19,
+      "inventory_qty": 147,
+      "inventory_policy": 2
     },
     {
       "$id": "887614",
-      "$title": "Office Depot® ImagePrint® Multi-Use Printer & Copy Paper, 5 Reams, White, Letter",
+      "$title": "Office Depot\u00ae ImagePrint\u00ae Multi-Use Printer & Copy Paper, 5 Reams, White, Letter",
       "$link": "https://www.officedepot.com/a/products/887614/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/887614/1.jpg",
@@ -1105,11 +1224,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 49,
+      "inventory_policy": 2
     },
     {
       "$id": "275474",
-      "$title": "Xerox® Vitality™ Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Xerox\u00ae Vitality\u2122 Multi-Use Printer & Copy Paper, 10 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/275474/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/275474/1.jpg",
@@ -1123,11 +1244,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 62.99
+      "$price": 62.99,
+      "inventory_qty": 17,
+      "inventory_policy": 2
     },
     {
       "$id": "503222",
-      "$title": "Post-it® Super Sticky Pop-Up Notes, 3 in x 3 in, 16 Pads, 90 Sheets/Pad",
+      "$title": "Post-it\u00ae Super Sticky Pop-Up Notes, 3 in x 3 in, 16 Pads, 90 Sheets/Pad",
       "$link": "https://www.officedepot.com/a/products/503222/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/503222/1.jpg",
@@ -1141,11 +1264,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 25.99
+      "$price": 25.99,
+      "inventory_qty": 11,
+      "inventory_policy": 2
     },
     {
       "$id": "478342",
-      "$title": "JAM Paper® Color Multi-Use Printer & Copy Paper, Teal Blue, Letter (8.5\" x 11\")",
+      "$title": "JAM Paper\u00ae Color Multi-Use Printer & Copy Paper, Teal Blue, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/478342/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/478342/1.jpg",
@@ -1159,11 +1284,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 29.69
+      "$price": 29.69,
+      "inventory_qty": 58,
+      "inventory_policy": 2
     },
     {
       "$id": "8648150",
-      "$title": "Post-it® Super Sticky Recycled Notes, 24 Pads, 3 in x 3 in, 70 Sheets/Pad",
+      "$title": "Post-it\u00ae Super Sticky Recycled Notes, 24 Pads, 3 in x 3 in, 70 Sheets/Pad",
       "$link": "https://www.officedepot.com/a/products/8648150/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8648150/1.jpg",
@@ -1177,11 +1304,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 24.99
+      "$price": 24.99,
+      "inventory_qty": 74,
+      "inventory_policy": 2
     },
     {
       "$id": "420283",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 1 Ream, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 1 Ream, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/420283/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/420283/1.jpg",
@@ -1195,11 +1324,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 8.99
+      "$price": 8.99,
+      "inventory_qty": 20,
+      "inventory_policy": 2
     },
     {
       "$id": "332063",
-      "$title": "Boise® X-9® Multi-Use Printer & Copy Paper, 1 Ream, White, Letter (8.5\" x 11\")",
+      "$title": "Boise\u00ae X-9\u00ae Multi-Use Printer & Copy Paper, 1 Ream, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/332063/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/332063/1.jpg",
@@ -1213,11 +1344,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 8.99
+      "$price": 8.99,
+      "inventory_qty": 59,
+      "inventory_policy": 2
     },
     {
       "$id": "6887924",
-      "$title": "JAM Paper® Card Stock, Strathmore Bright White Wove, Letter (8.5\" x 11\"), 96 lb",
+      "$title": "JAM Paper\u00ae Card Stock, Strathmore Bright White Wove, Letter (8.5\" x 11\"), 96 lb",
       "$link": "https://www.officedepot.com/a/products/6887924/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6887924/1.jpg",
@@ -1231,7 +1364,9 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 44.49
+      "$price": 44.49,
+      "inventory_qty": 25,
+      "inventory_policy": 2
     },
     {
       "$id": "3798345",
@@ -1249,11 +1384,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 39.99
+      "$price": 39.99,
+      "inventory_qty": 97,
+      "inventory_policy": 2
     },
     {
       "$id": "442306",
-      "$title": "Office Depot® Brand Sticky Notes, 1-1/2\" x 2\", Yellow, 100 Sheets/Pad, Pack Of 12",
+      "$title": "Office Depot\u00ae Brand Sticky Notes, 1-1/2\" x 2\", Yellow, 100 Sheets/Pad, Pack Of 12",
       "$link": "https://www.officedepot.com/a/products/442306/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/442306/1.jpg",
@@ -1267,11 +1404,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 6.99
+      "$price": 6.99,
+      "inventory_qty": 71,
+      "inventory_policy": 2
     },
     {
       "$id": "268091",
-      "$title": "Office Depot® Brand Glue-Top Legal Pads, 8 1/2\" x 11\", Wide Ruled, 50 Sheets, Yellow",
+      "$title": "Office Depot\u00ae Brand Glue-Top Legal Pads, 8 1/2\" x 11\", Wide Ruled, 50 Sheets, Yellow",
       "$link": "https://www.officedepot.com/a/products/268091/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/268091/1.jpg",
@@ -1285,11 +1424,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 15.99
+      "$price": 15.99,
+      "inventory_qty": 116,
+      "inventory_policy": 2
     },
     {
       "$id": "742013",
-      "$title": "JAM Paper® Color Multi-Use Printer & Copy Paper, Black, Letter (8.5\" x 11\")",
+      "$title": "JAM Paper\u00ae Color Multi-Use Printer & Copy Paper, Black, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/742013/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/742013/1.jpg",
@@ -1303,11 +1444,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 27.99
+      "$price": 27.99,
+      "inventory_qty": 93,
+      "inventory_policy": 2
     },
     {
       "$id": "307744",
-      "$title": "Office Depot® Brand Scratch Pads, 4\" x 6\", Unruled, Glue Top, 100 Sheets, Pack Of 12",
+      "$title": "Office Depot\u00ae Brand Scratch Pads, 4\" x 6\", Unruled, Glue Top, 100 Sheets, Pack Of 12",
       "$link": "https://www.officedepot.com/a/products/307744/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/307744/1.jpg",
@@ -1321,11 +1464,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 10.99
+      "$price": 10.99,
+      "inventory_qty": 41,
+      "inventory_policy": 2
     },
     {
       "$id": "895391",
-      "$title": "Boise® X-9® Multi-Use Printer & Copy Paper, 400 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Boise\u00ae X-9\u00ae Multi-Use Printer & Copy Paper, 400 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/895391/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/895391/1.jpg",
@@ -1339,11 +1484,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 1899.99
+      "$price": 1899.99,
+      "inventory_qty": 94,
+      "inventory_policy": 2
     },
     {
       "$id": "268671",
-      "$title": "Office Depot® Brand Glue-Top Legal Pads, 8 1/2\" x 11\", College Ruled, 50 Sheets, White",
+      "$title": "Office Depot\u00ae Brand Glue-Top Legal Pads, 8 1/2\" x 11\", College Ruled, 50 Sheets, White",
       "$link": "https://www.officedepot.com/a/products/268671/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/268671/1.jpg",
@@ -1357,11 +1504,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 15.99
+      "$price": 15.99,
+      "inventory_qty": 90,
+      "inventory_policy": 2
     },
     {
       "$id": "532452",
-      "$title": "JAM Paper® Card Stock, Brown Kraft, Letter (8.5\" x 11\"), 65 lb",
+      "$title": "JAM Paper\u00ae Card Stock, Brown Kraft, Letter (8.5\" x 11\"), 65 lb",
       "$link": "https://www.officedepot.com/a/products/532452/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/532452/1.jpg",
@@ -1375,11 +1524,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 34.39
+      "$price": 34.39,
+      "inventory_qty": 53,
+      "inventory_policy": 2
     },
     {
       "$id": "843787",
-      "$title": "Office Depot® Brand Pop Up Sticky Notes, 3\" x 3\", Yellow, 90 Sheets/Pad, Pack Of 6",
+      "$title": "Office Depot\u00ae Brand Pop Up Sticky Notes, 3\" x 3\", Yellow, 90 Sheets/Pad, Pack Of 6",
       "$link": "https://www.officedepot.com/a/products/843787/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/843787/1.jpg",
@@ -1393,11 +1544,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 13.99
+      "$price": 13.99,
+      "inventory_qty": 68,
+      "inventory_policy": 2
     },
     {
       "$id": "940643",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 5 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 5 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/940643/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/940643/1.jpg",
@@ -1411,11 +1564,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 65.19
+      "$price": 65.19,
+      "inventory_qty": 18,
+      "inventory_policy": 2
     },
     {
       "$id": "443296",
-      "$title": "Office Depot® Brand Sticky Notes, 3\" x 5\", Yellow, 100 Sheets/Pad, Pack Of 12",
+      "$title": "Office Depot\u00ae Brand Sticky Notes, 3\" x 5\", Yellow, 100 Sheets/Pad, Pack Of 12",
       "$link": "https://www.officedepot.com/a/products/443296/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/443296/1.jpg",
@@ -1429,11 +1584,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 19.99
+      "$price": 19.99,
+      "inventory_qty": 43,
+      "inventory_policy": 2
     },
     {
       "$id": "8092932",
-      "$title": "JAM Paper® Vellum Bristol Card Stock, White, Legal (8.5\" x 14\"), 67 lb",
+      "$title": "JAM Paper\u00ae Vellum Bristol Card Stock, White, Legal (8.5\" x 14\"), 67 lb",
       "$link": "https://www.officedepot.com/a/products/8092932/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8092932/1.jpg",
@@ -1447,11 +1604,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 31.99
+      "$price": 31.99,
+      "inventory_qty": 136,
+      "inventory_policy": 2
     },
     {
       "$id": "536648",
-      "$title": "Office Depot® Multi-Use Printer & Copy Paper, 5 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Office Depot\u00ae Multi-Use Printer & Copy Paper, 5 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/536648/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/536648/1.jpg",
@@ -1465,11 +1624,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 91.99
+      "$price": 91.99,
+      "inventory_qty": 62,
+      "inventory_policy": 2
     },
     {
       "$id": "neenah-premium-card-stock-bright-white-letter-8-5",
-      "$title": "Neenah® Premium Card Stock, Bright White, Letter (8.5\" x 11\"), 80 lb",
+      "$title": "Neenah\u00ae Premium Card Stock, Bright White, Letter (8.5\" x 11\"), 80 lb",
       "$link": "https://www.officedepot.com/a/products/neenah-premium-card-stock-bright-white-letter-8-5/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -1483,7 +1644,9 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 32.49
+      "$price": 32.49,
+      "inventory_qty": 41,
+      "inventory_policy": 2
     },
     {
       "$id": "neenah-exact-index-premium-card-stock-8-5-x-11-110",
@@ -1501,11 +1664,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": 27.59
+      "$price": 27.59,
+      "inventory_qty": 118,
+      "inventory_policy": 2
     },
     {
       "$id": "tul-discbound-refill-pages-8-1-2-x-11-narrow",
-      "$title": "TUL® Discbound Refill Pages, 8-1/2\" x 11\", Narrow Ruled",
+      "$title": "TUL\u00ae Discbound Refill Pages, 8-1/2\" x 11\", Narrow Ruled",
       "$link": "https://www.officedepot.com/a/products/tul-discbound-refill-pages-8-1-2-x-11-narrow/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -1519,7 +1684,9 @@
         "Paper"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 97,
+      "inventory_policy": 2
     },
     {
       "$id": "sparco-notebook-filler-paper-letter-200",
@@ -1537,7 +1704,9 @@
         "Paper"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 69,
+      "inventory_policy": 2
     },
     {
       "$id": "double-a-everyday-multi-use-printer-copy-paper",
@@ -1555,11 +1724,13 @@
         "Paper"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 142,
+      "inventory_policy": 2
     },
     {
       "$id": "hammermill-premium-laser-paper-320-reams-white-let",
-      "$title": "Hammermill® Premium Laser Paper, 320 Reams, White, Letter (8.5\" x 11\")",
+      "$title": "Hammermill\u00ae Premium Laser Paper, 320 Reams, White, Letter (8.5\" x 11\")",
       "$link": "https://www.officedepot.com/a/products/hammermill-premium-laser-paper-320-reams-white-let/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -1573,7 +1744,9 @@
         "Paper"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 56,
+      "inventory_policy": 2
     },
     {
       "$id": "7610804",
@@ -1591,11 +1764,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 189.99
+      "$price": 189.99,
+      "inventory_qty": 83,
+      "inventory_policy": 1
     },
     {
       "$id": "9003237",
-      "$title": "Serta® Smart Layers™ Brinkley Ergonomic Bonded Leather High-Back Executive Chair",
+      "$title": "Serta\u00ae Smart Layers\u2122 Brinkley Ergonomic Bonded Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/9003237/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9003237/1.jpg",
@@ -1609,11 +1784,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 359.99
+      "$price": 359.99,
+      "inventory_qty": 14,
+      "inventory_policy": 2
     },
     {
       "$id": "7380260",
-      "$title": "Shaquille O'Neal™ Maximos Big & Tall Ergonomic Vegan Leather High-Back Gaming Chair",
+      "$title": "Shaquille O'Neal\u2122 Maximos Big & Tall Ergonomic Vegan Leather High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/7380260/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7380260/1.jpg",
@@ -1627,7 +1804,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 469.99
+      "$price": 469.99,
+      "inventory_qty": 58,
+      "inventory_policy": 1
     },
     {
       "$id": "8802103",
@@ -1645,11 +1824,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 169.99
+      "$price": 169.99,
+      "inventory_qty": 8,
+      "inventory_policy": 2
     },
     {
       "$id": "5094761",
-      "$title": "Serta® SmartLayers™ Everett Big & Tall Ergonomic Vegan Leather High-Back Executive Chair",
+      "$title": "Serta\u00ae SmartLayers\u2122 Everett Big & Tall Ergonomic Vegan Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/5094761/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5094761/1.jpg",
@@ -1663,11 +1844,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 399.99
+      "$price": 399.99,
+      "inventory_qty": 80,
+      "inventory_policy": 1
     },
     {
       "$id": "604924",
-      "$title": "WorkPro® 1000 Series Ergonomic Mesh/Mesh Mid-Back Task Chair, Black",
+      "$title": "WorkPro\u00ae 1000 Series Ergonomic Mesh/Mesh Mid-Back Task Chair, Black",
       "$link": "https://www.officedepot.com/a/products/604924/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/604924/1.jpg",
@@ -1681,11 +1864,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 219.99
+      "$price": 219.99,
+      "inventory_qty": 102,
+      "inventory_policy": 1
     },
     {
       "$id": "8366363",
-      "$title": "Shaquille O'Neal™ Sciron Big & Tall Ergonomic High-Back Gaming Chair",
+      "$title": "Shaquille O'Neal\u2122 Sciron Big & Tall Ergonomic High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/8366363/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8366363/1.jpg",
@@ -1699,7 +1884,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 529.99
+      "$price": 529.99,
+      "inventory_qty": 68,
+      "inventory_policy": 1
     },
     {
       "$id": "9181888",
@@ -1717,11 +1904,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 54.99
+      "$price": 54.99,
+      "inventory_qty": 16,
+      "inventory_policy": 1
     },
     {
       "$id": "4983432",
-      "$title": "Serta® iComfort i6000 Big & Tall Ergonomic Bonded Leather High-Back Executive Chair",
+      "$title": "Serta\u00ae iComfort i6000 Big & Tall Ergonomic Bonded Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/4983432/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4983432/1.jpg",
@@ -1735,11 +1924,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 629.99
+      "$price": 629.99,
+      "inventory_qty": 54,
+      "inventory_policy": 1
     },
     {
       "$id": "956652",
-      "$title": "Realspace® Magellan Performance 71\"W L-Shaped Corner Desk, Gray",
+      "$title": "Realspace\u00ae Magellan Performance 71\"W L-Shaped Corner Desk, Gray",
       "$link": "https://www.officedepot.com/a/products/956652/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/956652/1.jpg",
@@ -1753,11 +1944,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 489.99
+      "$price": 489.99,
+      "inventory_qty": 145,
+      "inventory_policy": 1
     },
     {
       "$id": "7011513",
-      "$title": "Shaquille O'Neal™ Amphion Ergonomic Bonded Leather High-Back Gaming Chair",
+      "$title": "Shaquille O'Neal\u2122 Amphion Ergonomic Bonded Leather High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/7011513/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7011513/1.jpg",
@@ -1771,7 +1964,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 80,
+      "inventory_policy": 1
     },
     {
       "$id": "7033410",
@@ -1789,11 +1984,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 169.99
+      "$price": 169.99,
+      "inventory_qty": 54,
+      "inventory_policy": 2
     },
     {
       "$id": "8938140",
-      "$title": "RS Gaming™ Eonix Ergonomic Mesh/Vegan Leather High-Back Gaming Chair",
+      "$title": "RS Gaming\u2122 Eonix Ergonomic Mesh/Vegan Leather High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/8938140/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8938140/1.jpg",
@@ -1807,11 +2004,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 269.99
+      "$price": 269.99,
+      "inventory_qty": 127,
+      "inventory_policy": 1
     },
     {
       "$id": "7282832",
-      "$title": "Serta® SmartLayers™ Everett Big & Tall Ergonomic Vegan Leather High-Back Chair, Black",
+      "$title": "Serta\u00ae SmartLayers\u2122 Everett Big & Tall Ergonomic Vegan Leather High-Back Chair, Black",
       "$link": "https://www.officedepot.com/a/products/7282832/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7282832/1.jpg",
@@ -1825,11 +2024,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 399.99
+      "$price": 399.99,
+      "inventory_qty": 101,
+      "inventory_policy": 1
     },
     {
       "$id": "7728760",
-      "$title": "Shaquille O'Neal™ Maximos Big & Tall Ergonomic Vegan Leather High-Back Chair, White",
+      "$title": "Shaquille O'Neal\u2122 Maximos Big & Tall Ergonomic Vegan Leather High-Back Chair, White",
       "$link": "https://www.officedepot.com/a/products/7728760/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7728760/1.jpg",
@@ -1843,7 +2044,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 469.99
+      "$price": 469.99,
+      "inventory_qty": 117,
+      "inventory_policy": 1
     },
     {
       "$id": "7912680",
@@ -1861,7 +2064,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 139.99
+      "$price": 139.99,
+      "inventory_qty": 36,
+      "inventory_policy": 1
     },
     {
       "$id": "8179855",
@@ -1879,11 +2084,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 129.99
+      "$price": 129.99,
+      "inventory_qty": 67,
+      "inventory_policy": 1
     },
     {
       "$id": "6511328",
-      "$title": "Serta® iComfort i6000 Big & Tall Ergonomic Bonded Leather High-Back Chair, Black",
+      "$title": "Serta\u00ae iComfort i6000 Big & Tall Ergonomic Bonded Leather High-Back Chair, Black",
       "$link": "https://www.officedepot.com/a/products/6511328/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6511328/1.jpg",
@@ -1897,11 +2104,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 629.99
+      "$price": 629.99,
+      "inventory_qty": 35,
+      "inventory_policy": 1
     },
     {
       "$id": "7093194",
-      "$title": "RS Gaming™ Chronos 66\"W Height-Adjustable Gaming Desk with LED Lighting",
+      "$title": "RS Gaming\u2122 Chronos 66\"W Height-Adjustable Gaming Desk with LED Lighting",
       "$link": "https://www.officedepot.com/a/products/7093194/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7093194/1.jpg",
@@ -1915,7 +2124,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 699.99
+      "$price": 699.99,
+      "inventory_qty": 63,
+      "inventory_policy": 1
     },
     {
       "$id": "6276910",
@@ -1933,11 +2144,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 49.99
+      "$price": 49.99,
+      "inventory_qty": 143,
+      "inventory_policy": 1
     },
     {
       "$id": "3763955",
-      "$title": "Realspace® 48\"W Essential Electric Height Adjustable Standing Desk",
+      "$title": "Realspace\u00ae 48\"W Essential Electric Height Adjustable Standing Desk",
       "$link": "https://www.officedepot.com/a/products/3763955/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3763955/1.jpg",
@@ -1951,11 +2164,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 189.99
+      "$price": 189.99,
+      "inventory_qty": 137,
+      "inventory_policy": 1
     },
     {
       "$id": "7983472",
-      "$title": "Serta® SitTrue™ Riverdale Ergonomic Mesh/Fabric High-Back Task Chair",
+      "$title": "Serta\u00ae SitTrue\u2122 Riverdale Ergonomic Mesh/Fabric High-Back Task Chair",
       "$link": "https://www.officedepot.com/a/products/7983472/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7983472/1.jpg",
@@ -1969,11 +2184,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 279.99
+      "$price": 279.99,
+      "inventory_qty": 67,
+      "inventory_policy": 1
     },
     {
       "$id": "9393644",
-      "$title": "Serta® Smart Layers™ Brinkley Ergonomic Bonded Leather High-Back Chair, Brown",
+      "$title": "Serta\u00ae Smart Layers\u2122 Brinkley Ergonomic Bonded Leather High-Back Chair, Brown",
       "$link": "https://www.officedepot.com/a/products/9393644/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9393644/1.jpg",
@@ -1987,7 +2204,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 359.99
+      "$price": 359.99,
+      "inventory_qty": 149,
+      "inventory_policy": 2
     },
     {
       "$id": "4366424",
@@ -2005,11 +2224,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 359.99
+      "$price": 359.99,
+      "inventory_qty": 109,
+      "inventory_policy": 1
     },
     {
       "$id": "7791478",
-      "$title": "Shaquille O'Neal™ Zethus Ergonomic Bonded Leather High-Back Gaming Chair",
+      "$title": "Shaquille O'Neal\u2122 Zethus Ergonomic Bonded Leather High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/7791478/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7791478/1.jpg",
@@ -2023,11 +2244,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 399.99
+      "$price": 399.99,
+      "inventory_qty": 149,
+      "inventory_policy": 1
     },
     {
       "$id": "9579648",
-      "$title": "WorkPro® Sentrix Ergonomic Mesh/Mesh Mid-Back Manager Office Chair",
+      "$title": "WorkPro\u00ae Sentrix Ergonomic Mesh/Mesh Mid-Back Manager Office Chair",
       "$link": "https://www.officedepot.com/a/products/9579648/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9579648/1.jpg",
@@ -2041,11 +2264,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 149.99
+      "$price": 149.99,
+      "inventory_qty": 102,
+      "inventory_policy": 1
     },
     {
       "$id": "8506007",
-      "$title": "Realspace® Modern Comfort Pizana Bouclé Fabric High-Back Executive Chair",
+      "$title": "Realspace\u00ae Modern Comfort Pizana Boucl\u00e9 Fabric High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/8506007/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8506007/1.jpg",
@@ -2059,7 +2284,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 319.99
+      "$price": 319.99,
+      "inventory_qty": 92,
+      "inventory_policy": 1
     },
     {
       "$id": "6181674",
@@ -2077,11 +2304,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 249.99
+      "$price": 249.99,
+      "inventory_qty": 56,
+      "inventory_policy": 1
     },
     {
       "$id": "7134573",
-      "$title": "Serta® iComfort i6000 Ergonomic Bonded Leather High-Back Executive Chair",
+      "$title": "Serta\u00ae iComfort i6000 Ergonomic Bonded Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/7134573/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7134573/1.jpg",
@@ -2095,11 +2324,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 35,
+      "inventory_policy": 1
     },
     {
       "$id": "388262",
-      "$title": "Realspace® Modern Comfort Winsley Bonded Leather Mid-Back Manager Chair",
+      "$title": "Realspace\u00ae Modern Comfort Winsley Bonded Leather Mid-Back Manager Chair",
       "$link": "https://www.officedepot.com/a/products/388262/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/388262/1.jpg",
@@ -2113,11 +2344,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 249.99
+      "$price": 249.99,
+      "inventory_qty": 130,
+      "inventory_policy": 1
     },
     {
       "$id": "9550554",
-      "$title": "RS Gaming™ Saphira Ergonomic Fabric/Vegan Leather High-Back Gaming Chair",
+      "$title": "RS Gaming\u2122 Saphira Ergonomic Fabric/Vegan Leather High-Back Gaming Chair",
       "$link": "https://www.officedepot.com/a/products/9550554/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9550554/1.jpg",
@@ -2131,7 +2364,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 126,
+      "inventory_policy": 1
     },
     {
       "$id": "7695097",
@@ -2149,11 +2384,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 289.99
+      "$price": 289.99,
+      "inventory_qty": 23,
+      "inventory_policy": 1
     },
     {
       "$id": "956697",
-      "$title": "Realspace® Magellan Performance 71\"W L-Shaped Corner Desk, Classic Cherry",
+      "$title": "Realspace\u00ae Magellan Performance 71\"W L-Shaped Corner Desk, Classic Cherry",
       "$link": "https://www.officedepot.com/a/products/956697/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/956697/1.jpg",
@@ -2167,11 +2404,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 489.99
+      "$price": 489.99,
+      "inventory_qty": 12,
+      "inventory_policy": 1
     },
     {
       "$id": "workpro-uomo-ergonomic-mesh-fabric-mid-back-office",
-      "$title": "WorkPro® Uomo Ergonomic Mesh/Fabric Mid-Back Office Chair",
+      "$title": "WorkPro\u00ae Uomo Ergonomic Mesh/Fabric Mid-Back Office Chair",
       "$link": "https://www.officedepot.com/a/products/workpro-uomo-ergonomic-mesh-fabric-mid-back-office/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2185,7 +2424,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 249.99
+      "$price": 249.99,
+      "inventory_qty": 28,
+      "inventory_policy": 1
     },
     {
       "$id": "lorell-soft-high-back-executive-office-chair-black",
@@ -2203,11 +2444,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 39,
+      "inventory_policy": 1
     },
     {
       "$id": "serta-smart-layers-arlington-air-bonded-leather-hi",
-      "$title": "Serta® Smart Layers™ Arlington AIR™ Bonded Leather High-Back Executive Chair",
+      "$title": "Serta\u00ae Smart Layers\u2122 Arlington AIR\u2122 Bonded Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/serta-smart-layers-arlington-air-bonded-leather-hi/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2221,11 +2464,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 40,
+      "inventory_policy": 1
     },
     {
       "$id": "realspace-treswell-bonded-leather-high-back-execut",
-      "$title": "Realspace® Treswell Bonded Leather High-Back Executive Chair",
+      "$title": "Realspace\u00ae Treswell Bonded Leather High-Back Executive Chair",
       "$link": "https://www.officedepot.com/a/products/realspace-treswell-bonded-leather-high-back-execut/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2239,7 +2484,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 108,
+      "inventory_policy": 1
     },
     {
       "$id": "2336442",
@@ -2257,7 +2504,9 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 159.99
+      "$price": 159.99,
+      "inventory_qty": 16,
+      "inventory_policy": 1
     },
     {
       "$id": "6236540",
@@ -2275,11 +2524,13 @@
         "Furniture"
       ],
       "tags": [],
-      "$price": 319.99
+      "$price": 319.99,
+      "inventory_qty": 98,
+      "inventory_policy": 1
     },
     {
       "$id": "7315017",
-      "$title": "Lenovo® IdeaPad 1i 14 Laptop, 14\" Screen, Intel® Pentium® Gold Processor",
+      "$title": "Lenovo\u00ae IdeaPad 1i 14 Laptop, 14\" Screen, Intel\u00ae Pentium\u00ae Gold Processor",
       "$link": "https://www.officedepot.com/a/products/7315017/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7315017/1.jpg",
@@ -2293,11 +2544,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 319.99
+      "$price": 319.99,
+      "inventory_qty": 97,
+      "inventory_policy": 2
     },
     {
       "$id": "9800358",
-      "$title": "Logitech® MK540 Advanced Wireless Keyboard and Mouse Combo",
+      "$title": "Logitech\u00ae MK540 Advanced Wireless Keyboard and Mouse Combo",
       "$link": "https://www.officedepot.com/a/products/9800358/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9800358/1.jpg",
@@ -2311,7 +2564,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 59.99
+      "$price": 59.99,
+      "inventory_qty": 119,
+      "inventory_policy": 1
     },
     {
       "$id": "5612889",
@@ -2329,11 +2584,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 69.99
+      "$price": 69.99,
+      "inventory_qty": 135,
+      "inventory_policy": 1
     },
     {
       "$id": "1511391",
-      "$title": "Lenovo A100 All-in-One Desktop PC, 23.8\" Screen, Intel® Core™ i5",
+      "$title": "Lenovo A100 All-in-One Desktop PC, 23.8\" Screen, Intel\u00ae Core\u2122 i5",
       "$link": "https://www.officedepot.com/a/products/1511391/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1511391/1.jpg",
@@ -2347,11 +2604,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 659.99
+      "$price": 659.99,
+      "inventory_qty": 64,
+      "inventory_policy": 1
     },
     {
       "$id": "8948010",
-      "$title": "Logitech® H390 Wired On-Ear Headset For PC/Laptop, Rose Gold",
+      "$title": "Logitech\u00ae H390 Wired On-Ear Headset For PC/Laptop, Rose Gold",
       "$link": "https://www.officedepot.com/a/products/8948010/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8948010/1.jpg",
@@ -2365,7 +2624,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 20.99
+      "$price": 20.99,
+      "inventory_qty": 141,
+      "inventory_policy": 1
     },
     {
       "$id": "9422337",
@@ -2383,7 +2644,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 699.99
+      "$price": 699.99,
+      "inventory_qty": 2,
+      "inventory_policy": 1
     },
     {
       "$id": "431632",
@@ -2401,11 +2664,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 167.89
+      "$price": 167.89,
+      "inventory_qty": 29,
+      "inventory_policy": 2
     },
     {
       "$id": "8885829",
-      "$title": "Lenovo IdeaCentre Tower 14IRR9 Desktop PC, Intel® Core™ i5",
+      "$title": "Lenovo IdeaCentre Tower 14IRR9 Desktop PC, Intel\u00ae Core\u2122 i5",
       "$link": "https://www.officedepot.com/a/products/8885829/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8885829/1.jpg",
@@ -2419,7 +2684,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 649.99
+      "$price": 649.99,
+      "inventory_qty": 137,
+      "inventory_policy": 1
     },
     {
       "$id": "5376594",
@@ -2437,7 +2704,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 145.89
+      "$price": 145.89,
+      "inventory_qty": 68,
+      "inventory_policy": 2
     },
     {
       "$id": "6207878",
@@ -2455,7 +2724,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 300.99
+      "$price": 300.99,
+      "inventory_qty": 87,
+      "inventory_policy": 2
     },
     {
       "$id": "4867914",
@@ -2473,11 +2744,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 281.89
+      "$price": 281.89,
+      "inventory_qty": 28,
+      "inventory_policy": 2
     },
     {
       "$id": "3754219",
-      "$title": "Lenovo Ideapad 3i Chromebook Laptop, 15.6\" Screen, Intel® Core™ i3",
+      "$title": "Lenovo Ideapad 3i Chromebook Laptop, 15.6\" Screen, Intel\u00ae Core\u2122 i3",
       "$link": "https://www.officedepot.com/a/products/3754219/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3754219/1.jpg",
@@ -2491,7 +2764,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 289.99
+      "$price": 289.99,
+      "inventory_qty": 75,
+      "inventory_policy": 1
     },
     {
       "$id": "9684150",
@@ -2509,7 +2784,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 154.89
+      "$price": 154.89,
+      "inventory_qty": 111,
+      "inventory_policy": 2
     },
     {
       "$id": "7272776",
@@ -2527,7 +2804,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 140.89
+      "$price": 140.89,
+      "inventory_qty": 40,
+      "inventory_policy": 2
     },
     {
       "$id": "9390598",
@@ -2545,7 +2824,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 176.49
+      "$price": 176.49,
+      "inventory_qty": 116,
+      "inventory_policy": 2
     },
     {
       "$id": "2451454",
@@ -2563,7 +2844,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 169.99
+      "$price": 169.99,
+      "inventory_qty": 0,
+      "inventory_policy": 1
     },
     {
       "$id": "9317685",
@@ -2581,7 +2864,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 176.49
+      "$price": 176.49,
+      "inventory_qty": 67,
+      "inventory_policy": 2
     },
     {
       "$id": "9517571",
@@ -2599,7 +2884,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 106.89
+      "$price": 106.89,
+      "inventory_qty": 128,
+      "inventory_policy": 2
     },
     {
       "$id": "7093346",
@@ -2617,11 +2904,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 146.89
+      "$price": 146.89,
+      "inventory_qty": 45,
+      "inventory_policy": 2
     },
     {
       "$id": "1579098",
-      "$title": "Norton™ AntiTrack, 1 Device, 1-Year Subscription, Windows",
+      "$title": "Norton\u2122 AntiTrack, 1 Device, 1-Year Subscription, Windows",
       "$link": "https://www.officedepot.com/a/products/1579098/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1579098/1.jpg",
@@ -2635,7 +2924,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 34.99
+      "$price": 34.99,
+      "inventory_qty": 129,
+      "inventory_policy": 1
     },
     {
       "$id": "8429722",
@@ -2653,7 +2944,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 78.89
+      "$price": 78.89,
+      "inventory_qty": 27,
+      "inventory_policy": 2
     },
     {
       "$id": "9215463",
@@ -2671,7 +2964,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 76,
+      "inventory_policy": 1
     },
     {
       "$id": "6407107",
@@ -2689,11 +2984,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 305.89
+      "$price": 305.89,
+      "inventory_qty": 129,
+      "inventory_policy": 2
     },
     {
       "$id": "131290",
-      "$title": "Norton™ 360 Deluxe, For 5 Devices, 1-Year Subscription, Windows/Mac/iOS/Android",
+      "$title": "Norton\u2122 360 Deluxe, For 5 Devices, 1-Year Subscription, Windows/Mac/iOS/Android",
       "$link": "https://www.officedepot.com/a/products/131290/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/131290/1.jpg",
@@ -2707,7 +3004,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 89.99
+      "$price": 89.99,
+      "inventory_qty": 50,
+      "inventory_policy": 1
     },
     {
       "$id": "7190891",
@@ -2725,7 +3024,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 369.99
+      "$price": 369.99,
+      "inventory_qty": 39,
+      "inventory_policy": 2
     },
     {
       "$id": "3767206",
@@ -2743,7 +3044,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 399.0
+      "$price": 399.0,
+      "inventory_qty": 95,
+      "inventory_policy": 1
     },
     {
       "$id": "5753919",
@@ -2761,7 +3064,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 569.59
+      "$price": 569.59,
+      "inventory_qty": 41,
+      "inventory_policy": 2
     },
     {
       "$id": "4536195",
@@ -2779,7 +3084,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 109.99
+      "$price": 109.99,
+      "inventory_qty": 138,
+      "inventory_policy": 1
     },
     {
       "$id": "6063401",
@@ -2797,7 +3104,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 679.0
+      "$price": 679.0,
+      "inventory_qty": 135,
+      "inventory_policy": 1
     },
     {
       "$id": "4036986",
@@ -2815,7 +3124,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 389.99
+      "$price": 389.99,
+      "inventory_qty": 0,
+      "inventory_policy": 2
     },
     {
       "$id": "6358993",
@@ -2833,7 +3144,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 292.99
+      "$price": 292.99,
+      "inventory_qty": 82,
+      "inventory_policy": 2
     },
     {
       "$id": "8143321",
@@ -2851,7 +3164,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 529.99
+      "$price": 529.99,
+      "inventory_qty": 125,
+      "inventory_policy": 1
     },
     {
       "$id": "4801247",
@@ -2869,7 +3184,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 309.99
+      "$price": 309.99,
+      "inventory_qty": 4,
+      "inventory_policy": 2
     },
     {
       "$id": "hp-officejet-pro-9135e-wireless-all-in-one-color-i",
@@ -2887,11 +3204,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 28,
+      "inventory_policy": 2
     },
     {
       "$id": "corel-wordperfect-office-ag-standard-for-windows-p",
-      "$title": "Corel® WordPerfect Office AG Standard, For Windows®",
+      "$title": "Corel\u00ae WordPerfect Office AG Standard, For Windows\u00ae",
       "$link": "https://www.officedepot.com/a/products/corel-wordperfect-office-ag-standard-for-windows-p/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2905,7 +3224,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 92,
+      "inventory_policy": 1
     },
     {
       "$id": "microsoft-surface-laptop-7-15-touchscreen-notebook",
@@ -2923,11 +3244,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 78,
+      "inventory_policy": 2
     },
     {
       "$id": "lenovo-thinkcentre-m910q-tiny-refurbished-desktop",
-      "$title": "Lenovo® ThinkCentre® M910Q Tiny Refurbished Desktop PC",
+      "$title": "Lenovo\u00ae ThinkCentre\u00ae M910Q Tiny Refurbished Desktop PC",
       "$link": "https://www.officedepot.com/a/products/lenovo-thinkcentre-m910q-tiny-refurbished-desktop/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2941,11 +3264,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 61,
+      "inventory_policy": 2
     },
     {
       "$id": "acer-travelmate-p4-laptop-14-screen-intel-core",
-      "$title": "Acer TravelMate P4 Laptop, 14\" Screen, Intel® Core™",
+      "$title": "Acer TravelMate P4 Laptop, 14\" Screen, Intel\u00ae Core\u2122",
       "$link": "https://www.officedepot.com/a/products/acer-travelmate-p4-laptop-14-screen-intel-core/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -2959,11 +3284,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 14,
+      "inventory_policy": 1
     },
     {
       "$id": "193438",
-      "$title": "Norton™ 360 Premium, For 10 Devices, 1 Year Subscription",
+      "$title": "Norton\u2122 360 Premium, For 10 Devices, 1 Year Subscription",
       "$link": "https://www.officedepot.com/a/products/193438/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/193438/1.jpg",
@@ -2977,7 +3304,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 99.99
+      "$price": 99.99,
+      "inventory_qty": 61,
+      "inventory_policy": 1
     },
     {
       "$id": "229580",
@@ -2995,11 +3324,13 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 129.99
+      "$price": 129.99,
+      "inventory_qty": 145,
+      "inventory_policy": 1
     },
     {
       "$id": "301557",
-      "$title": "Norton™ Antivirus Plus, For 1 Device, 1 Year Subscription",
+      "$title": "Norton\u2122 Antivirus Plus, For 1 Device, 1 Year Subscription",
       "$link": "https://www.officedepot.com/a/products/301557/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/301557/1.jpg",
@@ -3013,7 +3344,9 @@
         "Computers & Accessories"
       ],
       "tags": [],
-      "$price": 49.99
+      "$price": 49.99,
+      "inventory_qty": 20,
+      "inventory_policy": 1
     },
     {
       "$id": "209262",
@@ -3031,7 +3364,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 279.99
+      "$price": 279.99,
+      "inventory_qty": 21,
+      "inventory_policy": 1
     },
     {
       "$id": "8036693",
@@ -3049,7 +3384,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 234.99
+      "$price": 234.99,
+      "inventory_qty": 124,
+      "inventory_policy": 1
     },
     {
       "$id": "9334745",
@@ -3067,7 +3404,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 109.99
+      "$price": 109.99,
+      "inventory_qty": 17,
+      "inventory_policy": 1
     },
     {
       "$id": "6792655",
@@ -3085,11 +3424,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 249.99
+      "$price": 249.99,
+      "inventory_qty": 136,
+      "inventory_policy": 1
     },
     {
       "$id": "8545652",
-      "$title": "Epson® WorkForce® ES-400 II Duplex Desktop Color Document Scanner",
+      "$title": "Epson\u00ae WorkForce\u00ae ES-400 II Duplex Desktop Color Document Scanner",
       "$link": "https://www.officedepot.com/a/products/8545652/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8545652/1.jpg",
@@ -3103,11 +3444,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 329.99
+      "$price": 329.99,
+      "inventory_qty": 32,
+      "inventory_policy": 1
     },
     {
       "$id": "9280196",
-      "$title": "Epson® FastFoto® FF-680W High-Speed Wireless Desktop Photo Scanner",
+      "$title": "Epson\u00ae FastFoto\u00ae FF-680W High-Speed Wireless Desktop Photo Scanner",
       "$link": "https://www.officedepot.com/a/products/9280196/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9280196/1.jpg",
@@ -3121,11 +3464,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 559.99
+      "$price": 559.99,
+      "inventory_qty": 32,
+      "inventory_policy": 1
     },
     {
       "$id": "9985790",
-      "$title": "APC® Back-UPS Pro 10-Outlet Tower Uninterruptible Power Supply",
+      "$title": "APC\u00ae Back-UPS Pro 10-Outlet Tower Uninterruptible Power Supply",
       "$link": "https://www.officedepot.com/a/products/9985790/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9985790/1.jpg",
@@ -3139,7 +3484,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 242.99
+      "$price": 242.99,
+      "inventory_qty": 121,
+      "inventory_policy": 1
     },
     {
       "$id": "447752",
@@ -3157,11 +3504,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 201.49
+      "$price": 201.49,
+      "inventory_qty": 140,
+      "inventory_policy": 1
     },
     {
       "$id": "541155",
-      "$title": "Fellowes® Powershred® 79Ci 100% Jam-Proof 16-Sheet Cross-Cut Shredder",
+      "$title": "Fellowes\u00ae Powershred\u00ae 79Ci 100% Jam-Proof 16-Sheet Cross-Cut Shredder",
       "$link": "https://www.officedepot.com/a/products/541155/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/541155/1.jpg",
@@ -3175,11 +3524,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 299.99
+      "$price": 299.99,
+      "inventory_qty": 42,
+      "inventory_policy": 1
     },
     {
       "$id": "7042712",
-      "$title": "Epson® WorkForce® Compact Desktop Document Scanner, ES-200",
+      "$title": "Epson\u00ae WorkForce\u00ae Compact Desktop Document Scanner, ES-200",
       "$link": "https://www.officedepot.com/a/products/7042712/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7042712/1.jpg",
@@ -3193,11 +3544,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 229.99
+      "$price": 229.99,
+      "inventory_qty": 67,
+      "inventory_policy": 1
     },
     {
       "$id": "9662375",
-      "$title": "Fellowes® AutoMax 100MA 100-Sheet Auto Feed Micro-Cut Shredder",
+      "$title": "Fellowes\u00ae AutoMax 100MA 100-Sheet Auto Feed Micro-Cut Shredder",
       "$link": "https://www.officedepot.com/a/products/9662375/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9662375/1.jpg",
@@ -3211,7 +3564,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 229.99
+      "$price": 229.99,
+      "inventory_qty": 135,
+      "inventory_policy": 1
     },
     {
       "$id": "5825866",
@@ -3229,7 +3584,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 768.39
+      "$price": 768.39,
+      "inventory_qty": 108,
+      "inventory_policy": 1
     },
     {
       "$id": "383084",
@@ -3247,11 +3604,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 72.99
+      "$price": 72.99,
+      "inventory_qty": 54,
+      "inventory_policy": 2
     },
     {
       "$id": "1385290",
-      "$title": "Duracell® Coppertop AA Alkaline Batteries, Box Of 36",
+      "$title": "Duracell\u00ae Coppertop AA Alkaline Batteries, Box Of 36",
       "$link": "https://www.officedepot.com/a/products/1385290/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385290/1.jpg",
@@ -3265,11 +3624,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 31.99
+      "$price": 31.99,
+      "inventory_qty": 138,
+      "inventory_policy": 2
     },
     {
       "$id": "3024979",
-      "$title": "Epson® WorkForce® ES-580W Wireless Duplex Touchscreen Desktop Scanner",
+      "$title": "Epson\u00ae WorkForce\u00ae ES-580W Wireless Duplex Touchscreen Desktop Scanner",
       "$link": "https://www.officedepot.com/a/products/3024979/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3024979/1.jpg",
@@ -3283,7 +3644,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 379.99
+      "$price": 379.99,
+      "inventory_qty": 51,
+      "inventory_policy": 1
     },
     {
       "$id": "3991110",
@@ -3301,7 +3664,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 19.99
+      "$price": 19.99,
+      "inventory_qty": 79,
+      "inventory_policy": 1
     },
     {
       "$id": "762286",
@@ -3319,11 +3684,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 55.99
+      "$price": 55.99,
+      "inventory_qty": 102,
+      "inventory_policy": 1
     },
     {
       "$id": "314872",
-      "$title": "Ativa® 10-Sheet Micro-Cut Shredder, OMM103P",
+      "$title": "Ativa\u00ae 10-Sheet Micro-Cut Shredder, OMM103P",
       "$link": "https://www.officedepot.com/a/products/314872/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/314872/1.jpg",
@@ -3337,11 +3704,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 78.99
+      "$price": 78.99,
+      "inventory_qty": 95,
+      "inventory_policy": 1
     },
     {
       "$id": "359247",
-      "$title": "Office Depot® Brand Thermal Paper Rolls, 2-1/4\" x 50', 10/Pack",
+      "$title": "Office Depot\u00ae Brand Thermal Paper Rolls, 2-1/4\" x 50', 10/Pack",
       "$link": "https://www.officedepot.com/a/products/359247/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/359247/1.jpg",
@@ -3355,7 +3724,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 30.59
+      "$price": 30.59,
+      "inventory_qty": 112,
+      "inventory_policy": 2
     },
     {
       "$id": "8990490",
@@ -3373,11 +3744,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 451.69
+      "$price": 451.69,
+      "inventory_qty": 132,
+      "inventory_policy": 1
     },
     {
       "$id": "7784160",
-      "$title": "APC® Back-UPS 900 9-Outlet/1-USB Battery Backup And Surge Protector",
+      "$title": "APC\u00ae Back-UPS 900 9-Outlet/1-USB Battery Backup And Surge Protector",
       "$link": "https://www.officedepot.com/a/products/7784160/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7784160/1.jpg",
@@ -3391,11 +3764,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 124.99
+      "$price": 124.99,
+      "inventory_qty": 115,
+      "inventory_policy": 2
     },
     {
       "$id": "458914",
-      "$title": "Duracell® Coppertop AA Alkaline Batteries, Pack Of 24",
+      "$title": "Duracell\u00ae Coppertop AA Alkaline Batteries, Pack Of 24",
       "$link": "https://www.officedepot.com/a/products/458914/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/458914/1.jpg",
@@ -3409,11 +3784,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 30,
+      "inventory_policy": 2
     },
     {
       "$id": "8677384",
-      "$title": "Epson® RapidReceipt™ Wireless Touchscreen Desktop Receipt and Document Scanner",
+      "$title": "Epson\u00ae RapidReceipt\u2122 Wireless Touchscreen Desktop Receipt and Document Scanner",
       "$link": "https://www.officedepot.com/a/products/8677384/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8677384/1.jpg",
@@ -3427,7 +3804,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 399.99
+      "$price": 399.99,
+      "inventory_qty": 63,
+      "inventory_policy": 1
     },
     {
       "$id": "2679216",
@@ -3445,11 +3824,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 38.59
+      "$price": 38.59,
+      "inventory_qty": 57,
+      "inventory_policy": 1
     },
     {
       "$id": "8090464",
-      "$title": "Epson® Pro EX11000 3-Chip 3LCD Full HD 1080p Wireless Laser Projector",
+      "$title": "Epson\u00ae Pro EX11000 3-Chip 3LCD Full HD 1080p Wireless Laser Projector",
       "$link": "https://www.officedepot.com/a/products/8090464/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8090464/1.jpg",
@@ -3463,11 +3844,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 1499.99
+      "$price": 1499.99,
+      "inventory_qty": 16,
+      "inventory_policy": 1
     },
     {
       "$id": "9148089",
-      "$title": "VTech® DS6251-3 DECT 6.0 Expandable 2-Line Cordless Phone System",
+      "$title": "VTech\u00ae DS6251-3 DECT 6.0 Expandable 2-Line Cordless Phone System",
       "$link": "https://www.officedepot.com/a/products/9148089/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9148089/1.jpg",
@@ -3481,11 +3864,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 223.99
+      "$price": 223.99,
+      "inventory_qty": 86,
+      "inventory_policy": 1
     },
     {
       "$id": "991152",
-      "$title": "Duracell® Coppertop AAA Alkaline Batteries, Box Of 36",
+      "$title": "Duracell\u00ae Coppertop AAA Alkaline Batteries, Box Of 36",
       "$link": "https://www.officedepot.com/a/products/991152/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/991152/1.jpg",
@@ -3499,7 +3884,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 31.99
+      "$price": 31.99,
+      "inventory_qty": 5,
+      "inventory_policy": 2
     },
     {
       "$id": "5645834",
@@ -3517,11 +3904,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 551.49
+      "$price": 551.49,
+      "inventory_qty": 150,
+      "inventory_policy": 1
     },
     {
       "$id": "7264808",
-      "$title": "Epson WorkForce® Wireless Compact Desktop Document Scanner, ES-300W",
+      "$title": "Epson WorkForce\u00ae Wireless Compact Desktop Document Scanner, ES-300W",
       "$link": "https://www.officedepot.com/a/products/7264808/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7264808/1.jpg",
@@ -3535,11 +3924,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 249.99
+      "$price": 249.99,
+      "inventory_qty": 141,
+      "inventory_policy": 1
     },
     {
       "$id": "9260499",
-      "$title": "Epson® WorkForce® ES-50 Portable Color Document Scanner",
+      "$title": "Epson\u00ae WorkForce\u00ae ES-50 Portable Color Document Scanner",
       "$link": "https://www.officedepot.com/a/products/9260499/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9260499/1.jpg",
@@ -3553,11 +3944,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 129.99
+      "$price": 129.99,
+      "inventory_qty": 58,
+      "inventory_policy": 1
     },
     {
       "$id": "660678",
-      "$title": "APC® Back-UPS® ES 650VA Battery Backup, Black",
+      "$title": "APC\u00ae Back-UPS\u00ae ES 650VA Battery Backup, Black",
       "$link": "https://www.officedepot.com/a/products/660678/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/660678/1.jpg",
@@ -3571,7 +3964,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 109.99
+      "$price": 109.99,
+      "inventory_qty": 150,
+      "inventory_policy": 2
     },
     {
       "$id": "4812579",
@@ -3589,11 +3984,13 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 24.95
+      "$price": 24.95,
+      "inventory_qty": 56,
+      "inventory_policy": 1
     },
     {
       "$id": "545469",
-      "$title": "Duracell® Coppertop AAA Alkaline Batteries, Pack Of 24",
+      "$title": "Duracell\u00ae Coppertop AAA Alkaline Batteries, Pack Of 24",
       "$link": "https://www.officedepot.com/a/products/545469/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/545469/1.jpg",
@@ -3607,7 +4004,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 1,
+      "inventory_policy": 2
     },
     {
       "$id": "ricoh-fi-7600-document-scanner-dual",
@@ -3625,7 +4024,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 18,
+      "inventory_policy": 1
     },
     {
       "$id": "fujitsu-fi-8170-document-scanner-dual-cis",
@@ -3643,7 +4044,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 15,
+      "inventory_policy": 1
     },
     {
       "$id": "ricoh-fi-7700-document-scanner-triple",
@@ -3661,7 +4064,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 58,
+      "inventory_policy": 1
     },
     {
       "$id": "iris-iriscan-desk-6-a3-pro-camera-document",
@@ -3679,7 +4084,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 17,
+      "inventory_policy": 1
     },
     {
       "$id": "3890558",
@@ -3697,7 +4104,9 @@
         "Electronics"
       ],
       "tags": [],
-      "$price": 26.59
+      "$price": 26.59,
+      "inventory_qty": 8,
+      "inventory_policy": 1
     },
     {
       "$id": "1745704",
@@ -3715,7 +4124,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 106.49
+      "$price": 106.49,
+      "inventory_qty": 84,
+      "inventory_policy": 2
     },
     {
       "$id": "7601540",
@@ -3733,11 +4144,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 24.99
+      "$price": 24.99,
+      "inventory_qty": 18,
+      "inventory_policy": 2
     },
     {
       "$id": "592768",
-      "$title": "Pacific Blue Select® Premium Multi-Fold Paper Towels, 2400 Sheets",
+      "$title": "Pacific Blue Select\u00ae Premium Multi-Fold Paper Towels, 2400 Sheets",
       "$link": "https://www.officedepot.com/a/products/592768/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/592768/1.jpg",
@@ -3751,7 +4164,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 40.99
+      "$price": 40.99,
+      "inventory_qty": 131,
+      "inventory_policy": 2
     },
     {
       "$id": "7823035",
@@ -3769,7 +4184,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 50.99
+      "$price": 50.99,
+      "inventory_qty": 60,
+      "inventory_policy": 2
     },
     {
       "$id": "7954161",
@@ -3787,11 +4204,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 29.99
+      "$price": 29.99,
+      "inventory_qty": 71,
+      "inventory_policy": 2
     },
     {
       "$id": "420782",
-      "$title": "Highmark™ Tall 0.6 mil Drawstring Kitchen Trash Bags, 0.6 mil, Box of 200",
+      "$title": "Highmark\u2122 Tall 0.6 mil Drawstring Kitchen Trash Bags, 0.6 mil, Box of 200",
       "$link": "https://www.officedepot.com/a/products/420782/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/420782/1.jpg",
@@ -3805,7 +4224,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 19.69
+      "$price": 19.69,
+      "inventory_qty": 124,
+      "inventory_policy": 2
     },
     {
       "$id": "251600",
@@ -3823,11 +4244,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 83.09
+      "$price": 83.09,
+      "inventory_qty": 54,
+      "inventory_policy": 2
     },
     {
       "$id": "618405",
-      "$title": "Kleenex® Professional Facial Tissue, Upright Facial Tissue Box, 36 Boxes",
+      "$title": "Kleenex\u00ae Professional Facial Tissue, Upright Facial Tissue Box, 36 Boxes",
       "$link": "https://www.officedepot.com/a/products/618405/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/618405/1.jpg",
@@ -3841,11 +4264,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 18.79
+      "$price": 18.79,
+      "inventory_qty": 138,
+      "inventory_policy": 2
     },
     {
       "$id": "108448",
-      "$title": "Angel Soft Professional Series® Premium Standard Roll Embossed 2-Ply Toilet Paper",
+      "$title": "Angel Soft Professional Series\u00ae Premium Standard Roll Embossed 2-Ply Toilet Paper",
       "$link": "https://www.officedepot.com/a/products/108448/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/108448/1.jpg",
@@ -3859,7 +4284,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 94.99
+      "$price": 94.99,
+      "inventory_qty": 33,
+      "inventory_policy": 2
     },
     {
       "$id": "849408",
@@ -3877,11 +4304,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 84.89
+      "$price": 84.89,
+      "inventory_qty": 146,
+      "inventory_policy": 2
     },
     {
       "$id": "677198",
-      "$title": "Scott® Select-A-Size® Mega 1-Ply Paper Towels, 102 Sheets Per Roll, 6 Rolls",
+      "$title": "Scott\u00ae Select-A-Size\u00ae Mega 1-Ply Paper Towels, 102 Sheets Per Roll, 6 Rolls",
       "$link": "https://www.officedepot.com/a/products/677198/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/677198/1.jpg",
@@ -3895,7 +4324,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 21.49
+      "$price": 21.49,
+      "inventory_qty": 147,
+      "inventory_policy": 2
     },
     {
       "$id": "5921492",
@@ -3913,11 +4344,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 25.48
+      "$price": 25.48,
+      "inventory_qty": 121,
+      "inventory_policy": 2
     },
     {
       "$id": "694170",
-      "$title": "Highmark® ECO 2-Ply Paper Towels, 100% Recycled, 85 Sheets Per Roll, 30 Rolls",
+      "$title": "Highmark\u00ae ECO 2-Ply Paper Towels, 100% Recycled, 85 Sheets Per Roll, 30 Rolls",
       "$link": "https://www.officedepot.com/a/products/694170/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/694170/1.jpg",
@@ -3931,11 +4364,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 17.39
+      "$price": 17.39,
+      "inventory_qty": 62,
+      "inventory_policy": 2
     },
     {
       "$id": "683707",
-      "$title": "Sparkle® Professional Series by GP PRO 2-Ply Kitchen Paper Towels, 85 Sheets",
+      "$title": "Sparkle\u00ae Professional Series by GP PRO 2-Ply Kitchen Paper Towels, 85 Sheets",
       "$link": "https://www.officedepot.com/a/products/683707/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/683707/1.jpg",
@@ -3949,11 +4384,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 73.99
+      "$price": 73.99,
+      "inventory_qty": 121,
+      "inventory_policy": 2
     },
     {
       "$id": "1385335",
-      "$title": "Kleenex® Professional Facial Tissue for Business, Flat Box, 100 Tissues/Box",
+      "$title": "Kleenex\u00ae Professional Facial Tissue for Business, Flat Box, 100 Tissues/Box",
       "$link": "https://www.officedepot.com/a/products/1385335/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385335/1.jpg",
@@ -3967,7 +4404,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 81.29
+      "$price": 81.29,
+      "inventory_qty": 104,
+      "inventory_policy": 2
     },
     {
       "$id": "251616",
@@ -3985,7 +4424,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 69.99
+      "$price": 69.99,
+      "inventory_qty": 48,
+      "inventory_policy": 2
     },
     {
       "$id": "3724818",
@@ -4003,7 +4444,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 21.67
+      "$price": 21.67,
+      "inventory_qty": 24,
+      "inventory_policy": 2
     },
     {
       "$id": "239992",
@@ -4021,11 +4464,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 32.29
+      "$price": 32.29,
+      "inventory_qty": 24,
+      "inventory_policy": 2
     },
     {
       "$id": "771718",
-      "$title": "Highmark® ECO 2-Ply Toilet Paper, 100% Recycled, 336 Sheets Per Roll, 48 Rolls",
+      "$title": "Highmark\u00ae ECO 2-Ply Toilet Paper, 100% Recycled, 336 Sheets Per Roll, 48 Rolls",
       "$link": "https://www.officedepot.com/a/products/771718/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/771718/1.jpg",
@@ -4039,11 +4484,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 33.09
+      "$price": 33.09,
+      "inventory_qty": 110,
+      "inventory_policy": 2
     },
     {
       "$id": "756620",
-      "$title": "Angel Soft® Professional Series® by GP PRO Premium 2-Ply Toilet Paper",
+      "$title": "Angel Soft\u00ae Professional Series\u00ae by GP PRO Premium 2-Ply Toilet Paper",
       "$link": "https://www.officedepot.com/a/products/756620/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/756620/1.jpg",
@@ -4057,11 +4504,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 53.99
+      "$price": 53.99,
+      "inventory_qty": 90,
+      "inventory_policy": 2
     },
     {
       "$id": "592812",
-      "$title": "Pacific Blue Select® by GP PRO, 2-Ply, C-Fold Paper Towels, 2400 Sheets",
+      "$title": "Pacific Blue Select\u00ae by GP PRO, 2-Ply, C-Fold Paper Towels, 2400 Sheets",
       "$link": "https://www.officedepot.com/a/products/592812/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/592812/1.jpg",
@@ -4075,7 +4524,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 60.49
+      "$price": 60.49,
+      "inventory_qty": 108,
+      "inventory_policy": 2
     },
     {
       "$id": "696386",
@@ -4093,11 +4544,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 15.99
+      "$price": 15.99,
+      "inventory_qty": 105,
+      "inventory_policy": 2
     },
     {
       "$id": "411809",
-      "$title": "Highmark® 2-Ply Jumbo Toilet Paper, 1000' Per Roll, Pack Of 12",
+      "$title": "Highmark\u00ae 2-Ply Jumbo Toilet Paper, 1000' Per Roll, Pack Of 12",
       "$link": "https://www.officedepot.com/a/products/411809/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/411809/1.jpg",
@@ -4111,7 +4564,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 44.09
+      "$price": 44.09,
+      "inventory_qty": 119,
+      "inventory_policy": 2
     },
     {
       "$id": "4578903",
@@ -4129,11 +4584,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 21.99
+      "$price": 21.99,
+      "inventory_qty": 13,
+      "inventory_policy": 2
     },
     {
       "$id": "693850",
-      "$title": "Highmark® ECO 2-Ply Toilet Paper, 100% Recycled, 550 Sheets Per Roll, 48 Rolls",
+      "$title": "Highmark\u00ae ECO 2-Ply Toilet Paper, 100% Recycled, 550 Sheets Per Roll, 48 Rolls",
       "$link": "https://www.officedepot.com/a/products/693850/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/693850/1.jpg",
@@ -4147,11 +4604,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 38.89
+      "$price": 38.89,
+      "inventory_qty": 25,
+      "inventory_policy": 2
     },
     {
       "$id": "415155",
-      "$title": "Highmark® Kitchen 2-Ply Paper Towels, 5\", 110 Sheets Per Roll, 30 Rolls",
+      "$title": "Highmark\u00ae Kitchen 2-Ply Paper Towels, 5\", 110 Sheets Per Roll, 30 Rolls",
       "$link": "https://www.officedepot.com/a/products/415155/",
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/415155/1.jpg",
@@ -4165,7 +4624,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 38.49
+      "$price": 38.49,
+      "inventory_qty": 15,
+      "inventory_policy": 2
     },
     {
       "$id": "winther-turtle-kiddy-bus-and-stroller-6-seats",
@@ -4183,11 +4644,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": 2343.99
+      "$price": 2343.99,
+      "inventory_qty": 103,
+      "inventory_policy": 2
     },
     {
       "$id": "cottonelle-professional-standard-roll-toilet-paper",
-      "$title": "Cottonelle® Professional Standard Roll Toilet Paper, 1-Ply, 60 Rolls",
+      "$title": "Cottonelle\u00ae Professional Standard Roll Toilet Paper, 1-Ply, 60 Rolls",
       "$link": "https://www.officedepot.com/a/products/cottonelle-professional-standard-roll-toilet-paper/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -4201,11 +4664,13 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 86,
+      "inventory_policy": 2
     },
     {
       "$id": "angel-soft-professional-series-by-gp-pro-premium",
-      "$title": "Angel Soft® Professional Series® by GP PRO Premium Embossed Toilet Paper",
+      "$title": "Angel Soft\u00ae Professional Series\u00ae by GP PRO Premium Embossed Toilet Paper",
       "$link": "https://www.officedepot.com/a/products/angel-soft-professional-series-by-gp-pro-premium/",
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
@@ -4219,7 +4684,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 27,
+      "inventory_policy": 2
     },
     {
       "$id": "charmin-essentials-2-ply-soft-mega-toilet-paper",
@@ -4237,7 +4704,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 63,
+      "inventory_policy": 2
     },
     {
       "$id": "taylor-7029-lithium-digital-scale-330-lb",
@@ -4255,6 +4724,9 @@
         "Cleaning"
       ],
       "tags": [],
-      "$price": null
+      "$price": null,
+      "inventory_qty": 49,
+      "inventory_policy": 2
     }
   ]
+}
