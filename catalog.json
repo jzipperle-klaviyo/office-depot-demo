@@ -1,23 +1,4 @@
-{
-  "source_urls": [
-    "https://www.officedepot.com/b/office-supplies/N-1676",
-    "https://www.officedepot.com/b/paper/N-530715",
-    "https://www.officedepot.com/b/furniture/N-917",
-    "https://www.officedepot.com/b/computers-and-accessories/N-1461888",
-    "https://www.officedepot.com/b/electronics/N-9021",
-    "https://www.officedepot.com/b/cleaning/N-530552"
-  ],
-  "extracted_at": "2026-05-01T19:56:44Z",
-  "categories_extracted": [
-    "Office Supplies",
-    "Paper",
-    "Furniture",
-    "Computers & Accessories",
-    "Electronics",
-    "Cleaning"
-  ],
-  "total_products": 226,
-  "products": [
+[
     {
       "$id": "9385108",
       "$title": "JAM Paper\u00ae Open-End 9\" x 12\" Envelopes, Gummed Seal, Brown Kraft, Pack Of 50",
@@ -4729,4 +4710,3 @@
       "inventory_policy": 2
     }
   ]
-}
