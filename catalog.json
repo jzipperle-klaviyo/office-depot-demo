@@ -6,7 +6,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/9385108/JAM-Paper-Open-End-9-x",
       "sku": "9385108",
-      "price": "$15.99/pack($0.32/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/9385108/JAM-Paper-Open-End-9-x"
@@ -18,7 +17,9 @@
       "tags": [],
       "$price": 15.99,
       "inventory_qty": 28,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$15.99/pack($0.32/count)",
+      "published": true
     },
     {
       "$id": "898782",
@@ -27,7 +28,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/898782/1.jpg",
       "sku": "898782",
-      "price": "$78.00/roll($0.78/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/898782/1.jpg"
@@ -43,7 +43,9 @@
       ],
       "$price": 78.0,
       "inventory_qty": 6,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$78.00/roll($0.78/count)",
+      "published": true
     },
     {
       "$id": "633984",
@@ -52,7 +54,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/633984/1.jpg",
       "sku": "633984",
-      "price": "$39.99/BX($0.08/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/633984/1.jpg"
@@ -68,7 +69,9 @@
       ],
       "$price": 39.99,
       "inventory_qty": 70,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$39.99/BX($0.08/count)",
+      "published": true
     },
     {
       "$id": "938678",
@@ -77,7 +80,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/938678/Brother-P-Touch-Label-Maker-PTH110",
       "sku": "938678",
-      "price": "$34.99/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/938678/Brother-P-Touch-Label-Maker-PTH110"
@@ -93,7 +95,9 @@
       ],
       "$price": 34.99,
       "inventory_qty": 62,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$34.99/each",
+      "published": true
     },
     {
       "$id": "810838",
@@ -102,7 +106,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/810838/1.jpg",
       "sku": "810838",
-      "price": "$22.89/BX($0.23/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/810838/1.jpg"
@@ -118,7 +121,9 @@
       ],
       "$price": 22.89,
       "inventory_qty": 57,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$22.89/BX($0.23/count)",
+      "published": true
     },
     {
       "$id": "336977",
@@ -127,7 +132,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/336977/1.jpg",
       "sku": "336977",
-      "price": "$29.99/pack($0.02/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/336977/1.jpg"
@@ -143,7 +147,9 @@
       ],
       "$price": 29.99,
       "inventory_qty": 35,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99/pack($0.02/count)",
+      "published": true
     },
     {
       "$id": "364364",
@@ -152,7 +158,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/364364/1.jpg",
       "sku": "364364",
-      "price": "$42.99/BX($0.01/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/364364/1.jpg"
@@ -168,7 +173,9 @@
       ],
       "$price": 42.99,
       "inventory_qty": 26,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$42.99/BX($0.01/count)",
+      "published": true
     },
     {
       "$id": "8091365",
@@ -177,7 +184,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/8091365/Brother-P-touch-Personal-Handheld-Label",
       "sku": "8091365",
-      "price": "$24.99/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/8091365/Brother-P-touch-Personal-Handheld-Label"
@@ -193,7 +199,9 @@
       ],
       "$price": 24.99,
       "inventory_qty": 139,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$24.99/each",
+      "published": true
     },
     {
       "$id": "6275549",
@@ -202,7 +210,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6275549/1.jpg",
       "sku": "6275549",
-      "price": "$21.27 Sale($2.13/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6275549/1.jpg"
@@ -218,7 +225,9 @@
       ],
       "$price": 21.27,
       "inventory_qty": 22,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$21.27 Sale($2.13/count)",
+      "published": true
     },
     {
       "$id": "679347",
@@ -227,7 +236,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/679347/1.jpg",
       "sku": "679347",
-      "price": "$48.99/BX($0.20/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/679347/1.jpg"
@@ -243,7 +251,9 @@
       ],
       "$price": 48.99,
       "inventory_qty": 108,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$48.99/BX($0.20/count)",
+      "published": true
     },
     {
       "$id": "645927",
@@ -252,7 +262,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/645927/1.jpg",
       "sku": "645927",
-      "price": "$51.49/BX($0.21/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/645927/1.jpg"
@@ -268,7 +277,9 @@
       ],
       "$price": 51.49,
       "inventory_qty": 8,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$51.49/BX($0.21/count)",
+      "published": true
     },
     {
       "$id": "381038",
@@ -277,7 +288,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/381038/Brother-QL-800-High-Speed-Professional",
       "sku": "381038",
-      "price": "$124.99/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/381038/Brother-QL-800-High-Speed-Professional"
@@ -293,7 +303,9 @@
       ],
       "$price": 124.99,
       "inventory_qty": 7,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$124.99/each",
+      "published": true
     },
     {
       "$id": "1230652",
@@ -302,7 +314,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1230652/1.jpg",
       "sku": "1230652",
-      "price": "$26.99/pack($0.01/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1230652/1.jpg"
@@ -317,7 +328,9 @@
       ],
       "$price": 26.99,
       "inventory_qty": 23,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$26.99/pack($0.01/count)",
+      "published": true
     },
     {
       "$id": "7300391",
@@ -326,7 +339,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7300391/1.jpg",
       "sku": "7300391",
-      "price": "$38.79/pack($6.46/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7300391/1.jpg"
@@ -342,7 +354,9 @@
       ],
       "$price": 38.79,
       "inventory_qty": 55,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$38.79/pack($6.46/count)",
+      "published": true
     },
     {
       "$id": "512950",
@@ -351,7 +365,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/512950/1.jpg",
       "sku": "512950",
-      "price": "Starting at",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/512950/1.jpg"
@@ -367,7 +380,9 @@
       ],
       "$price": null,
       "inventory_qty": 59,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "Starting at",
+      "published": true
     },
     {
       "$id": "277294",
@@ -376,7 +391,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/277294/Brother-M-231-Black-On-White",
       "sku": "277294",
-      "price": "$13.49/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/277294/Brother-M-231-Black-On-White"
@@ -392,7 +406,9 @@
       ],
       "$price": 13.49,
       "inventory_qty": 129,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$13.49/each",
+      "published": true
     },
     {
       "$id": "951851",
@@ -401,7 +417,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/951851/1.jpg",
       "sku": "951851",
-      "price": "$199.99/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/951851/1.jpg"
@@ -417,7 +432,9 @@
       ],
       "$price": 199.99,
       "inventory_qty": 6,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$199.99/each",
+      "published": true
     },
     {
       "$id": "679689",
@@ -426,7 +443,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/679689/1.jpg",
       "sku": "679689",
-      "price": "$57.99/BX($0.23/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/679689/1.jpg"
@@ -442,7 +458,9 @@
       ],
       "$price": 57.99,
       "inventory_qty": 143,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$57.99/BX($0.23/count)",
+      "published": true
     },
     {
       "$id": "330808",
@@ -451,7 +469,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/330808/1.jpg",
       "sku": "330808",
-      "price": "$37.99/BX($0.38/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/330808/1.jpg"
@@ -467,7 +484,9 @@
       ],
       "$price": 37.99,
       "inventory_qty": 50,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$37.99/BX($0.38/count)",
+      "published": true
     },
     {
       "$id": "1536505",
@@ -476,7 +495,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/1536505/JAM-Paper-Open-End-9-x",
       "sku": "1536505",
-      "price": "$29.99/pack($0.30/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/1536505/JAM-Paper-Open-End-9-x"
@@ -492,7 +510,9 @@
       ],
       "$price": 29.99,
       "inventory_qty": 139,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99/pack($0.30/count)",
+      "published": true
     },
     {
       "$id": "618017",
@@ -501,7 +521,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/618017/1.jpg",
       "sku": "618017",
-      "price": "$32.49/pad($1.08/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/618017/1.jpg"
@@ -517,7 +536,9 @@
       ],
       "$price": 32.49,
       "inventory_qty": 107,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$32.49/pad($1.08/count)",
+      "published": true
     },
     {
       "$id": "190294",
@@ -526,7 +547,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/190294/1.jpg",
       "sku": "190294",
-      "price": "$79.99/pack($0.16/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/190294/1.jpg"
@@ -542,7 +562,9 @@
       ],
       "$price": 79.99,
       "inventory_qty": 56,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$79.99/pack($0.16/count)",
+      "published": true
     },
     {
       "$id": "1390240",
@@ -551,7 +573,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1390240/1.jpg",
       "sku": "1390240",
-      "price": "$24.99 Sale($0.69/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1390240/1.jpg"
@@ -567,7 +588,9 @@
       ],
       "$price": 24.99,
       "inventory_qty": 114,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$24.99 Sale($0.69/count)",
+      "published": true
     },
     {
       "$id": "350960",
@@ -576,7 +599,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/350960/1.jpg",
       "sku": "350960",
-      "price": "$21.99/pack($1.57/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/350960/1.jpg"
@@ -592,7 +614,9 @@
       ],
       "$price": 21.99,
       "inventory_qty": 150,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$21.99/pack($1.57/count)",
+      "published": true
     },
     {
       "$id": "330888",
@@ -601,7 +625,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/330888/1.jpg",
       "sku": "330888",
-      "price": "$39.99/BX($0.40/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/330888/1.jpg"
@@ -617,7 +640,9 @@
       ],
       "$price": 39.99,
       "inventory_qty": 71,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$39.99/BX($0.40/count)",
+      "published": true
     },
     {
       "$id": "172816",
@@ -626,7 +651,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/172816/1.jpg",
       "sku": "172816",
-      "price": "$22.69/BX($0.15/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/172816/1.jpg"
@@ -642,7 +666,9 @@
       ],
       "$price": 22.69,
       "inventory_qty": 1,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$22.69/BX($0.15/count)",
+      "published": true
     },
     {
       "$id": "826876",
@@ -651,7 +677,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/826876/1.jpg",
       "sku": "826876",
-      "price": "$17.99 Sale($1.80/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/826876/1.jpg"
@@ -667,7 +692,9 @@
       ],
       "$price": 17.99,
       "inventory_qty": 40,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$17.99 Sale($1.80/count)",
+      "published": true
     },
     {
       "$id": "533591",
@@ -676,7 +703,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/533591/JAM-Paper-Open-End-Catalog-Envelopes",
       "sku": "533591",
-      "price": "$29.29/pack($0.29/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/533591/JAM-Paper-Open-End-Catalog-Envelopes"
@@ -692,7 +718,9 @@
       ],
       "$price": 29.29,
       "inventory_qty": 108,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.29/pack($0.29/count)",
+      "published": true
     },
     {
       "$id": "578448",
@@ -701,7 +729,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/578448/1.jpg",
       "sku": "578448",
-      "price": "$19.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/578448/1.jpg"
@@ -717,7 +744,9 @@
       ],
       "$price": 19.99,
       "inventory_qty": 87,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$19.99 Sale",
+      "published": true
     },
     {
       "$id": "1451854",
@@ -726,7 +755,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1451854/1.jpg",
       "sku": "1451854",
-      "price": "$34.99 Sale($0.17/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1451854/1.jpg"
@@ -742,7 +770,9 @@
       ],
       "$price": 34.99,
       "inventory_qty": 71,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$34.99 Sale($0.17/count)",
+      "published": true
     },
     {
       "$id": "541545",
@@ -751,7 +781,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/541545/1.jpg",
       "sku": "541545",
-      "price": "$15.60/each",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/541545/1.jpg"
@@ -768,7 +797,9 @@
       ],
       "$price": 15.6,
       "inventory_qty": 39,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$15.60/each",
+      "published": true
     },
     {
       "$id": "5318188",
@@ -777,7 +808,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large,f_auto/products/5318188/Brother-P-Touch-TZe-231-Label",
       "sku": "5318188",
-      "price": "$68.99/pack($11.50/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large,f_auto/products/5318188/Brother-P-Touch-TZe-231-Label"
@@ -793,7 +823,9 @@
       ],
       "$price": 68.99,
       "inventory_qty": 55,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$68.99/pack($11.50/count)",
+      "published": true
     },
     {
       "$id": "9817000",
@@ -802,7 +834,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9817000/1.jpg",
       "sku": "9817000",
-      "price": "$44.99 Sale($1.25/count)",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9817000/1.jpg"
@@ -819,7 +850,9 @@
       ],
       "$price": 44.99,
       "inventory_qty": 86,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$44.99 Sale($1.25/count)",
+      "published": true
     },
     {
       "$id": "664011",
@@ -828,7 +861,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_medium,f_auto/products/664011/BIC-Round-Stic-Ballpoint-Pens-Medium",
       "sku": "664011",
-      "price": "$6.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_medium,f_auto/products/664011/BIC-Round-Stic-Ballpoint-Pens-Medium"
@@ -844,7 +876,9 @@
       ],
       "$price": 6.99,
       "inventory_qty": 26,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$6.99 Sale",
+      "published": true
     },
     {
       "$id": "9730858",
@@ -853,7 +887,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9730858/1.jpg",
       "sku": "9730858",
-      "price": null,
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9730858/1.jpg"
@@ -870,7 +903,9 @@
       ],
       "$price": null,
       "inventory_qty": 23,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": null,
+      "published": true
     },
     {
       "$id": "8258449",
@@ -879,7 +914,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/8258449/1.jpg",
       "sku": "8258449",
-      "price": null,
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/8258449/1.jpg"
@@ -895,7 +929,9 @@
       ],
       "$price": null,
       "inventory_qty": 97,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": null,
+      "published": true
     },
     {
       "$id": "9322761",
@@ -904,7 +940,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9322761/1.jpg",
       "sku": "9322761",
-      "price": null,
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9322761/1.jpg"
@@ -921,7 +956,9 @@
       ],
       "$price": null,
       "inventory_qty": 24,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": null,
+      "published": true
     },
     {
       "$id": "9529757",
@@ -930,7 +967,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9529757/1.jpg",
       "sku": "9529757",
-      "price": null,
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_enlarge%2Cf_auto/products/9529757/1.jpg"
@@ -947,7 +983,9 @@
       ],
       "$price": null,
       "inventory_qty": 91,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": null,
+      "published": true
     },
     {
       "$id": "123438",
@@ -956,7 +994,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/123438/1.jpg",
       "sku": "123438",
-      "price": "$19.99/BX",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/123438/1.jpg"
@@ -967,7 +1004,9 @@
       "tags": [],
       "$price": 19.99,
       "inventory_qty": 88,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$19.99/BX",
+      "published": true
     },
     {
       "$id": "196517",
@@ -976,7 +1015,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/196517/1.jpg",
       "sku": "196517",
-      "price": "$48.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/196517/1.jpg"
@@ -987,7 +1025,9 @@
       "tags": [],
       "$price": 48.99,
       "inventory_qty": 67,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$48.99 Sale",
+      "published": true
     },
     {
       "$id": "348037",
@@ -996,7 +1036,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/348037/1.jpg",
       "sku": "348037",
-      "price": "$48.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/348037/1.jpg"
@@ -1007,7 +1046,9 @@
       "tags": [],
       "$price": 48.99,
       "inventory_qty": 11,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$48.99 Sale",
+      "published": true
     },
     {
       "$id": "415601",
@@ -1016,7 +1057,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/415601/1.jpg",
       "sku": "415601",
-      "price": "$29.69/BX",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/415601/1.jpg"
@@ -1027,7 +1067,9 @@
       "tags": [],
       "$price": 29.69,
       "inventory_qty": 117,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.69/BX",
+      "published": true
     },
     {
       "$id": "347005",
@@ -1036,7 +1078,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/347005/1.jpg",
       "sku": "347005",
-      "price": "$62.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/347005/1.jpg"
@@ -1047,7 +1088,9 @@
       "tags": [],
       "$price": 62.99,
       "inventory_qty": 137,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$62.99 Sale",
+      "published": true
     },
     {
       "$id": "617206",
@@ -1056,7 +1099,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/617206/1.jpg",
       "sku": "617206",
-      "price": "$62.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/617206/1.jpg"
@@ -1067,7 +1109,9 @@
       "tags": [],
       "$price": 62.99,
       "inventory_qty": 31,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$62.99 Sale",
+      "published": true
     },
     {
       "$id": "5065656",
@@ -1076,7 +1120,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5065656/1.jpg",
       "sku": "5065656",
-      "price": "$69.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5065656/1.jpg"
@@ -1087,7 +1130,9 @@
       "tags": [],
       "$price": 69.99,
       "inventory_qty": 96,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$69.99 Sale",
+      "published": true
     },
     {
       "$id": "6886753",
@@ -1096,7 +1141,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6886753/1.jpg",
       "sku": "6886753",
-      "price": "$33.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6886753/1.jpg"
@@ -1107,7 +1151,9 @@
       "tags": [],
       "$price": 33.99,
       "inventory_qty": 20,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$33.99/pack",
+      "published": true
     },
     {
       "$id": "925382",
@@ -1116,7 +1162,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/925382/1.jpg",
       "sku": "925382",
-      "price": "$25.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/925382/1.jpg"
@@ -1127,7 +1172,9 @@
       "tags": [],
       "$price": 25.99,
       "inventory_qty": 141,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$25.99 Sale",
+      "published": true
     },
     {
       "$id": "876860",
@@ -1136,7 +1183,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/876860/1.jpg",
       "sku": "876860",
-      "price": "$45.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/876860/1.jpg"
@@ -1147,7 +1193,9 @@
       "tags": [],
       "$price": 45.99,
       "inventory_qty": 75,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$45.99 Sale",
+      "published": true
     },
     {
       "$id": "358955",
@@ -1156,7 +1204,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/358955/1.jpg",
       "sku": "358955",
-      "price": "$45.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/358955/1.jpg"
@@ -1167,7 +1214,9 @@
       "tags": [],
       "$price": 45.99,
       "inventory_qty": 92,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$45.99 Sale",
+      "published": true
     },
     {
       "$id": "417248",
@@ -1176,7 +1225,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/417248/1.jpg",
       "sku": "417248",
-      "price": "$37.19/BX",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/417248/1.jpg"
@@ -1187,7 +1235,9 @@
       "tags": [],
       "$price": 37.19,
       "inventory_qty": 147,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$37.19/BX",
+      "published": true
     },
     {
       "$id": "887614",
@@ -1196,7 +1246,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/887614/1.jpg",
       "sku": "887614",
-      "price": "$29.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/887614/1.jpg"
@@ -1207,7 +1256,9 @@
       "tags": [],
       "$price": 29.99,
       "inventory_qty": 49,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99 Sale",
+      "published": true
     },
     {
       "$id": "275474",
@@ -1216,7 +1267,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/275474/1.jpg",
       "sku": "275474",
-      "price": "$62.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/275474/1.jpg"
@@ -1227,7 +1277,9 @@
       "tags": [],
       "$price": 62.99,
       "inventory_qty": 17,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$62.99 Sale",
+      "published": true
     },
     {
       "$id": "503222",
@@ -1236,7 +1288,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/503222/1.jpg",
       "sku": "503222",
-      "price": "$25.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/503222/1.jpg"
@@ -1247,7 +1298,9 @@
       "tags": [],
       "$price": 25.99,
       "inventory_qty": 11,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$25.99/pack",
+      "published": true
     },
     {
       "$id": "478342",
@@ -1256,7 +1309,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/478342/1.jpg",
       "sku": "478342",
-      "price": "$29.69/ream",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/478342/1.jpg"
@@ -1267,7 +1319,9 @@
       "tags": [],
       "$price": 29.69,
       "inventory_qty": 58,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.69/ream",
+      "published": true
     },
     {
       "$id": "8648150",
@@ -1276,7 +1330,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8648150/1.jpg",
       "sku": "8648150",
-      "price": "$24.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8648150/1.jpg"
@@ -1287,7 +1340,9 @@
       "tags": [],
       "$price": 24.99,
       "inventory_qty": 74,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$24.99/pack",
+      "published": true
     },
     {
       "$id": "420283",
@@ -1296,7 +1351,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/420283/1.jpg",
       "sku": "420283",
-      "price": "$8.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/420283/1.jpg"
@@ -1307,7 +1361,9 @@
       "tags": [],
       "$price": 8.99,
       "inventory_qty": 20,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$8.99 Sale",
+      "published": true
     },
     {
       "$id": "332063",
@@ -1316,7 +1372,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/332063/1.jpg",
       "sku": "332063",
-      "price": "$8.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/332063/1.jpg"
@@ -1327,7 +1382,9 @@
       "tags": [],
       "$price": 8.99,
       "inventory_qty": 59,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$8.99",
+      "published": true
     },
     {
       "$id": "6887924",
@@ -1336,7 +1393,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6887924/1.jpg",
       "sku": "6887924",
-      "price": "$44.49/BX",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6887924/1.jpg"
@@ -1347,7 +1403,9 @@
       "tags": [],
       "$price": 44.49,
       "inventory_qty": 25,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$44.49/BX",
+      "published": true
     },
     {
       "$id": "3798345",
@@ -1356,7 +1414,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3798345/1.jpg",
       "sku": "3798345",
-      "price": "$39.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3798345/1.jpg"
@@ -1367,7 +1424,9 @@
       "tags": [],
       "$price": 39.99,
       "inventory_qty": 97,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$39.99 Sale",
+      "published": true
     },
     {
       "$id": "442306",
@@ -1376,7 +1435,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/442306/1.jpg",
       "sku": "442306",
-      "price": "$6.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/442306/1.jpg"
@@ -1387,7 +1445,9 @@
       "tags": [],
       "$price": 6.99,
       "inventory_qty": 71,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$6.99/pack",
+      "published": true
     },
     {
       "$id": "268091",
@@ -1396,7 +1456,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/268091/1.jpg",
       "sku": "268091",
-      "price": "$15.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/268091/1.jpg"
@@ -1407,7 +1466,9 @@
       "tags": [],
       "$price": 15.99,
       "inventory_qty": 116,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$15.99/pack",
+      "published": true
     },
     {
       "$id": "742013",
@@ -1416,7 +1477,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/742013/1.jpg",
       "sku": "742013",
-      "price": "$27.99/ream",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/742013/1.jpg"
@@ -1427,7 +1487,9 @@
       "tags": [],
       "$price": 27.99,
       "inventory_qty": 93,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$27.99/ream",
+      "published": true
     },
     {
       "$id": "307744",
@@ -1436,7 +1498,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/307744/1.jpg",
       "sku": "307744",
-      "price": "$10.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/307744/1.jpg"
@@ -1447,7 +1508,9 @@
       "tags": [],
       "$price": 10.99,
       "inventory_qty": 41,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$10.99/pack",
+      "published": true
     },
     {
       "$id": "895391",
@@ -1456,7 +1519,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/895391/1.jpg",
       "sku": "895391",
-      "price": "$1,899.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/895391/1.jpg"
@@ -1467,7 +1529,9 @@
       "tags": [],
       "$price": 1899.99,
       "inventory_qty": 94,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$1,899.99",
+      "published": true
     },
     {
       "$id": "268671",
@@ -1476,7 +1540,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/268671/1.jpg",
       "sku": "268671",
-      "price": "$15.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/268671/1.jpg"
@@ -1487,7 +1550,9 @@
       "tags": [],
       "$price": 15.99,
       "inventory_qty": 90,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$15.99/pack",
+      "published": true
     },
     {
       "$id": "532452",
@@ -1496,7 +1561,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/532452/1.jpg",
       "sku": "532452",
-      "price": "$34.39/BX",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/532452/1.jpg"
@@ -1507,7 +1571,9 @@
       "tags": [],
       "$price": 34.39,
       "inventory_qty": 53,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$34.39/BX",
+      "published": true
     },
     {
       "$id": "843787",
@@ -1516,7 +1582,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/843787/1.jpg",
       "sku": "843787",
-      "price": "$13.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/843787/1.jpg"
@@ -1527,7 +1592,9 @@
       "tags": [],
       "$price": 13.99,
       "inventory_qty": 68,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$13.99/pack",
+      "published": true
     },
     {
       "$id": "940643",
@@ -1536,7 +1603,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/940643/1.jpg",
       "sku": "940643",
-      "price": "$65.19 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/940643/1.jpg"
@@ -1547,7 +1613,9 @@
       "tags": [],
       "$price": 65.19,
       "inventory_qty": 18,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$65.19 Sale",
+      "published": true
     },
     {
       "$id": "443296",
@@ -1556,7 +1624,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/443296/1.jpg",
       "sku": "443296",
-      "price": "$19.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/443296/1.jpg"
@@ -1567,7 +1634,9 @@
       "tags": [],
       "$price": 19.99,
       "inventory_qty": 43,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$19.99/pack",
+      "published": true
     },
     {
       "$id": "8092932",
@@ -1576,7 +1645,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8092932/1.jpg",
       "sku": "8092932",
-      "price": "$31.99/pack",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8092932/1.jpg"
@@ -1587,7 +1655,9 @@
       "tags": [],
       "$price": 31.99,
       "inventory_qty": 136,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$31.99/pack",
+      "published": true
     },
     {
       "$id": "536648",
@@ -1596,7 +1666,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/536648/1.jpg",
       "sku": "536648",
-      "price": "$91.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/536648/1.jpg"
@@ -1607,7 +1676,9 @@
       "tags": [],
       "$price": 91.99,
       "inventory_qty": 62,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$91.99 Sale",
+      "published": true
     },
     {
       "$id": "neenah-premium-card-stock-bright-white-letter-8-5",
@@ -1616,7 +1687,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "$32.49/pack",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1627,7 +1697,9 @@
       "tags": [],
       "$price": 32.49,
       "inventory_qty": 41,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$32.49/pack",
+      "published": true
     },
     {
       "$id": "neenah-exact-index-premium-card-stock-8-5-x-11-110",
@@ -1636,7 +1708,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "$27.59/pack",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1647,7 +1718,9 @@
       "tags": [],
       "$price": 27.59,
       "inventory_qty": 118,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$27.59/pack",
+      "published": true
     },
     {
       "$id": "tul-discbound-refill-pages-8-1-2-x-11-narrow",
@@ -1656,7 +1729,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1667,7 +1739,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 97,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "sparco-notebook-filler-paper-letter-200",
@@ -1676,7 +1750,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1687,7 +1760,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 69,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "double-a-everyday-multi-use-printer-copy-paper",
@@ -1696,7 +1771,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1707,7 +1781,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 142,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "hammermill-premium-laser-paper-320-reams-white-let",
@@ -1716,7 +1792,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -1727,7 +1802,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 56,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "7610804",
@@ -1736,7 +1813,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7610804/1.jpg",
       "sku": "7610804",
-      "price": "$189.99 Sale",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7610804/1.jpg"
@@ -1747,7 +1823,9 @@
       "tags": [],
       "$price": 189.99,
       "inventory_qty": 83,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$189.99 Sale",
+      "published": true
     },
     {
       "$id": "9003237",
@@ -1756,7 +1834,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9003237/1.jpg",
       "sku": "9003237",
-      "price": "$359.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9003237/1.jpg"
@@ -1767,7 +1844,9 @@
       "tags": [],
       "$price": 359.99,
       "inventory_qty": 14,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$359.99",
+      "published": true
     },
     {
       "$id": "7380260",
@@ -1776,7 +1855,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7380260/1.jpg",
       "sku": "7380260",
-      "price": "$469.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7380260/1.jpg"
@@ -1787,7 +1865,9 @@
       "tags": [],
       "$price": 469.99,
       "inventory_qty": 58,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$469.99",
+      "published": true
     },
     {
       "$id": "8802103",
@@ -1796,7 +1876,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8802103/1.jpg",
       "sku": "8802103",
-      "price": "$169.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8802103/1.jpg"
@@ -1807,7 +1886,9 @@
       "tags": [],
       "$price": 169.99,
       "inventory_qty": 8,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$169.99",
+      "published": true
     },
     {
       "$id": "5094761",
@@ -1816,7 +1897,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5094761/1.jpg",
       "sku": "5094761",
-      "price": "$399.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5094761/1.jpg"
@@ -1827,7 +1907,9 @@
       "tags": [],
       "$price": 399.99,
       "inventory_qty": 80,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$399.99",
+      "published": true
     },
     {
       "$id": "604924",
@@ -1836,7 +1918,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/604924/1.jpg",
       "sku": "604924",
-      "price": "$219.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/604924/1.jpg"
@@ -1847,7 +1928,9 @@
       "tags": [],
       "$price": 219.99,
       "inventory_qty": 102,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$219.99",
+      "published": true
     },
     {
       "$id": "8366363",
@@ -1856,7 +1939,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8366363/1.jpg",
       "sku": "8366363",
-      "price": "$529.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8366363/1.jpg"
@@ -1867,7 +1949,9 @@
       "tags": [],
       "$price": 529.99,
       "inventory_qty": 68,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$529.99",
+      "published": true
     },
     {
       "$id": "9181888",
@@ -1876,7 +1960,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9181888/1.jpg",
       "sku": "9181888",
-      "price": "$54.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9181888/1.jpg"
@@ -1887,7 +1970,9 @@
       "tags": [],
       "$price": 54.99,
       "inventory_qty": 16,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$54.99",
+      "published": true
     },
     {
       "$id": "4983432",
@@ -1896,7 +1981,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4983432/1.jpg",
       "sku": "4983432",
-      "price": "$629.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4983432/1.jpg"
@@ -1907,7 +1991,9 @@
       "tags": [],
       "$price": 629.99,
       "inventory_qty": 54,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$629.99",
+      "published": true
     },
     {
       "$id": "956652",
@@ -1916,7 +2002,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/956652/1.jpg",
       "sku": "956652",
-      "price": "$489.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/956652/1.jpg"
@@ -1927,7 +2012,9 @@
       "tags": [],
       "$price": 489.99,
       "inventory_qty": 145,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$489.99",
+      "published": true
     },
     {
       "$id": "7011513",
@@ -1936,7 +2023,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7011513/1.jpg",
       "sku": "7011513",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7011513/1.jpg"
@@ -1947,7 +2033,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 80,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "7033410",
@@ -1956,7 +2044,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7033410/1.jpg",
       "sku": "7033410",
-      "price": "$169.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7033410/1.jpg"
@@ -1967,7 +2054,9 @@
       "tags": [],
       "$price": 169.99,
       "inventory_qty": 54,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$169.99",
+      "published": true
     },
     {
       "$id": "8938140",
@@ -1976,7 +2065,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8938140/1.jpg",
       "sku": "8938140",
-      "price": "$269.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8938140/1.jpg"
@@ -1987,7 +2075,9 @@
       "tags": [],
       "$price": 269.99,
       "inventory_qty": 127,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$269.99",
+      "published": true
     },
     {
       "$id": "7282832",
@@ -1996,7 +2086,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7282832/1.jpg",
       "sku": "7282832",
-      "price": "$399.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7282832/1.jpg"
@@ -2007,7 +2096,9 @@
       "tags": [],
       "$price": 399.99,
       "inventory_qty": 101,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$399.99",
+      "published": true
     },
     {
       "$id": "7728760",
@@ -2016,7 +2107,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7728760/1.jpg",
       "sku": "7728760",
-      "price": "$469.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7728760/1.jpg"
@@ -2027,7 +2117,9 @@
       "tags": [],
       "$price": 469.99,
       "inventory_qty": 117,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$469.99",
+      "published": true
     },
     {
       "$id": "7912680",
@@ -2036,7 +2128,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7912680/1.jpg",
       "sku": "7912680",
-      "price": "$139.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7912680/1.jpg"
@@ -2047,7 +2138,9 @@
       "tags": [],
       "$price": 139.99,
       "inventory_qty": 36,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$139.99",
+      "published": true
     },
     {
       "$id": "8179855",
@@ -2056,7 +2149,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8179855/1.jpg",
       "sku": "8179855",
-      "price": "$129.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8179855/1.jpg"
@@ -2067,7 +2159,9 @@
       "tags": [],
       "$price": 129.99,
       "inventory_qty": 67,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$129.99",
+      "published": true
     },
     {
       "$id": "6511328",
@@ -2076,7 +2170,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6511328/1.jpg",
       "sku": "6511328",
-      "price": "$629.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6511328/1.jpg"
@@ -2087,7 +2180,9 @@
       "tags": [],
       "$price": 629.99,
       "inventory_qty": 35,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$629.99",
+      "published": true
     },
     {
       "$id": "7093194",
@@ -2096,7 +2191,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7093194/1.jpg",
       "sku": "7093194",
-      "price": "$699.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7093194/1.jpg"
@@ -2107,7 +2201,9 @@
       "tags": [],
       "$price": 699.99,
       "inventory_qty": 63,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$699.99",
+      "published": true
     },
     {
       "$id": "6276910",
@@ -2116,7 +2212,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6276910/1.jpg",
       "sku": "6276910",
-      "price": "$49.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6276910/1.jpg"
@@ -2127,7 +2222,9 @@
       "tags": [],
       "$price": 49.99,
       "inventory_qty": 143,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$49.99",
+      "published": true
     },
     {
       "$id": "3763955",
@@ -2136,7 +2233,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3763955/1.jpg",
       "sku": "3763955",
-      "price": "$189.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3763955/1.jpg"
@@ -2147,7 +2243,9 @@
       "tags": [],
       "$price": 189.99,
       "inventory_qty": 137,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$189.99",
+      "published": true
     },
     {
       "$id": "7983472",
@@ -2156,7 +2254,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7983472/1.jpg",
       "sku": "7983472",
-      "price": "$279.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7983472/1.jpg"
@@ -2167,7 +2264,9 @@
       "tags": [],
       "$price": 279.99,
       "inventory_qty": 67,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$279.99",
+      "published": true
     },
     {
       "$id": "9393644",
@@ -2176,7 +2275,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9393644/1.jpg",
       "sku": "9393644",
-      "price": "$359.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9393644/1.jpg"
@@ -2187,7 +2285,9 @@
       "tags": [],
       "$price": 359.99,
       "inventory_qty": 149,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$359.99",
+      "published": true
     },
     {
       "$id": "4366424",
@@ -2196,7 +2296,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4366424/1.jpg",
       "sku": "4366424",
-      "price": "$359.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4366424/1.jpg"
@@ -2207,7 +2306,9 @@
       "tags": [],
       "$price": 359.99,
       "inventory_qty": 109,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$359.99",
+      "published": true
     },
     {
       "$id": "7791478",
@@ -2216,7 +2317,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7791478/1.jpg",
       "sku": "7791478",
-      "price": "$399.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7791478/1.jpg"
@@ -2227,7 +2327,9 @@
       "tags": [],
       "$price": 399.99,
       "inventory_qty": 149,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$399.99",
+      "published": true
     },
     {
       "$id": "9579648",
@@ -2236,7 +2338,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9579648/1.jpg",
       "sku": "9579648",
-      "price": "$149.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9579648/1.jpg"
@@ -2247,7 +2348,9 @@
       "tags": [],
       "$price": 149.99,
       "inventory_qty": 102,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$149.99",
+      "published": true
     },
     {
       "$id": "8506007",
@@ -2256,7 +2359,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8506007/1.jpg",
       "sku": "8506007",
-      "price": "$319.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8506007/1.jpg"
@@ -2267,7 +2369,9 @@
       "tags": [],
       "$price": 319.99,
       "inventory_qty": 92,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$319.99",
+      "published": true
     },
     {
       "$id": "6181674",
@@ -2276,7 +2380,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6181674/1.jpg",
       "sku": "6181674",
-      "price": "$249.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6181674/1.jpg"
@@ -2287,7 +2390,9 @@
       "tags": [],
       "$price": 249.99,
       "inventory_qty": 56,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$249.99",
+      "published": true
     },
     {
       "$id": "7134573",
@@ -2296,7 +2401,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7134573/1.jpg",
       "sku": "7134573",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7134573/1.jpg"
@@ -2307,7 +2411,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 35,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "388262",
@@ -2316,7 +2422,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/388262/1.jpg",
       "sku": "388262",
-      "price": "$249.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/388262/1.jpg"
@@ -2327,7 +2432,9 @@
       "tags": [],
       "$price": 249.99,
       "inventory_qty": 130,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$249.99",
+      "published": true
     },
     {
       "$id": "9550554",
@@ -2336,7 +2443,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9550554/1.jpg",
       "sku": "9550554",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9550554/1.jpg"
@@ -2347,7 +2453,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 126,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "7695097",
@@ -2356,7 +2464,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7695097/1.jpg",
       "sku": "7695097",
-      "price": "$289.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7695097/1.jpg"
@@ -2367,7 +2474,9 @@
       "tags": [],
       "$price": 289.99,
       "inventory_qty": 23,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$289.99",
+      "published": true
     },
     {
       "$id": "956697",
@@ -2376,7 +2485,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/956697/1.jpg",
       "sku": "956697",
-      "price": "$489.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/956697/1.jpg"
@@ -2387,7 +2495,9 @@
       "tags": [],
       "$price": 489.99,
       "inventory_qty": 12,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$489.99",
+      "published": true
     },
     {
       "$id": "workpro-uomo-ergonomic-mesh-fabric-mid-back-office",
@@ -2396,7 +2506,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "$249.99",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -2407,7 +2516,9 @@
       "tags": [],
       "$price": 249.99,
       "inventory_qty": 28,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$249.99",
+      "published": true
     },
     {
       "$id": "lorell-soft-high-back-executive-office-chair-black",
@@ -2416,7 +2527,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -2427,7 +2537,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 39,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "serta-smart-layers-arlington-air-bonded-leather-hi",
@@ -2436,7 +2548,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -2447,7 +2558,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 40,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "realspace-treswell-bonded-leather-high-back-execut",
@@ -2456,7 +2569,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -2467,7 +2579,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 108,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "2336442",
@@ -2476,7 +2590,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/2336442/1.jpg",
       "sku": "2336442",
-      "price": "$159.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/2336442/1.jpg"
@@ -2487,7 +2600,9 @@
       "tags": [],
       "$price": 159.99,
       "inventory_qty": 16,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$159.99",
+      "published": true
     },
     {
       "$id": "6236540",
@@ -2496,7 +2611,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6236540/1.jpg",
       "sku": "6236540",
-      "price": "$319.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6236540/1.jpg"
@@ -2507,7 +2621,9 @@
       "tags": [],
       "$price": 319.99,
       "inventory_qty": 98,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$319.99",
+      "published": true
     },
     {
       "$id": "7315017",
@@ -2516,7 +2632,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7315017/1.jpg",
       "sku": "7315017",
-      "price": "$319.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7315017/1.jpg"
@@ -2527,7 +2642,9 @@
       "tags": [],
       "$price": 319.99,
       "inventory_qty": 97,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$319.99",
+      "published": true
     },
     {
       "$id": "9800358",
@@ -2536,7 +2653,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9800358/1.jpg",
       "sku": "9800358",
-      "price": "$59.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9800358/1.jpg"
@@ -2547,7 +2663,9 @@
       "tags": [],
       "$price": 59.99,
       "inventory_qty": 119,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$59.99",
+      "published": true
     },
     {
       "$id": "5612889",
@@ -2556,7 +2674,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5612889/1.jpg",
       "sku": "5612889",
-      "price": "$69.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5612889/1.jpg"
@@ -2567,7 +2684,9 @@
       "tags": [],
       "$price": 69.99,
       "inventory_qty": 135,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$69.99",
+      "published": true
     },
     {
       "$id": "1511391",
@@ -2576,7 +2695,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1511391/1.jpg",
       "sku": "1511391",
-      "price": "$659.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1511391/1.jpg"
@@ -2587,7 +2705,9 @@
       "tags": [],
       "$price": 659.99,
       "inventory_qty": 64,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$659.99",
+      "published": true
     },
     {
       "$id": "8948010",
@@ -2596,7 +2716,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8948010/1.jpg",
       "sku": "8948010",
-      "price": "$20.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8948010/1.jpg"
@@ -2607,7 +2726,9 @@
       "tags": [],
       "$price": 20.99,
       "inventory_qty": 141,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$20.99",
+      "published": true
     },
     {
       "$id": "9422337",
@@ -2616,7 +2737,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9422337/1.jpg",
       "sku": "9422337",
-      "price": "$699.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9422337/1.jpg"
@@ -2627,7 +2747,9 @@
       "tags": [],
       "$price": 699.99,
       "inventory_qty": 2,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$699.99",
+      "published": true
     },
     {
       "$id": "431632",
@@ -2636,7 +2758,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/431632/1.jpg",
       "sku": "431632",
-      "price": "$167.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/431632/1.jpg"
@@ -2647,7 +2768,9 @@
       "tags": [],
       "$price": 167.89,
       "inventory_qty": 29,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$167.89",
+      "published": true
     },
     {
       "$id": "8885829",
@@ -2656,7 +2779,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8885829/1.jpg",
       "sku": "8885829",
-      "price": "$649.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8885829/1.jpg"
@@ -2667,7 +2789,9 @@
       "tags": [],
       "$price": 649.99,
       "inventory_qty": 137,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$649.99",
+      "published": true
     },
     {
       "$id": "5376594",
@@ -2676,7 +2800,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5376594/1.jpg",
       "sku": "5376594",
-      "price": "$145.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5376594/1.jpg"
@@ -2687,7 +2810,9 @@
       "tags": [],
       "$price": 145.89,
       "inventory_qty": 68,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$145.89",
+      "published": true
     },
     {
       "$id": "6207878",
@@ -2696,7 +2821,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6207878/1.jpg",
       "sku": "6207878",
-      "price": "$300.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6207878/1.jpg"
@@ -2707,7 +2831,9 @@
       "tags": [],
       "$price": 300.99,
       "inventory_qty": 87,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$300.99",
+      "published": true
     },
     {
       "$id": "4867914",
@@ -2716,7 +2842,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4867914/1.jpg",
       "sku": "4867914",
-      "price": "$281.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4867914/1.jpg"
@@ -2727,7 +2852,9 @@
       "tags": [],
       "$price": 281.89,
       "inventory_qty": 28,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$281.89",
+      "published": true
     },
     {
       "$id": "3754219",
@@ -2736,7 +2863,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3754219/1.jpg",
       "sku": "3754219",
-      "price": "$289.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3754219/1.jpg"
@@ -2747,7 +2873,9 @@
       "tags": [],
       "$price": 289.99,
       "inventory_qty": 75,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$289.99",
+      "published": true
     },
     {
       "$id": "9684150",
@@ -2756,7 +2884,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9684150/1.jpg",
       "sku": "9684150",
-      "price": "$154.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9684150/1.jpg"
@@ -2767,7 +2894,9 @@
       "tags": [],
       "$price": 154.89,
       "inventory_qty": 111,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$154.89",
+      "published": true
     },
     {
       "$id": "7272776",
@@ -2776,7 +2905,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7272776/1.jpg",
       "sku": "7272776",
-      "price": "$140.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7272776/1.jpg"
@@ -2787,7 +2915,9 @@
       "tags": [],
       "$price": 140.89,
       "inventory_qty": 40,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$140.89",
+      "published": true
     },
     {
       "$id": "9390598",
@@ -2796,7 +2926,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9390598/1.jpg",
       "sku": "9390598",
-      "price": "$176.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9390598/1.jpg"
@@ -2807,7 +2936,9 @@
       "tags": [],
       "$price": 176.49,
       "inventory_qty": 116,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$176.49",
+      "published": true
     },
     {
       "$id": "2451454",
@@ -2816,7 +2947,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/2451454/1.jpg",
       "sku": "2451454",
-      "price": "$169.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/2451454/1.jpg"
@@ -2827,7 +2957,9 @@
       "tags": [],
       "$price": 169.99,
       "inventory_qty": 0,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$169.99",
+      "published": true
     },
     {
       "$id": "9317685",
@@ -2836,7 +2968,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9317685/1.jpg",
       "sku": "9317685",
-      "price": "$176.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9317685/1.jpg"
@@ -2847,7 +2978,9 @@
       "tags": [],
       "$price": 176.49,
       "inventory_qty": 67,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$176.49",
+      "published": true
     },
     {
       "$id": "9517571",
@@ -2856,7 +2989,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9517571/1.jpg",
       "sku": "9517571",
-      "price": "$106.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9517571/1.jpg"
@@ -2867,7 +2999,9 @@
       "tags": [],
       "$price": 106.89,
       "inventory_qty": 128,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$106.89",
+      "published": true
     },
     {
       "$id": "7093346",
@@ -2876,7 +3010,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7093346/1.jpg",
       "sku": "7093346",
-      "price": "$146.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7093346/1.jpg"
@@ -2887,7 +3020,9 @@
       "tags": [],
       "$price": 146.89,
       "inventory_qty": 45,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$146.89",
+      "published": true
     },
     {
       "$id": "1579098",
@@ -2896,7 +3031,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1579098/1.jpg",
       "sku": "1579098",
-      "price": "$34.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1579098/1.jpg"
@@ -2907,7 +3041,9 @@
       "tags": [],
       "$price": 34.99,
       "inventory_qty": 129,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$34.99",
+      "published": true
     },
     {
       "$id": "8429722",
@@ -2916,7 +3052,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8429722/1.jpg",
       "sku": "8429722",
-      "price": "$78.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8429722/1.jpg"
@@ -2927,7 +3062,9 @@
       "tags": [],
       "$price": 78.89,
       "inventory_qty": 27,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$78.89",
+      "published": true
     },
     {
       "$id": "9215463",
@@ -2936,7 +3073,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9215463/1.jpg",
       "sku": "9215463",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9215463/1.jpg"
@@ -2947,7 +3083,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 76,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "6407107",
@@ -2956,7 +3094,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6407107/1.jpg",
       "sku": "6407107",
-      "price": "$305.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6407107/1.jpg"
@@ -2967,7 +3104,9 @@
       "tags": [],
       "$price": 305.89,
       "inventory_qty": 129,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$305.89",
+      "published": true
     },
     {
       "$id": "131290",
@@ -2976,7 +3115,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/131290/1.jpg",
       "sku": "131290",
-      "price": "$89.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/131290/1.jpg"
@@ -2987,7 +3125,9 @@
       "tags": [],
       "$price": 89.99,
       "inventory_qty": 50,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$89.99",
+      "published": true
     },
     {
       "$id": "7190891",
@@ -2996,7 +3136,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7190891/1.jpg",
       "sku": "7190891",
-      "price": "$369.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7190891/1.jpg"
@@ -3007,7 +3146,9 @@
       "tags": [],
       "$price": 369.99,
       "inventory_qty": 39,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$369.99",
+      "published": true
     },
     {
       "$id": "3767206",
@@ -3016,7 +3157,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3767206/1.jpg",
       "sku": "3767206",
-      "price": "$399.00",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3767206/1.jpg"
@@ -3027,7 +3167,9 @@
       "tags": [],
       "$price": 399.0,
       "inventory_qty": 95,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$399.00",
+      "published": true
     },
     {
       "$id": "5753919",
@@ -3036,7 +3178,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5753919/1.jpg",
       "sku": "5753919",
-      "price": "$569.59",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5753919/1.jpg"
@@ -3047,7 +3188,9 @@
       "tags": [],
       "$price": 569.59,
       "inventory_qty": 41,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$569.59",
+      "published": true
     },
     {
       "$id": "4536195",
@@ -3056,7 +3199,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4536195/1.jpg",
       "sku": "4536195",
-      "price": "$109.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4536195/1.jpg"
@@ -3067,7 +3209,9 @@
       "tags": [],
       "$price": 109.99,
       "inventory_qty": 138,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$109.99",
+      "published": true
     },
     {
       "$id": "6063401",
@@ -3076,7 +3220,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6063401/1.jpg",
       "sku": "6063401",
-      "price": "$679.00",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6063401/1.jpg"
@@ -3087,7 +3230,9 @@
       "tags": [],
       "$price": 679.0,
       "inventory_qty": 135,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$679.00",
+      "published": true
     },
     {
       "$id": "4036986",
@@ -3096,7 +3241,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4036986/1.jpg",
       "sku": "4036986",
-      "price": "$389.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4036986/1.jpg"
@@ -3107,7 +3251,9 @@
       "tags": [],
       "$price": 389.99,
       "inventory_qty": 0,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$389.99",
+      "published": true
     },
     {
       "$id": "6358993",
@@ -3116,7 +3262,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6358993/1.jpg",
       "sku": "6358993",
-      "price": "$292.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6358993/1.jpg"
@@ -3127,7 +3272,9 @@
       "tags": [],
       "$price": 292.99,
       "inventory_qty": 82,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$292.99",
+      "published": true
     },
     {
       "$id": "8143321",
@@ -3136,7 +3283,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8143321/1.jpg",
       "sku": "8143321",
-      "price": "$529.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8143321/1.jpg"
@@ -3147,7 +3293,9 @@
       "tags": [],
       "$price": 529.99,
       "inventory_qty": 125,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$529.99",
+      "published": true
     },
     {
       "$id": "4801247",
@@ -3156,7 +3304,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4801247/1.jpg",
       "sku": "4801247",
-      "price": "$309.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4801247/1.jpg"
@@ -3167,7 +3314,9 @@
       "tags": [],
       "$price": 309.99,
       "inventory_qty": 4,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$309.99",
+      "published": true
     },
     {
       "$id": "hp-officejet-pro-9135e-wireless-all-in-one-color-i",
@@ -3176,7 +3325,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -3187,7 +3335,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 28,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "corel-wordperfect-office-ag-standard-for-windows-p",
@@ -3196,7 +3346,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -3207,7 +3356,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 92,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "microsoft-surface-laptop-7-15-touchscreen-notebook",
@@ -3216,7 +3367,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -3227,7 +3377,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 78,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "lenovo-thinkcentre-m910q-tiny-refurbished-desktop",
@@ -3236,7 +3388,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -3247,7 +3398,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 61,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "acer-travelmate-p4-laptop-14-screen-intel-core",
@@ -3256,7 +3409,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -3267,7 +3419,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 14,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "193438",
@@ -3276,7 +3430,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/193438/1.jpg",
       "sku": "193438",
-      "price": "$99.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/193438/1.jpg"
@@ -3287,7 +3440,9 @@
       "tags": [],
       "$price": 99.99,
       "inventory_qty": 61,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$99.99",
+      "published": true
     },
     {
       "$id": "229580",
@@ -3296,7 +3451,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/229580/1.jpg",
       "sku": "229580",
-      "price": "$129.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/229580/1.jpg"
@@ -3307,7 +3461,9 @@
       "tags": [],
       "$price": 129.99,
       "inventory_qty": 145,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$129.99",
+      "published": true
     },
     {
       "$id": "301557",
@@ -3316,7 +3472,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/301557/1.jpg",
       "sku": "301557",
-      "price": "$49.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/301557/1.jpg"
@@ -3327,7 +3482,9 @@
       "tags": [],
       "$price": 49.99,
       "inventory_qty": 20,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$49.99",
+      "published": true
     },
     {
       "$id": "209262",
@@ -3336,7 +3493,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/209262/1.jpg",
       "sku": "209262",
-      "price": "$279.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/209262/1.jpg"
@@ -3347,7 +3503,9 @@
       "tags": [],
       "$price": 279.99,
       "inventory_qty": 21,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$279.99",
+      "published": true
     },
     {
       "$id": "8036693",
@@ -3356,7 +3514,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8036693/1.jpg",
       "sku": "8036693",
-      "price": "$234.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8036693/1.jpg"
@@ -3367,7 +3524,9 @@
       "tags": [],
       "$price": 234.99,
       "inventory_qty": 124,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$234.99",
+      "published": true
     },
     {
       "$id": "9334745",
@@ -3376,7 +3535,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9334745/1.jpg",
       "sku": "9334745",
-      "price": "$109.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9334745/1.jpg"
@@ -3387,7 +3545,9 @@
       "tags": [],
       "$price": 109.99,
       "inventory_qty": 17,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$109.99",
+      "published": true
     },
     {
       "$id": "6792655",
@@ -3396,7 +3556,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/6792655/1.jpg",
       "sku": "6792655",
-      "price": "$249.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/6792655/1.jpg"
@@ -3407,7 +3566,9 @@
       "tags": [],
       "$price": 249.99,
       "inventory_qty": 136,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$249.99",
+      "published": true
     },
     {
       "$id": "8545652",
@@ -3416,7 +3577,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8545652/1.jpg",
       "sku": "8545652",
-      "price": "$329.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8545652/1.jpg"
@@ -3427,7 +3587,9 @@
       "tags": [],
       "$price": 329.99,
       "inventory_qty": 32,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$329.99",
+      "published": true
     },
     {
       "$id": "9280196",
@@ -3436,7 +3598,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9280196/1.jpg",
       "sku": "9280196",
-      "price": "$559.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9280196/1.jpg"
@@ -3447,7 +3608,9 @@
       "tags": [],
       "$price": 559.99,
       "inventory_qty": 32,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$559.99",
+      "published": true
     },
     {
       "$id": "9985790",
@@ -3456,7 +3619,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9985790/1.jpg",
       "sku": "9985790",
-      "price": "$242.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9985790/1.jpg"
@@ -3467,7 +3629,9 @@
       "tags": [],
       "$price": 242.99,
       "inventory_qty": 121,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$242.99",
+      "published": true
     },
     {
       "$id": "447752",
@@ -3476,7 +3640,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/447752/1.jpg",
       "sku": "447752",
-      "price": "$201.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/447752/1.jpg"
@@ -3487,7 +3650,9 @@
       "tags": [],
       "$price": 201.49,
       "inventory_qty": 140,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$201.49",
+      "published": true
     },
     {
       "$id": "541155",
@@ -3496,7 +3661,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/541155/1.jpg",
       "sku": "541155",
-      "price": "$299.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/541155/1.jpg"
@@ -3507,7 +3671,9 @@
       "tags": [],
       "$price": 299.99,
       "inventory_qty": 42,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$299.99",
+      "published": true
     },
     {
       "$id": "7042712",
@@ -3516,7 +3682,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7042712/1.jpg",
       "sku": "7042712",
-      "price": "$229.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7042712/1.jpg"
@@ -3527,7 +3692,9 @@
       "tags": [],
       "$price": 229.99,
       "inventory_qty": 67,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$229.99",
+      "published": true
     },
     {
       "$id": "9662375",
@@ -3536,7 +3703,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9662375/1.jpg",
       "sku": "9662375",
-      "price": "$229.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9662375/1.jpg"
@@ -3547,7 +3713,9 @@
       "tags": [],
       "$price": 229.99,
       "inventory_qty": 135,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$229.99",
+      "published": true
     },
     {
       "$id": "5825866",
@@ -3556,7 +3724,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5825866/1.jpg",
       "sku": "5825866",
-      "price": "$768.39",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5825866/1.jpg"
@@ -3567,7 +3734,9 @@
       "tags": [],
       "$price": 768.39,
       "inventory_qty": 108,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$768.39",
+      "published": true
     },
     {
       "$id": "383084",
@@ -3576,7 +3745,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/383084/1.jpg",
       "sku": "383084",
-      "price": "$72.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/383084/1.jpg"
@@ -3587,7 +3755,9 @@
       "tags": [],
       "$price": 72.99,
       "inventory_qty": 54,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$72.99",
+      "published": true
     },
     {
       "$id": "1385290",
@@ -3596,7 +3766,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385290/1.jpg",
       "sku": "1385290",
-      "price": "$31.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385290/1.jpg"
@@ -3607,7 +3776,9 @@
       "tags": [],
       "$price": 31.99,
       "inventory_qty": 138,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$31.99",
+      "published": true
     },
     {
       "$id": "3024979",
@@ -3616,7 +3787,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3024979/1.jpg",
       "sku": "3024979",
-      "price": "$379.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3024979/1.jpg"
@@ -3627,7 +3797,9 @@
       "tags": [],
       "$price": 379.99,
       "inventory_qty": 51,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$379.99",
+      "published": true
     },
     {
       "$id": "3991110",
@@ -3636,7 +3808,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3991110/1.jpg",
       "sku": "3991110",
-      "price": "$19.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3991110/1.jpg"
@@ -3647,7 +3818,9 @@
       "tags": [],
       "$price": 19.99,
       "inventory_qty": 79,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$19.99",
+      "published": true
     },
     {
       "$id": "762286",
@@ -3656,7 +3829,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/762286/1.jpg",
       "sku": "762286",
-      "price": "$55.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/762286/1.jpg"
@@ -3667,7 +3839,9 @@
       "tags": [],
       "$price": 55.99,
       "inventory_qty": 102,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$55.99",
+      "published": true
     },
     {
       "$id": "314872",
@@ -3676,7 +3850,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/314872/1.jpg",
       "sku": "314872",
-      "price": "$78.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/314872/1.jpg"
@@ -3687,7 +3860,9 @@
       "tags": [],
       "$price": 78.99,
       "inventory_qty": 95,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$78.99",
+      "published": true
     },
     {
       "$id": "359247",
@@ -3696,7 +3871,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/359247/1.jpg",
       "sku": "359247",
-      "price": "$30.59",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/359247/1.jpg"
@@ -3707,7 +3881,9 @@
       "tags": [],
       "$price": 30.59,
       "inventory_qty": 112,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$30.59",
+      "published": true
     },
     {
       "$id": "8990490",
@@ -3716,7 +3892,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8990490/1.jpg",
       "sku": "8990490",
-      "price": "$451.69",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8990490/1.jpg"
@@ -3727,7 +3902,9 @@
       "tags": [],
       "$price": 451.69,
       "inventory_qty": 132,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$451.69",
+      "published": true
     },
     {
       "$id": "7784160",
@@ -3736,7 +3913,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7784160/1.jpg",
       "sku": "7784160",
-      "price": "$124.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7784160/1.jpg"
@@ -3747,7 +3923,9 @@
       "tags": [],
       "$price": 124.99,
       "inventory_qty": 115,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$124.99",
+      "published": true
     },
     {
       "$id": "458914",
@@ -3756,7 +3934,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/458914/1.jpg",
       "sku": "458914",
-      "price": "$29.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/458914/1.jpg"
@@ -3767,7 +3944,9 @@
       "tags": [],
       "$price": 29.99,
       "inventory_qty": 30,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99",
+      "published": true
     },
     {
       "$id": "8677384",
@@ -3776,7 +3955,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8677384/1.jpg",
       "sku": "8677384",
-      "price": "$399.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8677384/1.jpg"
@@ -3787,7 +3965,9 @@
       "tags": [],
       "$price": 399.99,
       "inventory_qty": 63,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$399.99",
+      "published": true
     },
     {
       "$id": "2679216",
@@ -3796,7 +3976,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/2679216/1.jpg",
       "sku": "2679216",
-      "price": "$38.59",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/2679216/1.jpg"
@@ -3807,7 +3986,9 @@
       "tags": [],
       "$price": 38.59,
       "inventory_qty": 57,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$38.59",
+      "published": true
     },
     {
       "$id": "8090464",
@@ -3816,7 +3997,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/8090464/1.jpg",
       "sku": "8090464",
-      "price": "$1,499.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/8090464/1.jpg"
@@ -3827,7 +4007,9 @@
       "tags": [],
       "$price": 1499.99,
       "inventory_qty": 16,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$1,499.99",
+      "published": true
     },
     {
       "$id": "9148089",
@@ -3836,7 +4018,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9148089/1.jpg",
       "sku": "9148089",
-      "price": "$223.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9148089/1.jpg"
@@ -3847,7 +4028,9 @@
       "tags": [],
       "$price": 223.99,
       "inventory_qty": 86,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$223.99",
+      "published": true
     },
     {
       "$id": "991152",
@@ -3856,7 +4039,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/991152/1.jpg",
       "sku": "991152",
-      "price": "$31.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/991152/1.jpg"
@@ -3867,7 +4049,9 @@
       "tags": [],
       "$price": 31.99,
       "inventory_qty": 5,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$31.99",
+      "published": true
     },
     {
       "$id": "5645834",
@@ -3876,7 +4060,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5645834/1.jpg",
       "sku": "5645834",
-      "price": "$551.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5645834/1.jpg"
@@ -3887,7 +4070,9 @@
       "tags": [],
       "$price": 551.49,
       "inventory_qty": 150,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$551.49",
+      "published": true
     },
     {
       "$id": "7264808",
@@ -3896,7 +4081,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7264808/1.jpg",
       "sku": "7264808",
-      "price": "$249.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7264808/1.jpg"
@@ -3907,7 +4091,9 @@
       "tags": [],
       "$price": 249.99,
       "inventory_qty": 141,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$249.99",
+      "published": true
     },
     {
       "$id": "9260499",
@@ -3916,7 +4102,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/9260499/1.jpg",
       "sku": "9260499",
-      "price": "$129.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/9260499/1.jpg"
@@ -3927,7 +4112,9 @@
       "tags": [],
       "$price": 129.99,
       "inventory_qty": 58,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$129.99",
+      "published": true
     },
     {
       "$id": "660678",
@@ -3936,7 +4123,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/660678/1.jpg",
       "sku": "660678",
-      "price": "$109.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/660678/1.jpg"
@@ -3947,7 +4133,9 @@
       "tags": [],
       "$price": 109.99,
       "inventory_qty": 150,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$109.99",
+      "published": true
     },
     {
       "$id": "4812579",
@@ -3956,7 +4144,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4812579/1.jpg",
       "sku": "4812579",
-      "price": "$24.95",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4812579/1.jpg"
@@ -3967,7 +4154,9 @@
       "tags": [],
       "$price": 24.95,
       "inventory_qty": 56,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$24.95",
+      "published": true
     },
     {
       "$id": "545469",
@@ -3976,7 +4165,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/545469/1.jpg",
       "sku": "545469",
-      "price": "$29.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/545469/1.jpg"
@@ -3987,7 +4175,9 @@
       "tags": [],
       "$price": 29.99,
       "inventory_qty": 1,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99",
+      "published": true
     },
     {
       "$id": "ricoh-fi-7600-document-scanner-dual",
@@ -3996,7 +4186,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4007,7 +4196,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 18,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "fujitsu-fi-8170-document-scanner-dual-cis",
@@ -4016,7 +4207,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4027,7 +4217,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 15,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "ricoh-fi-7700-document-scanner-triple",
@@ -4036,7 +4228,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4047,7 +4238,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 58,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "iris-iriscan-desk-6-a3-pro-camera-document",
@@ -4056,7 +4249,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4067,7 +4259,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 17,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "3890558",
@@ -4076,7 +4270,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3890558/1.jpg",
       "sku": "3890558",
-      "price": "$26.59",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3890558/1.jpg"
@@ -4087,7 +4280,9 @@
       "tags": [],
       "$price": 26.59,
       "inventory_qty": 8,
-      "inventory_policy": 1
+      "inventory_policy": 1,
+      "price_text": "$26.59",
+      "published": true
     },
     {
       "$id": "1745704",
@@ -4096,7 +4291,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1745704/1.jpg",
       "sku": "1745704",
-      "price": "$106.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1745704/1.jpg"
@@ -4107,7 +4301,9 @@
       "tags": [],
       "$price": 106.49,
       "inventory_qty": 84,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$106.49",
+      "published": true
     },
     {
       "$id": "7601540",
@@ -4116,7 +4312,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7601540/1.jpg",
       "sku": "7601540",
-      "price": "$24.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7601540/1.jpg"
@@ -4127,7 +4322,9 @@
       "tags": [],
       "$price": 24.99,
       "inventory_qty": 18,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$24.99",
+      "published": true
     },
     {
       "$id": "592768",
@@ -4136,7 +4333,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/592768/1.jpg",
       "sku": "592768",
-      "price": "$40.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/592768/1.jpg"
@@ -4147,7 +4343,9 @@
       "tags": [],
       "$price": 40.99,
       "inventory_qty": 131,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$40.99",
+      "published": true
     },
     {
       "$id": "7823035",
@@ -4156,7 +4354,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7823035/1.jpg",
       "sku": "7823035",
-      "price": "$50.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7823035/1.jpg"
@@ -4167,7 +4364,9 @@
       "tags": [],
       "$price": 50.99,
       "inventory_qty": 60,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$50.99",
+      "published": true
     },
     {
       "$id": "7954161",
@@ -4176,7 +4375,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/7954161/1.jpg",
       "sku": "7954161",
-      "price": "$29.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/7954161/1.jpg"
@@ -4187,7 +4385,9 @@
       "tags": [],
       "$price": 29.99,
       "inventory_qty": 71,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$29.99",
+      "published": true
     },
     {
       "$id": "420782",
@@ -4196,7 +4396,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/420782/1.jpg",
       "sku": "420782",
-      "price": "$19.69",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/420782/1.jpg"
@@ -4207,7 +4406,9 @@
       "tags": [],
       "$price": 19.69,
       "inventory_qty": 124,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$19.69",
+      "published": true
     },
     {
       "$id": "251600",
@@ -4216,7 +4417,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/251600/1.jpg",
       "sku": "251600",
-      "price": "$83.09",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/251600/1.jpg"
@@ -4227,7 +4427,9 @@
       "tags": [],
       "$price": 83.09,
       "inventory_qty": 54,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$83.09",
+      "published": true
     },
     {
       "$id": "618405",
@@ -4236,7 +4438,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/618405/1.jpg",
       "sku": "618405",
-      "price": "$18.79",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/618405/1.jpg"
@@ -4247,7 +4448,9 @@
       "tags": [],
       "$price": 18.79,
       "inventory_qty": 138,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$18.79",
+      "published": true
     },
     {
       "$id": "108448",
@@ -4256,7 +4459,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/108448/1.jpg",
       "sku": "108448",
-      "price": "$94.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/108448/1.jpg"
@@ -4267,7 +4469,9 @@
       "tags": [],
       "$price": 94.99,
       "inventory_qty": 33,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$94.99",
+      "published": true
     },
     {
       "$id": "849408",
@@ -4276,7 +4480,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/849408/1.jpg",
       "sku": "849408",
-      "price": "$84.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/849408/1.jpg"
@@ -4287,7 +4490,9 @@
       "tags": [],
       "$price": 84.89,
       "inventory_qty": 146,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$84.89",
+      "published": true
     },
     {
       "$id": "677198",
@@ -4296,7 +4501,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/677198/1.jpg",
       "sku": "677198",
-      "price": "$21.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/677198/1.jpg"
@@ -4307,7 +4511,9 @@
       "tags": [],
       "$price": 21.49,
       "inventory_qty": 147,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$21.49",
+      "published": true
     },
     {
       "$id": "5921492",
@@ -4316,7 +4522,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/5921492/1.jpg",
       "sku": "5921492",
-      "price": "$25.48",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/5921492/1.jpg"
@@ -4327,7 +4532,9 @@
       "tags": [],
       "$price": 25.48,
       "inventory_qty": 121,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$25.48",
+      "published": true
     },
     {
       "$id": "694170",
@@ -4336,7 +4543,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/694170/1.jpg",
       "sku": "694170",
-      "price": "$17.39",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/694170/1.jpg"
@@ -4347,7 +4553,9 @@
       "tags": [],
       "$price": 17.39,
       "inventory_qty": 62,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$17.39",
+      "published": true
     },
     {
       "$id": "683707",
@@ -4356,7 +4564,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/683707/1.jpg",
       "sku": "683707",
-      "price": "$73.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/683707/1.jpg"
@@ -4367,7 +4574,9 @@
       "tags": [],
       "$price": 73.99,
       "inventory_qty": 121,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$73.99",
+      "published": true
     },
     {
       "$id": "1385335",
@@ -4376,7 +4585,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385335/1.jpg",
       "sku": "1385335",
-      "price": "$81.29",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/1385335/1.jpg"
@@ -4387,7 +4595,9 @@
       "tags": [],
       "$price": 81.29,
       "inventory_qty": 104,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$81.29",
+      "published": true
     },
     {
       "$id": "251616",
@@ -4396,7 +4606,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/251616/1.jpg",
       "sku": "251616",
-      "price": "$69.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/251616/1.jpg"
@@ -4407,7 +4616,9 @@
       "tags": [],
       "$price": 69.99,
       "inventory_qty": 48,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$69.99",
+      "published": true
     },
     {
       "$id": "3724818",
@@ -4416,7 +4627,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/3724818/1.jpg",
       "sku": "3724818",
-      "price": "$21.67",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/3724818/1.jpg"
@@ -4427,7 +4637,9 @@
       "tags": [],
       "$price": 21.67,
       "inventory_qty": 24,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$21.67",
+      "published": true
     },
     {
       "$id": "239992",
@@ -4436,7 +4648,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/239992/1.jpg",
       "sku": "239992",
-      "price": "$32.29",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/239992/1.jpg"
@@ -4447,7 +4658,9 @@
       "tags": [],
       "$price": 32.29,
       "inventory_qty": 24,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$32.29",
+      "published": true
     },
     {
       "$id": "771718",
@@ -4456,7 +4669,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/771718/1.jpg",
       "sku": "771718",
-      "price": "$33.09",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/771718/1.jpg"
@@ -4467,7 +4679,9 @@
       "tags": [],
       "$price": 33.09,
       "inventory_qty": 110,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$33.09",
+      "published": true
     },
     {
       "$id": "756620",
@@ -4476,7 +4690,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/756620/1.jpg",
       "sku": "756620",
-      "price": "$53.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/756620/1.jpg"
@@ -4487,7 +4700,9 @@
       "tags": [],
       "$price": 53.99,
       "inventory_qty": 90,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$53.99",
+      "published": true
     },
     {
       "$id": "592812",
@@ -4496,7 +4711,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/592812/1.jpg",
       "sku": "592812",
-      "price": "$60.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/592812/1.jpg"
@@ -4507,7 +4721,9 @@
       "tags": [],
       "$price": 60.49,
       "inventory_qty": 108,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$60.49",
+      "published": true
     },
     {
       "$id": "696386",
@@ -4516,7 +4732,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/696386/1.jpg",
       "sku": "696386",
-      "price": "$15.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/696386/1.jpg"
@@ -4527,7 +4742,9 @@
       "tags": [],
       "$price": 15.99,
       "inventory_qty": 105,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$15.99",
+      "published": true
     },
     {
       "$id": "411809",
@@ -4536,7 +4753,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/411809/1.jpg",
       "sku": "411809",
-      "price": "$44.09",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/411809/1.jpg"
@@ -4547,7 +4763,9 @@
       "tags": [],
       "$price": 44.09,
       "inventory_qty": 119,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$44.09",
+      "published": true
     },
     {
       "$id": "4578903",
@@ -4556,7 +4774,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/4578903/1.jpg",
       "sku": "4578903",
-      "price": "$21.99",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/4578903/1.jpg"
@@ -4567,7 +4784,9 @@
       "tags": [],
       "$price": 21.99,
       "inventory_qty": 13,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$21.99",
+      "published": true
     },
     {
       "$id": "693850",
@@ -4576,7 +4795,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/693850/1.jpg",
       "sku": "693850",
-      "price": "$38.89",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/693850/1.jpg"
@@ -4587,7 +4805,9 @@
       "tags": [],
       "$price": 38.89,
       "inventory_qty": 25,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$38.89",
+      "published": true
     },
     {
       "$id": "415155",
@@ -4596,7 +4816,6 @@
       "$description": null,
       "$image_link": "https://media.officedepot.com/images/t_large%2Cf_auto/products/415155/1.jpg",
       "sku": "415155",
-      "price": "$38.49",
       "currency": "USD",
       "images": [
         "https://media.officedepot.com/images/t_large%2Cf_auto/products/415155/1.jpg"
@@ -4607,7 +4826,9 @@
       "tags": [],
       "$price": 38.49,
       "inventory_qty": 15,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$38.49",
+      "published": true
     },
     {
       "$id": "winther-turtle-kiddy-bus-and-stroller-6-seats",
@@ -4616,7 +4837,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "$2,343.99",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4627,7 +4847,9 @@
       "tags": [],
       "$price": 2343.99,
       "inventory_qty": 103,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "$2,343.99",
+      "published": true
     },
     {
       "$id": "cottonelle-professional-standard-roll-toilet-paper",
@@ -4636,7 +4858,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4647,7 +4868,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 86,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "angel-soft-professional-series-by-gp-pro-premium",
@@ -4656,7 +4879,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4667,7 +4889,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 27,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "charmin-essentials-2-ply-soft-mega-toilet-paper",
@@ -4676,7 +4900,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4687,7 +4910,9 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 63,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     },
     {
       "$id": "taylor-7029-lithium-digital-scale-330-lb",
@@ -4696,7 +4921,6 @@
       "$description": null,
       "$image_link": "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg",
       "sku": "",
-      "price": "",
       "currency": "USD",
       "images": [
         "https://imgcdn.stablediffusionweb.com/2024/5/18/f7857d6c-5af6-4ebd-b2a5-15a9dd1e2fe5.jpg"
@@ -4707,6 +4931,8 @@
       "tags": [],
       "$price": null,
       "inventory_qty": 49,
-      "inventory_policy": 2
+      "inventory_policy": 2,
+      "price_text": "",
+      "published": true
     }
   ]
