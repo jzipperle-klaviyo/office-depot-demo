@@ -16,10 +16,10 @@
       ],
       "tags": [],
       "$price": 15.99,
-      "inventory_qty": 28,
-      "inventory_policy": 2,
       "price_text": "$15.99/pack($0.32/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 28,
+      "$inventory_policy": 2
     },
     {
       "$id": "898782",
@@ -42,10 +42,10 @@
         "USPS"
       ],
       "$price": 78.0,
-      "inventory_qty": 6,
-      "inventory_policy": 1,
       "price_text": "$78.00/roll($0.78/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 6,
+      "$inventory_policy": 1
     },
     {
       "$id": "633984",
@@ -68,10 +68,10 @@
         "#10"
       ],
       "$price": 39.99,
-      "inventory_qty": 70,
-      "inventory_policy": 2,
       "price_text": "$39.99/BX($0.08/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 70,
+      "$inventory_policy": 2
     },
     {
       "$id": "938678",
@@ -94,10 +94,10 @@
         "p-touch"
       ],
       "$price": 34.99,
-      "inventory_qty": 62,
-      "inventory_policy": 2,
       "price_text": "$34.99/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 62,
+      "$inventory_policy": 2
     },
     {
       "$id": "810838",
@@ -120,10 +120,10 @@
         "manila"
       ],
       "$price": 22.89,
-      "inventory_qty": 57,
-      "inventory_policy": 2,
       "price_text": "$22.89/BX($0.23/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 57,
+      "$inventory_policy": 2
     },
     {
       "$id": "336977",
@@ -146,10 +146,10 @@
         "super sticky"
       ],
       "$price": 29.99,
-      "inventory_qty": 35,
-      "inventory_policy": 2,
       "price_text": "$29.99/pack($0.02/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 35,
+      "$inventory_policy": 2
     },
     {
       "$id": "364364",
@@ -172,10 +172,10 @@
         "5160"
       ],
       "$price": 42.99,
-      "inventory_qty": 26,
-      "inventory_policy": 2,
       "price_text": "$42.99/BX($0.01/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 26,
+      "$inventory_policy": 2
     },
     {
       "$id": "8091365",
@@ -198,10 +198,10 @@
         "handheld"
       ],
       "$price": 24.99,
-      "inventory_qty": 139,
-      "inventory_policy": 2,
       "price_text": "$24.99/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 139,
+      "$inventory_policy": 2
     },
     {
       "$id": "6275549",
@@ -224,10 +224,10 @@
         "filing"
       ],
       "$price": 21.27,
-      "inventory_qty": 22,
-      "inventory_policy": 1,
       "price_text": "$21.27 Sale($2.13/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 22,
+      "$inventory_policy": 1
     },
     {
       "$id": "679347",
@@ -250,10 +250,10 @@
         "envelopes"
       ],
       "$price": 48.99,
-      "inventory_qty": 108,
-      "inventory_policy": 2,
       "price_text": "$48.99/BX($0.20/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 108,
+      "$inventory_policy": 2
     },
     {
       "$id": "645927",
@@ -276,10 +276,10 @@
         "letter size"
       ],
       "$price": 51.49,
-      "inventory_qty": 8,
-      "inventory_policy": 2,
       "price_text": "$51.49/BX($0.21/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 8,
+      "$inventory_policy": 2
     },
     {
       "$id": "381038",
@@ -302,10 +302,10 @@
         "QL-800"
       ],
       "$price": 124.99,
-      "inventory_qty": 7,
-      "inventory_policy": 2,
       "price_text": "$124.99/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 7,
+      "$inventory_policy": 2
     },
     {
       "$id": "1230652",
@@ -327,10 +327,10 @@
         "sticky notes"
       ],
       "$price": 26.99,
-      "inventory_qty": 23,
-      "inventory_policy": 2,
       "price_text": "$26.99/pack($0.01/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 23,
+      "$inventory_policy": 2
     },
     {
       "$id": "7300391",
@@ -353,10 +353,10 @@
         "durable"
       ],
       "$price": 38.79,
-      "inventory_qty": 55,
-      "inventory_policy": 1,
       "price_text": "$38.79/pack($6.46/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 55,
+      "$inventory_policy": 1
     },
     {
       "$id": "512950",
@@ -379,10 +379,10 @@
         "same-day"
       ],
       "$price": null,
-      "inventory_qty": 59,
-      "inventory_policy": 2,
       "price_text": "Starting at",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 59,
+      "$inventory_policy": 2
     },
     {
       "$id": "277294",
@@ -405,10 +405,10 @@
         "M-231"
       ],
       "$price": 13.49,
-      "inventory_qty": 129,
-      "inventory_policy": 2,
       "price_text": "$13.49/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 129,
+      "$inventory_policy": 2
     },
     {
       "$id": "951851",
@@ -431,10 +431,10 @@
         "dry-erase"
       ],
       "$price": 199.99,
-      "inventory_qty": 6,
-      "inventory_policy": 1,
       "price_text": "$199.99/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 6,
+      "$inventory_policy": 1
     },
     {
       "$id": "679689",
@@ -457,10 +457,10 @@
         "#10"
       ],
       "$price": 57.99,
-      "inventory_qty": 143,
-      "inventory_policy": 2,
       "price_text": "$57.99/BX($0.23/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 143,
+      "$inventory_policy": 2
     },
     {
       "$id": "330808",
@@ -483,10 +483,10 @@
         "9x12"
       ],
       "$price": 37.99,
-      "inventory_qty": 50,
-      "inventory_policy": 2,
       "price_text": "$37.99/BX($0.38/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 50,
+      "$inventory_policy": 2
     },
     {
       "$id": "1536505",
@@ -509,10 +509,10 @@
         "9x12"
       ],
       "$price": 29.99,
-      "inventory_qty": 139,
-      "inventory_policy": 2,
       "price_text": "$29.99/pack($0.30/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 139,
+      "$inventory_policy": 2
     },
     {
       "$id": "618017",
@@ -535,10 +535,10 @@
         "super sticky"
       ],
       "$price": 32.49,
-      "inventory_qty": 107,
-      "inventory_policy": 2,
       "price_text": "$32.49/pad($1.08/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 107,
+      "$inventory_policy": 2
     },
     {
       "$id": "190294",
@@ -561,10 +561,10 @@
         "#9"
       ],
       "$price": 79.99,
-      "inventory_qty": 56,
-      "inventory_policy": 2,
       "price_text": "$79.99/pack($0.16/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 56,
+      "$inventory_policy": 2
     },
     {
       "$id": "1390240",
@@ -587,10 +587,10 @@
         "markers"
       ],
       "$price": 24.99,
-      "inventory_qty": 114,
-      "inventory_policy": 2,
       "price_text": "$24.99 Sale($0.69/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 114,
+      "$inventory_policy": 2
     },
     {
       "$id": "350960",
@@ -613,10 +613,10 @@
         "inkjoy"
       ],
       "$price": 21.99,
-      "inventory_qty": 150,
-      "inventory_policy": 2,
       "price_text": "$21.99/pack($1.57/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 150,
+      "$inventory_policy": 2
     },
     {
       "$id": "330888",
@@ -639,10 +639,10 @@
         "10x13"
       ],
       "$price": 39.99,
-      "inventory_qty": 71,
-      "inventory_policy": 2,
       "price_text": "$39.99/BX($0.40/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 71,
+      "$inventory_policy": 2
     },
     {
       "$id": "172816",
@@ -665,10 +665,10 @@
         "manila"
       ],
       "$price": 22.69,
-      "inventory_qty": 1,
-      "inventory_policy": 2,
       "price_text": "$22.69/BX($0.15/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 1,
+      "$inventory_policy": 2
     },
     {
       "$id": "826876",
@@ -691,10 +691,10 @@
         "BIC"
       ],
       "$price": 17.99,
-      "inventory_qty": 40,
-      "inventory_policy": 2,
       "price_text": "$17.99 Sale($1.80/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 40,
+      "$inventory_policy": 2
     },
     {
       "$id": "533591",
@@ -717,10 +717,10 @@
         "10x13"
       ],
       "$price": 29.29,
-      "inventory_qty": 108,
-      "inventory_policy": 2,
       "price_text": "$29.29/pack($0.29/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 108,
+      "$inventory_policy": 2
     },
     {
       "$id": "578448",
@@ -743,10 +743,10 @@
         "cushioning"
       ],
       "$price": 19.99,
-      "inventory_qty": 87,
-      "inventory_policy": 1,
       "price_text": "$19.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 87,
+      "$inventory_policy": 1
     },
     {
       "$id": "1451854",
@@ -769,10 +769,10 @@
         "thermal"
       ],
       "$price": 34.99,
-      "inventory_qty": 71,
-      "inventory_policy": 1,
       "price_text": "$34.99 Sale($0.17/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 71,
+      "$inventory_policy": 1
     },
     {
       "$id": "541545",
@@ -796,10 +796,10 @@
         "booklet"
       ],
       "$price": 15.6,
-      "inventory_qty": 39,
-      "inventory_policy": 1,
       "price_text": "$15.60/each",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 39,
+      "$inventory_policy": 1
     },
     {
       "$id": "5318188",
@@ -822,10 +822,10 @@
         "label tape"
       ],
       "$price": 68.99,
-      "inventory_qty": 55,
-      "inventory_policy": 2,
       "price_text": "$68.99/pack($11.50/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 55,
+      "$inventory_policy": 2
     },
     {
       "$id": "9817000",
@@ -849,10 +849,10 @@
         "retractable"
       ],
       "$price": 44.99,
-      "inventory_qty": 86,
-      "inventory_policy": 2,
       "price_text": "$44.99 Sale($1.25/count)",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 86,
+      "$inventory_policy": 2
     },
     {
       "$id": "664011",
@@ -875,10 +875,10 @@
         "round stic"
       ],
       "$price": 6.99,
-      "inventory_qty": 26,
-      "inventory_policy": 2,
       "price_text": "$6.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 26,
+      "$inventory_policy": 2
     },
     {
       "$id": "9730858",
@@ -902,10 +902,10 @@
         "permanent"
       ],
       "$price": null,
-      "inventory_qty": 23,
-      "inventory_policy": 2,
       "price_text": null,
-      "published": true
+      "published": true,
+      "$inventory_quantity": 23,
+      "$inventory_policy": 2
     },
     {
       "$id": "8258449",
@@ -928,10 +928,10 @@
         "asset tags"
       ],
       "$price": null,
-      "inventory_qty": 97,
-      "inventory_policy": 2,
       "price_text": null,
-      "published": true
+      "published": true,
+      "$inventory_quantity": 97,
+      "$inventory_policy": 2
     },
     {
       "$id": "9322761",
@@ -955,10 +955,10 @@
         "white"
       ],
       "$price": null,
-      "inventory_qty": 24,
-      "inventory_policy": 2,
       "price_text": null,
-      "published": true
+      "published": true,
+      "$inventory_quantity": 24,
+      "$inventory_policy": 2
     },
     {
       "$id": "9529757",
@@ -982,10 +982,10 @@
         "sure feed"
       ],
       "$price": null,
-      "inventory_qty": 91,
-      "inventory_policy": 2,
       "price_text": null,
-      "published": true
+      "published": true,
+      "$inventory_quantity": 91,
+      "$inventory_policy": 2
     },
     {
       "$id": "123438",
@@ -1003,10 +1003,10 @@
       ],
       "tags": [],
       "$price": 19.99,
-      "inventory_qty": 88,
-      "inventory_policy": 2,
       "price_text": "$19.99/BX",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 88,
+      "$inventory_policy": 2
     },
     {
       "$id": "196517",
@@ -1024,10 +1024,10 @@
       ],
       "tags": [],
       "$price": 48.99,
-      "inventory_qty": 67,
-      "inventory_policy": 2,
       "price_text": "$48.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 67,
+      "$inventory_policy": 2
     },
     {
       "$id": "348037",
@@ -1045,10 +1045,10 @@
       ],
       "tags": [],
       "$price": 48.99,
-      "inventory_qty": 11,
-      "inventory_policy": 2,
       "price_text": "$48.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 11,
+      "$inventory_policy": 2
     },
     {
       "$id": "415601",
@@ -1066,10 +1066,10 @@
       ],
       "tags": [],
       "$price": 29.69,
-      "inventory_qty": 117,
-      "inventory_policy": 2,
       "price_text": "$29.69/BX",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 117,
+      "$inventory_policy": 2
     },
     {
       "$id": "347005",
@@ -1087,10 +1087,10 @@
       ],
       "tags": [],
       "$price": 62.99,
-      "inventory_qty": 137,
-      "inventory_policy": 2,
       "price_text": "$62.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 137,
+      "$inventory_policy": 2
     },
     {
       "$id": "617206",
@@ -1108,10 +1108,10 @@
       ],
       "tags": [],
       "$price": 62.99,
-      "inventory_qty": 31,
-      "inventory_policy": 2,
       "price_text": "$62.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 31,
+      "$inventory_policy": 2
     },
     {
       "$id": "5065656",
@@ -1129,10 +1129,10 @@
       ],
       "tags": [],
       "$price": 69.99,
-      "inventory_qty": 96,
-      "inventory_policy": 2,
       "price_text": "$69.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 96,
+      "$inventory_policy": 2
     },
     {
       "$id": "6886753",
@@ -1150,10 +1150,10 @@
       ],
       "tags": [],
       "$price": 33.99,
-      "inventory_qty": 20,
-      "inventory_policy": 2,
       "price_text": "$33.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 20,
+      "$inventory_policy": 2
     },
     {
       "$id": "925382",
@@ -1171,10 +1171,10 @@
       ],
       "tags": [],
       "$price": 25.99,
-      "inventory_qty": 141,
-      "inventory_policy": 2,
       "price_text": "$25.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 141,
+      "$inventory_policy": 2
     },
     {
       "$id": "876860",
@@ -1192,10 +1192,10 @@
       ],
       "tags": [],
       "$price": 45.99,
-      "inventory_qty": 75,
-      "inventory_policy": 2,
       "price_text": "$45.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 75,
+      "$inventory_policy": 2
     },
     {
       "$id": "358955",
@@ -1213,10 +1213,10 @@
       ],
       "tags": [],
       "$price": 45.99,
-      "inventory_qty": 92,
-      "inventory_policy": 2,
       "price_text": "$45.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 92,
+      "$inventory_policy": 2
     },
     {
       "$id": "417248",
@@ -1234,10 +1234,10 @@
       ],
       "tags": [],
       "$price": 37.19,
-      "inventory_qty": 147,
-      "inventory_policy": 2,
       "price_text": "$37.19/BX",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 147,
+      "$inventory_policy": 2
     },
     {
       "$id": "887614",
@@ -1255,10 +1255,10 @@
       ],
       "tags": [],
       "$price": 29.99,
-      "inventory_qty": 49,
-      "inventory_policy": 2,
       "price_text": "$29.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 49,
+      "$inventory_policy": 2
     },
     {
       "$id": "275474",
@@ -1276,10 +1276,10 @@
       ],
       "tags": [],
       "$price": 62.99,
-      "inventory_qty": 17,
-      "inventory_policy": 2,
       "price_text": "$62.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 17,
+      "$inventory_policy": 2
     },
     {
       "$id": "503222",
@@ -1297,10 +1297,10 @@
       ],
       "tags": [],
       "$price": 25.99,
-      "inventory_qty": 11,
-      "inventory_policy": 2,
       "price_text": "$25.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 11,
+      "$inventory_policy": 2
     },
     {
       "$id": "478342",
@@ -1318,10 +1318,10 @@
       ],
       "tags": [],
       "$price": 29.69,
-      "inventory_qty": 58,
-      "inventory_policy": 2,
       "price_text": "$29.69/ream",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 58,
+      "$inventory_policy": 2
     },
     {
       "$id": "8648150",
@@ -1339,10 +1339,10 @@
       ],
       "tags": [],
       "$price": 24.99,
-      "inventory_qty": 74,
-      "inventory_policy": 2,
       "price_text": "$24.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 74,
+      "$inventory_policy": 2
     },
     {
       "$id": "420283",
@@ -1360,10 +1360,10 @@
       ],
       "tags": [],
       "$price": 8.99,
-      "inventory_qty": 20,
-      "inventory_policy": 2,
       "price_text": "$8.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 20,
+      "$inventory_policy": 2
     },
     {
       "$id": "332063",
@@ -1381,10 +1381,10 @@
       ],
       "tags": [],
       "$price": 8.99,
-      "inventory_qty": 59,
-      "inventory_policy": 2,
       "price_text": "$8.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 59,
+      "$inventory_policy": 2
     },
     {
       "$id": "6887924",
@@ -1402,10 +1402,10 @@
       ],
       "tags": [],
       "$price": 44.49,
-      "inventory_qty": 25,
-      "inventory_policy": 2,
       "price_text": "$44.49/BX",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 25,
+      "$inventory_policy": 2
     },
     {
       "$id": "3798345",
@@ -1423,10 +1423,10 @@
       ],
       "tags": [],
       "$price": 39.99,
-      "inventory_qty": 97,
-      "inventory_policy": 2,
       "price_text": "$39.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 97,
+      "$inventory_policy": 2
     },
     {
       "$id": "442306",
@@ -1444,10 +1444,10 @@
       ],
       "tags": [],
       "$price": 6.99,
-      "inventory_qty": 71,
-      "inventory_policy": 2,
       "price_text": "$6.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 71,
+      "$inventory_policy": 2
     },
     {
       "$id": "268091",
@@ -1465,10 +1465,10 @@
       ],
       "tags": [],
       "$price": 15.99,
-      "inventory_qty": 116,
-      "inventory_policy": 2,
       "price_text": "$15.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 116,
+      "$inventory_policy": 2
     },
     {
       "$id": "742013",
@@ -1486,10 +1486,10 @@
       ],
       "tags": [],
       "$price": 27.99,
-      "inventory_qty": 93,
-      "inventory_policy": 2,
       "price_text": "$27.99/ream",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 93,
+      "$inventory_policy": 2
     },
     {
       "$id": "307744",
@@ -1507,10 +1507,10 @@
       ],
       "tags": [],
       "$price": 10.99,
-      "inventory_qty": 41,
-      "inventory_policy": 2,
       "price_text": "$10.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 41,
+      "$inventory_policy": 2
     },
     {
       "$id": "895391",
@@ -1528,10 +1528,10 @@
       ],
       "tags": [],
       "$price": 1899.99,
-      "inventory_qty": 94,
-      "inventory_policy": 2,
       "price_text": "$1,899.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 94,
+      "$inventory_policy": 2
     },
     {
       "$id": "268671",
@@ -1549,10 +1549,10 @@
       ],
       "tags": [],
       "$price": 15.99,
-      "inventory_qty": 90,
-      "inventory_policy": 2,
       "price_text": "$15.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 90,
+      "$inventory_policy": 2
     },
     {
       "$id": "532452",
@@ -1570,10 +1570,10 @@
       ],
       "tags": [],
       "$price": 34.39,
-      "inventory_qty": 53,
-      "inventory_policy": 2,
       "price_text": "$34.39/BX",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 53,
+      "$inventory_policy": 2
     },
     {
       "$id": "843787",
@@ -1591,10 +1591,10 @@
       ],
       "tags": [],
       "$price": 13.99,
-      "inventory_qty": 68,
-      "inventory_policy": 2,
       "price_text": "$13.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 68,
+      "$inventory_policy": 2
     },
     {
       "$id": "940643",
@@ -1612,10 +1612,10 @@
       ],
       "tags": [],
       "$price": 65.19,
-      "inventory_qty": 18,
-      "inventory_policy": 2,
       "price_text": "$65.19 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 18,
+      "$inventory_policy": 2
     },
     {
       "$id": "443296",
@@ -1633,10 +1633,10 @@
       ],
       "tags": [],
       "$price": 19.99,
-      "inventory_qty": 43,
-      "inventory_policy": 2,
       "price_text": "$19.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 43,
+      "$inventory_policy": 2
     },
     {
       "$id": "8092932",
@@ -1654,10 +1654,10 @@
       ],
       "tags": [],
       "$price": 31.99,
-      "inventory_qty": 136,
-      "inventory_policy": 2,
       "price_text": "$31.99/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 136,
+      "$inventory_policy": 2
     },
     {
       "$id": "536648",
@@ -1675,10 +1675,10 @@
       ],
       "tags": [],
       "$price": 91.99,
-      "inventory_qty": 62,
-      "inventory_policy": 2,
       "price_text": "$91.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 62,
+      "$inventory_policy": 2
     },
     {
       "$id": "neenah-premium-card-stock-bright-white-letter-8-5",
@@ -1696,10 +1696,10 @@
       ],
       "tags": [],
       "$price": 32.49,
-      "inventory_qty": 41,
-      "inventory_policy": 2,
       "price_text": "$32.49/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 41,
+      "$inventory_policy": 2
     },
     {
       "$id": "neenah-exact-index-premium-card-stock-8-5-x-11-110",
@@ -1717,10 +1717,10 @@
       ],
       "tags": [],
       "$price": 27.59,
-      "inventory_qty": 118,
-      "inventory_policy": 2,
       "price_text": "$27.59/pack",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 118,
+      "$inventory_policy": 2
     },
     {
       "$id": "tul-discbound-refill-pages-8-1-2-x-11-narrow",
@@ -1738,10 +1738,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 97,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 97,
+      "$inventory_policy": 2
     },
     {
       "$id": "sparco-notebook-filler-paper-letter-200",
@@ -1759,10 +1759,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 69,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 69,
+      "$inventory_policy": 2
     },
     {
       "$id": "double-a-everyday-multi-use-printer-copy-paper",
@@ -1780,10 +1780,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 142,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 142,
+      "$inventory_policy": 2
     },
     {
       "$id": "hammermill-premium-laser-paper-320-reams-white-let",
@@ -1801,10 +1801,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 56,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 56,
+      "$inventory_policy": 2
     },
     {
       "$id": "7610804",
@@ -1822,10 +1822,10 @@
       ],
       "tags": [],
       "$price": 189.99,
-      "inventory_qty": 83,
-      "inventory_policy": 1,
       "price_text": "$189.99 Sale",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 83,
+      "$inventory_policy": 1
     },
     {
       "$id": "9003237",
@@ -1843,10 +1843,10 @@
       ],
       "tags": [],
       "$price": 359.99,
-      "inventory_qty": 14,
-      "inventory_policy": 2,
       "price_text": "$359.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 14,
+      "$inventory_policy": 2
     },
     {
       "$id": "7380260",
@@ -1864,10 +1864,10 @@
       ],
       "tags": [],
       "$price": 469.99,
-      "inventory_qty": 58,
-      "inventory_policy": 1,
       "price_text": "$469.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 58,
+      "$inventory_policy": 1
     },
     {
       "$id": "8802103",
@@ -1885,10 +1885,10 @@
       ],
       "tags": [],
       "$price": 169.99,
-      "inventory_qty": 8,
-      "inventory_policy": 2,
       "price_text": "$169.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 8,
+      "$inventory_policy": 2
     },
     {
       "$id": "5094761",
@@ -1906,10 +1906,10 @@
       ],
       "tags": [],
       "$price": 399.99,
-      "inventory_qty": 80,
-      "inventory_policy": 1,
       "price_text": "$399.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 80,
+      "$inventory_policy": 1
     },
     {
       "$id": "604924",
@@ -1927,10 +1927,10 @@
       ],
       "tags": [],
       "$price": 219.99,
-      "inventory_qty": 102,
-      "inventory_policy": 1,
       "price_text": "$219.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 102,
+      "$inventory_policy": 1
     },
     {
       "$id": "8366363",
@@ -1948,10 +1948,10 @@
       ],
       "tags": [],
       "$price": 529.99,
-      "inventory_qty": 68,
-      "inventory_policy": 1,
       "price_text": "$529.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 68,
+      "$inventory_policy": 1
     },
     {
       "$id": "9181888",
@@ -1969,10 +1969,10 @@
       ],
       "tags": [],
       "$price": 54.99,
-      "inventory_qty": 16,
-      "inventory_policy": 1,
       "price_text": "$54.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 16,
+      "$inventory_policy": 1
     },
     {
       "$id": "4983432",
@@ -1990,10 +1990,10 @@
       ],
       "tags": [],
       "$price": 629.99,
-      "inventory_qty": 54,
-      "inventory_policy": 1,
       "price_text": "$629.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 54,
+      "$inventory_policy": 1
     },
     {
       "$id": "956652",
@@ -2011,10 +2011,10 @@
       ],
       "tags": [],
       "$price": 489.99,
-      "inventory_qty": 145,
-      "inventory_policy": 1,
       "price_text": "$489.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 145,
+      "$inventory_policy": 1
     },
     {
       "$id": "7011513",
@@ -2032,10 +2032,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 80,
-      "inventory_policy": 1,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 80,
+      "$inventory_policy": 1
     },
     {
       "$id": "7033410",
@@ -2053,10 +2053,10 @@
       ],
       "tags": [],
       "$price": 169.99,
-      "inventory_qty": 54,
-      "inventory_policy": 2,
       "price_text": "$169.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 54,
+      "$inventory_policy": 2
     },
     {
       "$id": "8938140",
@@ -2074,10 +2074,10 @@
       ],
       "tags": [],
       "$price": 269.99,
-      "inventory_qty": 127,
-      "inventory_policy": 1,
       "price_text": "$269.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 127,
+      "$inventory_policy": 1
     },
     {
       "$id": "7282832",
@@ -2095,10 +2095,10 @@
       ],
       "tags": [],
       "$price": 399.99,
-      "inventory_qty": 101,
-      "inventory_policy": 1,
       "price_text": "$399.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 101,
+      "$inventory_policy": 1
     },
     {
       "$id": "7728760",
@@ -2116,10 +2116,10 @@
       ],
       "tags": [],
       "$price": 469.99,
-      "inventory_qty": 117,
-      "inventory_policy": 1,
       "price_text": "$469.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 117,
+      "$inventory_policy": 1
     },
     {
       "$id": "7912680",
@@ -2137,10 +2137,10 @@
       ],
       "tags": [],
       "$price": 139.99,
-      "inventory_qty": 36,
-      "inventory_policy": 1,
       "price_text": "$139.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 36,
+      "$inventory_policy": 1
     },
     {
       "$id": "8179855",
@@ -2158,10 +2158,10 @@
       ],
       "tags": [],
       "$price": 129.99,
-      "inventory_qty": 67,
-      "inventory_policy": 1,
       "price_text": "$129.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 67,
+      "$inventory_policy": 1
     },
     {
       "$id": "6511328",
@@ -2179,10 +2179,10 @@
       ],
       "tags": [],
       "$price": 629.99,
-      "inventory_qty": 35,
-      "inventory_policy": 1,
       "price_text": "$629.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 35,
+      "$inventory_policy": 1
     },
     {
       "$id": "7093194",
@@ -2200,10 +2200,10 @@
       ],
       "tags": [],
       "$price": 699.99,
-      "inventory_qty": 63,
-      "inventory_policy": 1,
       "price_text": "$699.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 63,
+      "$inventory_policy": 1
     },
     {
       "$id": "6276910",
@@ -2221,10 +2221,10 @@
       ],
       "tags": [],
       "$price": 49.99,
-      "inventory_qty": 143,
-      "inventory_policy": 1,
       "price_text": "$49.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 143,
+      "$inventory_policy": 1
     },
     {
       "$id": "3763955",
@@ -2242,10 +2242,10 @@
       ],
       "tags": [],
       "$price": 189.99,
-      "inventory_qty": 137,
-      "inventory_policy": 1,
       "price_text": "$189.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 137,
+      "$inventory_policy": 1
     },
     {
       "$id": "7983472",
@@ -2263,10 +2263,10 @@
       ],
       "tags": [],
       "$price": 279.99,
-      "inventory_qty": 67,
-      "inventory_policy": 1,
       "price_text": "$279.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 67,
+      "$inventory_policy": 1
     },
     {
       "$id": "9393644",
@@ -2284,10 +2284,10 @@
       ],
       "tags": [],
       "$price": 359.99,
-      "inventory_qty": 149,
-      "inventory_policy": 2,
       "price_text": "$359.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 149,
+      "$inventory_policy": 2
     },
     {
       "$id": "4366424",
@@ -2305,10 +2305,10 @@
       ],
       "tags": [],
       "$price": 359.99,
-      "inventory_qty": 109,
-      "inventory_policy": 1,
       "price_text": "$359.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 109,
+      "$inventory_policy": 1
     },
     {
       "$id": "7791478",
@@ -2326,10 +2326,10 @@
       ],
       "tags": [],
       "$price": 399.99,
-      "inventory_qty": 149,
-      "inventory_policy": 1,
       "price_text": "$399.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 149,
+      "$inventory_policy": 1
     },
     {
       "$id": "9579648",
@@ -2347,10 +2347,10 @@
       ],
       "tags": [],
       "$price": 149.99,
-      "inventory_qty": 102,
-      "inventory_policy": 1,
       "price_text": "$149.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 102,
+      "$inventory_policy": 1
     },
     {
       "$id": "8506007",
@@ -2368,10 +2368,10 @@
       ],
       "tags": [],
       "$price": 319.99,
-      "inventory_qty": 92,
-      "inventory_policy": 1,
       "price_text": "$319.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 92,
+      "$inventory_policy": 1
     },
     {
       "$id": "6181674",
@@ -2389,10 +2389,10 @@
       ],
       "tags": [],
       "$price": 249.99,
-      "inventory_qty": 56,
-      "inventory_policy": 1,
       "price_text": "$249.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 56,
+      "$inventory_policy": 1
     },
     {
       "$id": "7134573",
@@ -2410,10 +2410,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 35,
-      "inventory_policy": 1,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 35,
+      "$inventory_policy": 1
     },
     {
       "$id": "388262",
@@ -2431,10 +2431,10 @@
       ],
       "tags": [],
       "$price": 249.99,
-      "inventory_qty": 130,
-      "inventory_policy": 1,
       "price_text": "$249.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 130,
+      "$inventory_policy": 1
     },
     {
       "$id": "9550554",
@@ -2452,10 +2452,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 126,
-      "inventory_policy": 1,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 126,
+      "$inventory_policy": 1
     },
     {
       "$id": "7695097",
@@ -2473,10 +2473,10 @@
       ],
       "tags": [],
       "$price": 289.99,
-      "inventory_qty": 23,
-      "inventory_policy": 1,
       "price_text": "$289.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 23,
+      "$inventory_policy": 1
     },
     {
       "$id": "956697",
@@ -2494,10 +2494,10 @@
       ],
       "tags": [],
       "$price": 489.99,
-      "inventory_qty": 12,
-      "inventory_policy": 1,
       "price_text": "$489.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 12,
+      "$inventory_policy": 1
     },
     {
       "$id": "workpro-uomo-ergonomic-mesh-fabric-mid-back-office",
@@ -2515,10 +2515,10 @@
       ],
       "tags": [],
       "$price": 249.99,
-      "inventory_qty": 28,
-      "inventory_policy": 1,
       "price_text": "$249.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 28,
+      "$inventory_policy": 1
     },
     {
       "$id": "lorell-soft-high-back-executive-office-chair-black",
@@ -2536,10 +2536,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 39,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 39,
+      "$inventory_policy": 1
     },
     {
       "$id": "serta-smart-layers-arlington-air-bonded-leather-hi",
@@ -2557,10 +2557,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 40,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 40,
+      "$inventory_policy": 1
     },
     {
       "$id": "realspace-treswell-bonded-leather-high-back-execut",
@@ -2578,10 +2578,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 108,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 108,
+      "$inventory_policy": 1
     },
     {
       "$id": "2336442",
@@ -2599,10 +2599,10 @@
       ],
       "tags": [],
       "$price": 159.99,
-      "inventory_qty": 16,
-      "inventory_policy": 1,
       "price_text": "$159.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 16,
+      "$inventory_policy": 1
     },
     {
       "$id": "6236540",
@@ -2620,10 +2620,10 @@
       ],
       "tags": [],
       "$price": 319.99,
-      "inventory_qty": 98,
-      "inventory_policy": 1,
       "price_text": "$319.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 98,
+      "$inventory_policy": 1
     },
     {
       "$id": "7315017",
@@ -2641,10 +2641,10 @@
       ],
       "tags": [],
       "$price": 319.99,
-      "inventory_qty": 97,
-      "inventory_policy": 2,
       "price_text": "$319.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 97,
+      "$inventory_policy": 2
     },
     {
       "$id": "9800358",
@@ -2662,10 +2662,10 @@
       ],
       "tags": [],
       "$price": 59.99,
-      "inventory_qty": 119,
-      "inventory_policy": 1,
       "price_text": "$59.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 119,
+      "$inventory_policy": 1
     },
     {
       "$id": "5612889",
@@ -2683,10 +2683,10 @@
       ],
       "tags": [],
       "$price": 69.99,
-      "inventory_qty": 135,
-      "inventory_policy": 1,
       "price_text": "$69.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 135,
+      "$inventory_policy": 1
     },
     {
       "$id": "1511391",
@@ -2704,10 +2704,10 @@
       ],
       "tags": [],
       "$price": 659.99,
-      "inventory_qty": 64,
-      "inventory_policy": 1,
       "price_text": "$659.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 64,
+      "$inventory_policy": 1
     },
     {
       "$id": "8948010",
@@ -2725,10 +2725,10 @@
       ],
       "tags": [],
       "$price": 20.99,
-      "inventory_qty": 141,
-      "inventory_policy": 1,
       "price_text": "$20.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 141,
+      "$inventory_policy": 1
     },
     {
       "$id": "9422337",
@@ -2746,10 +2746,10 @@
       ],
       "tags": [],
       "$price": 699.99,
-      "inventory_qty": 2,
-      "inventory_policy": 1,
       "price_text": "$699.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 2,
+      "$inventory_policy": 1
     },
     {
       "$id": "431632",
@@ -2767,10 +2767,10 @@
       ],
       "tags": [],
       "$price": 167.89,
-      "inventory_qty": 29,
-      "inventory_policy": 2,
       "price_text": "$167.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 29,
+      "$inventory_policy": 2
     },
     {
       "$id": "8885829",
@@ -2788,10 +2788,10 @@
       ],
       "tags": [],
       "$price": 649.99,
-      "inventory_qty": 137,
-      "inventory_policy": 1,
       "price_text": "$649.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 137,
+      "$inventory_policy": 1
     },
     {
       "$id": "5376594",
@@ -2809,10 +2809,10 @@
       ],
       "tags": [],
       "$price": 145.89,
-      "inventory_qty": 68,
-      "inventory_policy": 2,
       "price_text": "$145.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 68,
+      "$inventory_policy": 2
     },
     {
       "$id": "6207878",
@@ -2830,10 +2830,10 @@
       ],
       "tags": [],
       "$price": 300.99,
-      "inventory_qty": 87,
-      "inventory_policy": 2,
       "price_text": "$300.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 87,
+      "$inventory_policy": 2
     },
     {
       "$id": "4867914",
@@ -2851,10 +2851,10 @@
       ],
       "tags": [],
       "$price": 281.89,
-      "inventory_qty": 28,
-      "inventory_policy": 2,
       "price_text": "$281.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 28,
+      "$inventory_policy": 2
     },
     {
       "$id": "3754219",
@@ -2872,10 +2872,10 @@
       ],
       "tags": [],
       "$price": 289.99,
-      "inventory_qty": 75,
-      "inventory_policy": 1,
       "price_text": "$289.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 75,
+      "$inventory_policy": 1
     },
     {
       "$id": "9684150",
@@ -2893,10 +2893,10 @@
       ],
       "tags": [],
       "$price": 154.89,
-      "inventory_qty": 111,
-      "inventory_policy": 2,
       "price_text": "$154.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 111,
+      "$inventory_policy": 2
     },
     {
       "$id": "7272776",
@@ -2914,10 +2914,10 @@
       ],
       "tags": [],
       "$price": 140.89,
-      "inventory_qty": 40,
-      "inventory_policy": 2,
       "price_text": "$140.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 40,
+      "$inventory_policy": 2
     },
     {
       "$id": "9390598",
@@ -2935,10 +2935,10 @@
       ],
       "tags": [],
       "$price": 176.49,
-      "inventory_qty": 116,
-      "inventory_policy": 2,
       "price_text": "$176.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 116,
+      "$inventory_policy": 2
     },
     {
       "$id": "2451454",
@@ -2956,10 +2956,10 @@
       ],
       "tags": [],
       "$price": 169.99,
-      "inventory_qty": 0,
-      "inventory_policy": 1,
       "price_text": "$169.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 0,
+      "$inventory_policy": 1
     },
     {
       "$id": "9317685",
@@ -2977,10 +2977,10 @@
       ],
       "tags": [],
       "$price": 176.49,
-      "inventory_qty": 67,
-      "inventory_policy": 2,
       "price_text": "$176.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 67,
+      "$inventory_policy": 2
     },
     {
       "$id": "9517571",
@@ -2998,10 +2998,10 @@
       ],
       "tags": [],
       "$price": 106.89,
-      "inventory_qty": 128,
-      "inventory_policy": 2,
       "price_text": "$106.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 128,
+      "$inventory_policy": 2
     },
     {
       "$id": "7093346",
@@ -3019,10 +3019,10 @@
       ],
       "tags": [],
       "$price": 146.89,
-      "inventory_qty": 45,
-      "inventory_policy": 2,
       "price_text": "$146.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 45,
+      "$inventory_policy": 2
     },
     {
       "$id": "1579098",
@@ -3040,10 +3040,10 @@
       ],
       "tags": [],
       "$price": 34.99,
-      "inventory_qty": 129,
-      "inventory_policy": 1,
       "price_text": "$34.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 129,
+      "$inventory_policy": 1
     },
     {
       "$id": "8429722",
@@ -3061,10 +3061,10 @@
       ],
       "tags": [],
       "$price": 78.89,
-      "inventory_qty": 27,
-      "inventory_policy": 2,
       "price_text": "$78.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 27,
+      "$inventory_policy": 2
     },
     {
       "$id": "9215463",
@@ -3082,10 +3082,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 76,
-      "inventory_policy": 1,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 76,
+      "$inventory_policy": 1
     },
     {
       "$id": "6407107",
@@ -3103,10 +3103,10 @@
       ],
       "tags": [],
       "$price": 305.89,
-      "inventory_qty": 129,
-      "inventory_policy": 2,
       "price_text": "$305.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 129,
+      "$inventory_policy": 2
     },
     {
       "$id": "131290",
@@ -3124,10 +3124,10 @@
       ],
       "tags": [],
       "$price": 89.99,
-      "inventory_qty": 50,
-      "inventory_policy": 1,
       "price_text": "$89.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 50,
+      "$inventory_policy": 1
     },
     {
       "$id": "7190891",
@@ -3145,10 +3145,10 @@
       ],
       "tags": [],
       "$price": 369.99,
-      "inventory_qty": 39,
-      "inventory_policy": 2,
       "price_text": "$369.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 39,
+      "$inventory_policy": 2
     },
     {
       "$id": "3767206",
@@ -3166,10 +3166,10 @@
       ],
       "tags": [],
       "$price": 399.0,
-      "inventory_qty": 95,
-      "inventory_policy": 1,
       "price_text": "$399.00",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 95,
+      "$inventory_policy": 1
     },
     {
       "$id": "5753919",
@@ -3187,10 +3187,10 @@
       ],
       "tags": [],
       "$price": 569.59,
-      "inventory_qty": 41,
-      "inventory_policy": 2,
       "price_text": "$569.59",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 41,
+      "$inventory_policy": 2
     },
     {
       "$id": "4536195",
@@ -3208,10 +3208,10 @@
       ],
       "tags": [],
       "$price": 109.99,
-      "inventory_qty": 138,
-      "inventory_policy": 1,
       "price_text": "$109.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 138,
+      "$inventory_policy": 1
     },
     {
       "$id": "6063401",
@@ -3229,10 +3229,10 @@
       ],
       "tags": [],
       "$price": 679.0,
-      "inventory_qty": 135,
-      "inventory_policy": 1,
       "price_text": "$679.00",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 135,
+      "$inventory_policy": 1
     },
     {
       "$id": "4036986",
@@ -3250,10 +3250,10 @@
       ],
       "tags": [],
       "$price": 389.99,
-      "inventory_qty": 0,
-      "inventory_policy": 2,
       "price_text": "$389.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 0,
+      "$inventory_policy": 2
     },
     {
       "$id": "6358993",
@@ -3271,10 +3271,10 @@
       ],
       "tags": [],
       "$price": 292.99,
-      "inventory_qty": 82,
-      "inventory_policy": 2,
       "price_text": "$292.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 82,
+      "$inventory_policy": 2
     },
     {
       "$id": "8143321",
@@ -3292,10 +3292,10 @@
       ],
       "tags": [],
       "$price": 529.99,
-      "inventory_qty": 125,
-      "inventory_policy": 1,
       "price_text": "$529.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 125,
+      "$inventory_policy": 1
     },
     {
       "$id": "4801247",
@@ -3313,10 +3313,10 @@
       ],
       "tags": [],
       "$price": 309.99,
-      "inventory_qty": 4,
-      "inventory_policy": 2,
       "price_text": "$309.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 4,
+      "$inventory_policy": 2
     },
     {
       "$id": "hp-officejet-pro-9135e-wireless-all-in-one-color-i",
@@ -3334,10 +3334,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 28,
-      "inventory_policy": 2,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 28,
+      "$inventory_policy": 2
     },
     {
       "$id": "corel-wordperfect-office-ag-standard-for-windows-p",
@@ -3355,10 +3355,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 92,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 92,
+      "$inventory_policy": 1
     },
     {
       "$id": "microsoft-surface-laptop-7-15-touchscreen-notebook",
@@ -3376,10 +3376,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 78,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 78,
+      "$inventory_policy": 2
     },
     {
       "$id": "lenovo-thinkcentre-m910q-tiny-refurbished-desktop",
@@ -3397,10 +3397,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 61,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 61,
+      "$inventory_policy": 2
     },
     {
       "$id": "acer-travelmate-p4-laptop-14-screen-intel-core",
@@ -3418,10 +3418,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 14,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 14,
+      "$inventory_policy": 1
     },
     {
       "$id": "193438",
@@ -3439,10 +3439,10 @@
       ],
       "tags": [],
       "$price": 99.99,
-      "inventory_qty": 61,
-      "inventory_policy": 1,
       "price_text": "$99.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 61,
+      "$inventory_policy": 1
     },
     {
       "$id": "229580",
@@ -3460,10 +3460,10 @@
       ],
       "tags": [],
       "$price": 129.99,
-      "inventory_qty": 145,
-      "inventory_policy": 1,
       "price_text": "$129.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 145,
+      "$inventory_policy": 1
     },
     {
       "$id": "301557",
@@ -3481,10 +3481,10 @@
       ],
       "tags": [],
       "$price": 49.99,
-      "inventory_qty": 20,
-      "inventory_policy": 1,
       "price_text": "$49.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 20,
+      "$inventory_policy": 1
     },
     {
       "$id": "209262",
@@ -3502,10 +3502,10 @@
       ],
       "tags": [],
       "$price": 279.99,
-      "inventory_qty": 21,
-      "inventory_policy": 1,
       "price_text": "$279.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 21,
+      "$inventory_policy": 1
     },
     {
       "$id": "8036693",
@@ -3523,10 +3523,10 @@
       ],
       "tags": [],
       "$price": 234.99,
-      "inventory_qty": 124,
-      "inventory_policy": 1,
       "price_text": "$234.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 124,
+      "$inventory_policy": 1
     },
     {
       "$id": "9334745",
@@ -3544,10 +3544,10 @@
       ],
       "tags": [],
       "$price": 109.99,
-      "inventory_qty": 17,
-      "inventory_policy": 1,
       "price_text": "$109.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 17,
+      "$inventory_policy": 1
     },
     {
       "$id": "6792655",
@@ -3565,10 +3565,10 @@
       ],
       "tags": [],
       "$price": 249.99,
-      "inventory_qty": 136,
-      "inventory_policy": 1,
       "price_text": "$249.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 136,
+      "$inventory_policy": 1
     },
     {
       "$id": "8545652",
@@ -3586,10 +3586,10 @@
       ],
       "tags": [],
       "$price": 329.99,
-      "inventory_qty": 32,
-      "inventory_policy": 1,
       "price_text": "$329.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 32,
+      "$inventory_policy": 1
     },
     {
       "$id": "9280196",
@@ -3607,10 +3607,10 @@
       ],
       "tags": [],
       "$price": 559.99,
-      "inventory_qty": 32,
-      "inventory_policy": 1,
       "price_text": "$559.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 32,
+      "$inventory_policy": 1
     },
     {
       "$id": "9985790",
@@ -3628,10 +3628,10 @@
       ],
       "tags": [],
       "$price": 242.99,
-      "inventory_qty": 121,
-      "inventory_policy": 1,
       "price_text": "$242.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 121,
+      "$inventory_policy": 1
     },
     {
       "$id": "447752",
@@ -3649,10 +3649,10 @@
       ],
       "tags": [],
       "$price": 201.49,
-      "inventory_qty": 140,
-      "inventory_policy": 1,
       "price_text": "$201.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 140,
+      "$inventory_policy": 1
     },
     {
       "$id": "541155",
@@ -3670,10 +3670,10 @@
       ],
       "tags": [],
       "$price": 299.99,
-      "inventory_qty": 42,
-      "inventory_policy": 1,
       "price_text": "$299.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 42,
+      "$inventory_policy": 1
     },
     {
       "$id": "7042712",
@@ -3691,10 +3691,10 @@
       ],
       "tags": [],
       "$price": 229.99,
-      "inventory_qty": 67,
-      "inventory_policy": 1,
       "price_text": "$229.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 67,
+      "$inventory_policy": 1
     },
     {
       "$id": "9662375",
@@ -3712,10 +3712,10 @@
       ],
       "tags": [],
       "$price": 229.99,
-      "inventory_qty": 135,
-      "inventory_policy": 1,
       "price_text": "$229.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 135,
+      "$inventory_policy": 1
     },
     {
       "$id": "5825866",
@@ -3733,10 +3733,10 @@
       ],
       "tags": [],
       "$price": 768.39,
-      "inventory_qty": 108,
-      "inventory_policy": 1,
       "price_text": "$768.39",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 108,
+      "$inventory_policy": 1
     },
     {
       "$id": "383084",
@@ -3754,10 +3754,10 @@
       ],
       "tags": [],
       "$price": 72.99,
-      "inventory_qty": 54,
-      "inventory_policy": 2,
       "price_text": "$72.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 54,
+      "$inventory_policy": 2
     },
     {
       "$id": "1385290",
@@ -3775,10 +3775,10 @@
       ],
       "tags": [],
       "$price": 31.99,
-      "inventory_qty": 138,
-      "inventory_policy": 2,
       "price_text": "$31.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 138,
+      "$inventory_policy": 2
     },
     {
       "$id": "3024979",
@@ -3796,10 +3796,10 @@
       ],
       "tags": [],
       "$price": 379.99,
-      "inventory_qty": 51,
-      "inventory_policy": 1,
       "price_text": "$379.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 51,
+      "$inventory_policy": 1
     },
     {
       "$id": "3991110",
@@ -3817,10 +3817,10 @@
       ],
       "tags": [],
       "$price": 19.99,
-      "inventory_qty": 79,
-      "inventory_policy": 1,
       "price_text": "$19.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 79,
+      "$inventory_policy": 1
     },
     {
       "$id": "762286",
@@ -3838,10 +3838,10 @@
       ],
       "tags": [],
       "$price": 55.99,
-      "inventory_qty": 102,
-      "inventory_policy": 1,
       "price_text": "$55.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 102,
+      "$inventory_policy": 1
     },
     {
       "$id": "314872",
@@ -3859,10 +3859,10 @@
       ],
       "tags": [],
       "$price": 78.99,
-      "inventory_qty": 95,
-      "inventory_policy": 1,
       "price_text": "$78.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 95,
+      "$inventory_policy": 1
     },
     {
       "$id": "359247",
@@ -3880,10 +3880,10 @@
       ],
       "tags": [],
       "$price": 30.59,
-      "inventory_qty": 112,
-      "inventory_policy": 2,
       "price_text": "$30.59",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 112,
+      "$inventory_policy": 2
     },
     {
       "$id": "8990490",
@@ -3901,10 +3901,10 @@
       ],
       "tags": [],
       "$price": 451.69,
-      "inventory_qty": 132,
-      "inventory_policy": 1,
       "price_text": "$451.69",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 132,
+      "$inventory_policy": 1
     },
     {
       "$id": "7784160",
@@ -3922,10 +3922,10 @@
       ],
       "tags": [],
       "$price": 124.99,
-      "inventory_qty": 115,
-      "inventory_policy": 2,
       "price_text": "$124.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 115,
+      "$inventory_policy": 2
     },
     {
       "$id": "458914",
@@ -3943,10 +3943,10 @@
       ],
       "tags": [],
       "$price": 29.99,
-      "inventory_qty": 30,
-      "inventory_policy": 2,
       "price_text": "$29.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 30,
+      "$inventory_policy": 2
     },
     {
       "$id": "8677384",
@@ -3964,10 +3964,10 @@
       ],
       "tags": [],
       "$price": 399.99,
-      "inventory_qty": 63,
-      "inventory_policy": 1,
       "price_text": "$399.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 63,
+      "$inventory_policy": 1
     },
     {
       "$id": "2679216",
@@ -3985,10 +3985,10 @@
       ],
       "tags": [],
       "$price": 38.59,
-      "inventory_qty": 57,
-      "inventory_policy": 1,
       "price_text": "$38.59",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 57,
+      "$inventory_policy": 1
     },
     {
       "$id": "8090464",
@@ -4006,10 +4006,10 @@
       ],
       "tags": [],
       "$price": 1499.99,
-      "inventory_qty": 16,
-      "inventory_policy": 1,
       "price_text": "$1,499.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 16,
+      "$inventory_policy": 1
     },
     {
       "$id": "9148089",
@@ -4027,10 +4027,10 @@
       ],
       "tags": [],
       "$price": 223.99,
-      "inventory_qty": 86,
-      "inventory_policy": 1,
       "price_text": "$223.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 86,
+      "$inventory_policy": 1
     },
     {
       "$id": "991152",
@@ -4048,10 +4048,10 @@
       ],
       "tags": [],
       "$price": 31.99,
-      "inventory_qty": 5,
-      "inventory_policy": 2,
       "price_text": "$31.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 5,
+      "$inventory_policy": 2
     },
     {
       "$id": "5645834",
@@ -4069,10 +4069,10 @@
       ],
       "tags": [],
       "$price": 551.49,
-      "inventory_qty": 150,
-      "inventory_policy": 1,
       "price_text": "$551.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 150,
+      "$inventory_policy": 1
     },
     {
       "$id": "7264808",
@@ -4090,10 +4090,10 @@
       ],
       "tags": [],
       "$price": 249.99,
-      "inventory_qty": 141,
-      "inventory_policy": 1,
       "price_text": "$249.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 141,
+      "$inventory_policy": 1
     },
     {
       "$id": "9260499",
@@ -4111,10 +4111,10 @@
       ],
       "tags": [],
       "$price": 129.99,
-      "inventory_qty": 58,
-      "inventory_policy": 1,
       "price_text": "$129.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 58,
+      "$inventory_policy": 1
     },
     {
       "$id": "660678",
@@ -4132,10 +4132,10 @@
       ],
       "tags": [],
       "$price": 109.99,
-      "inventory_qty": 150,
-      "inventory_policy": 2,
       "price_text": "$109.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 150,
+      "$inventory_policy": 2
     },
     {
       "$id": "4812579",
@@ -4153,10 +4153,10 @@
       ],
       "tags": [],
       "$price": 24.95,
-      "inventory_qty": 56,
-      "inventory_policy": 1,
       "price_text": "$24.95",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 56,
+      "$inventory_policy": 1
     },
     {
       "$id": "545469",
@@ -4174,10 +4174,10 @@
       ],
       "tags": [],
       "$price": 29.99,
-      "inventory_qty": 1,
-      "inventory_policy": 2,
       "price_text": "$29.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 1,
+      "$inventory_policy": 2
     },
     {
       "$id": "ricoh-fi-7600-document-scanner-dual",
@@ -4195,10 +4195,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 18,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 18,
+      "$inventory_policy": 1
     },
     {
       "$id": "fujitsu-fi-8170-document-scanner-dual-cis",
@@ -4216,10 +4216,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 15,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 15,
+      "$inventory_policy": 1
     },
     {
       "$id": "ricoh-fi-7700-document-scanner-triple",
@@ -4237,10 +4237,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 58,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 58,
+      "$inventory_policy": 1
     },
     {
       "$id": "iris-iriscan-desk-6-a3-pro-camera-document",
@@ -4258,10 +4258,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 17,
-      "inventory_policy": 1,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 17,
+      "$inventory_policy": 1
     },
     {
       "$id": "3890558",
@@ -4279,10 +4279,10 @@
       ],
       "tags": [],
       "$price": 26.59,
-      "inventory_qty": 8,
-      "inventory_policy": 1,
       "price_text": "$26.59",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 8,
+      "$inventory_policy": 1
     },
     {
       "$id": "1745704",
@@ -4300,10 +4300,10 @@
       ],
       "tags": [],
       "$price": 106.49,
-      "inventory_qty": 84,
-      "inventory_policy": 2,
       "price_text": "$106.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 84,
+      "$inventory_policy": 2
     },
     {
       "$id": "7601540",
@@ -4321,10 +4321,10 @@
       ],
       "tags": [],
       "$price": 24.99,
-      "inventory_qty": 18,
-      "inventory_policy": 2,
       "price_text": "$24.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 18,
+      "$inventory_policy": 2
     },
     {
       "$id": "592768",
@@ -4342,10 +4342,10 @@
       ],
       "tags": [],
       "$price": 40.99,
-      "inventory_qty": 131,
-      "inventory_policy": 2,
       "price_text": "$40.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 131,
+      "$inventory_policy": 2
     },
     {
       "$id": "7823035",
@@ -4363,10 +4363,10 @@
       ],
       "tags": [],
       "$price": 50.99,
-      "inventory_qty": 60,
-      "inventory_policy": 2,
       "price_text": "$50.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 60,
+      "$inventory_policy": 2
     },
     {
       "$id": "7954161",
@@ -4384,10 +4384,10 @@
       ],
       "tags": [],
       "$price": 29.99,
-      "inventory_qty": 71,
-      "inventory_policy": 2,
       "price_text": "$29.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 71,
+      "$inventory_policy": 2
     },
     {
       "$id": "420782",
@@ -4405,10 +4405,10 @@
       ],
       "tags": [],
       "$price": 19.69,
-      "inventory_qty": 124,
-      "inventory_policy": 2,
       "price_text": "$19.69",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 124,
+      "$inventory_policy": 2
     },
     {
       "$id": "251600",
@@ -4426,10 +4426,10 @@
       ],
       "tags": [],
       "$price": 83.09,
-      "inventory_qty": 54,
-      "inventory_policy": 2,
       "price_text": "$83.09",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 54,
+      "$inventory_policy": 2
     },
     {
       "$id": "618405",
@@ -4447,10 +4447,10 @@
       ],
       "tags": [],
       "$price": 18.79,
-      "inventory_qty": 138,
-      "inventory_policy": 2,
       "price_text": "$18.79",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 138,
+      "$inventory_policy": 2
     },
     {
       "$id": "108448",
@@ -4468,10 +4468,10 @@
       ],
       "tags": [],
       "$price": 94.99,
-      "inventory_qty": 33,
-      "inventory_policy": 2,
       "price_text": "$94.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 33,
+      "$inventory_policy": 2
     },
     {
       "$id": "849408",
@@ -4489,10 +4489,10 @@
       ],
       "tags": [],
       "$price": 84.89,
-      "inventory_qty": 146,
-      "inventory_policy": 2,
       "price_text": "$84.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 146,
+      "$inventory_policy": 2
     },
     {
       "$id": "677198",
@@ -4510,10 +4510,10 @@
       ],
       "tags": [],
       "$price": 21.49,
-      "inventory_qty": 147,
-      "inventory_policy": 2,
       "price_text": "$21.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 147,
+      "$inventory_policy": 2
     },
     {
       "$id": "5921492",
@@ -4531,10 +4531,10 @@
       ],
       "tags": [],
       "$price": 25.48,
-      "inventory_qty": 121,
-      "inventory_policy": 2,
       "price_text": "$25.48",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 121,
+      "$inventory_policy": 2
     },
     {
       "$id": "694170",
@@ -4552,10 +4552,10 @@
       ],
       "tags": [],
       "$price": 17.39,
-      "inventory_qty": 62,
-      "inventory_policy": 2,
       "price_text": "$17.39",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 62,
+      "$inventory_policy": 2
     },
     {
       "$id": "683707",
@@ -4573,10 +4573,10 @@
       ],
       "tags": [],
       "$price": 73.99,
-      "inventory_qty": 121,
-      "inventory_policy": 2,
       "price_text": "$73.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 121,
+      "$inventory_policy": 2
     },
     {
       "$id": "1385335",
@@ -4594,10 +4594,10 @@
       ],
       "tags": [],
       "$price": 81.29,
-      "inventory_qty": 104,
-      "inventory_policy": 2,
       "price_text": "$81.29",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 104,
+      "$inventory_policy": 2
     },
     {
       "$id": "251616",
@@ -4615,10 +4615,10 @@
       ],
       "tags": [],
       "$price": 69.99,
-      "inventory_qty": 48,
-      "inventory_policy": 2,
       "price_text": "$69.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 48,
+      "$inventory_policy": 2
     },
     {
       "$id": "3724818",
@@ -4636,10 +4636,10 @@
       ],
       "tags": [],
       "$price": 21.67,
-      "inventory_qty": 24,
-      "inventory_policy": 2,
       "price_text": "$21.67",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 24,
+      "$inventory_policy": 2
     },
     {
       "$id": "239992",
@@ -4657,10 +4657,10 @@
       ],
       "tags": [],
       "$price": 32.29,
-      "inventory_qty": 24,
-      "inventory_policy": 2,
       "price_text": "$32.29",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 24,
+      "$inventory_policy": 2
     },
     {
       "$id": "771718",
@@ -4678,10 +4678,10 @@
       ],
       "tags": [],
       "$price": 33.09,
-      "inventory_qty": 110,
-      "inventory_policy": 2,
       "price_text": "$33.09",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 110,
+      "$inventory_policy": 2
     },
     {
       "$id": "756620",
@@ -4699,10 +4699,10 @@
       ],
       "tags": [],
       "$price": 53.99,
-      "inventory_qty": 90,
-      "inventory_policy": 2,
       "price_text": "$53.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 90,
+      "$inventory_policy": 2
     },
     {
       "$id": "592812",
@@ -4720,10 +4720,10 @@
       ],
       "tags": [],
       "$price": 60.49,
-      "inventory_qty": 108,
-      "inventory_policy": 2,
       "price_text": "$60.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 108,
+      "$inventory_policy": 2
     },
     {
       "$id": "696386",
@@ -4741,10 +4741,10 @@
       ],
       "tags": [],
       "$price": 15.99,
-      "inventory_qty": 105,
-      "inventory_policy": 2,
       "price_text": "$15.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 105,
+      "$inventory_policy": 2
     },
     {
       "$id": "411809",
@@ -4762,10 +4762,10 @@
       ],
       "tags": [],
       "$price": 44.09,
-      "inventory_qty": 119,
-      "inventory_policy": 2,
       "price_text": "$44.09",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 119,
+      "$inventory_policy": 2
     },
     {
       "$id": "4578903",
@@ -4783,10 +4783,10 @@
       ],
       "tags": [],
       "$price": 21.99,
-      "inventory_qty": 13,
-      "inventory_policy": 2,
       "price_text": "$21.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 13,
+      "$inventory_policy": 2
     },
     {
       "$id": "693850",
@@ -4804,10 +4804,10 @@
       ],
       "tags": [],
       "$price": 38.89,
-      "inventory_qty": 25,
-      "inventory_policy": 2,
       "price_text": "$38.89",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 25,
+      "$inventory_policy": 2
     },
     {
       "$id": "415155",
@@ -4825,10 +4825,10 @@
       ],
       "tags": [],
       "$price": 38.49,
-      "inventory_qty": 15,
-      "inventory_policy": 2,
       "price_text": "$38.49",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 15,
+      "$inventory_policy": 2
     },
     {
       "$id": "winther-turtle-kiddy-bus-and-stroller-6-seats",
@@ -4846,10 +4846,10 @@
       ],
       "tags": [],
       "$price": 2343.99,
-      "inventory_qty": 103,
-      "inventory_policy": 2,
       "price_text": "$2,343.99",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 103,
+      "$inventory_policy": 2
     },
     {
       "$id": "cottonelle-professional-standard-roll-toilet-paper",
@@ -4867,10 +4867,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 86,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 86,
+      "$inventory_policy": 2
     },
     {
       "$id": "angel-soft-professional-series-by-gp-pro-premium",
@@ -4888,10 +4888,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 27,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 27,
+      "$inventory_policy": 2
     },
     {
       "$id": "charmin-essentials-2-ply-soft-mega-toilet-paper",
@@ -4909,10 +4909,10 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 63,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 63,
+      "$inventory_policy": 2
     },
     {
       "$id": "taylor-7029-lithium-digital-scale-330-lb",
@@ -4930,9 +4930,9 @@
       ],
       "tags": [],
       "$price": null,
-      "inventory_qty": 49,
-      "inventory_policy": 2,
       "price_text": "",
-      "published": true
+      "published": true,
+      "$inventory_quantity": 49,
+      "$inventory_policy": 2
     }
   ]
